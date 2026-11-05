@@ -1,0 +1,1641 @@
+[
+  {
+    "title": "이번 확장에 사용한 자료",
+    "items": [
+      {
+        "id": "ref-559b20a37e52",
+        "label": "한국닌텐도 · 공식 명칭·기능",
+        "url": "https://www.nintendo.com/kr/games/switch2/aacsa/gamesystem/index.html",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "ref-b8e610363283",
+        "label": "Nintendo DREAM · 인과와 3부 합류",
+        "url": "https://www.ndw.jp/few-guide-ingaritu/",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "ref-28febba04e44",
+        "label": "Game8 · 44명 미래 외형 / 외형 불변 목록",
+        "url": "https://game8.jp/fe-banshisenko/817155",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "ref-941b0efc01b1",
+        "label": "Game8 · 3부 1구간",
+        "url": "https://game8.jp/fe-banshisenko/817161",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "ref-62ef1e61b133",
+        "label": "Game8 · 3부 2구간·특수 기능 조건",
+        "url": "https://game8.jp/fe-banshisenko/817197",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "ref-3606ccfdeb1a",
+        "label": "AppMedia · 3부 전체 차트",
+        "url": "https://appmedia.jp/fe_banshisenkou/80417176",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "ref-1220edfa6385",
+        "label": "AppMedia · 역할별 편성 비교",
+        "url": "https://appmedia.jp/fe_banshisenkou/80380942",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "ref-5ae4bbf1245b",
+        "label": "GameCap · 3부 직업·역할 대안",
+        "url": "https://gamecap.jp/fe_fw/osusume_3bu.html",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "ref-214398d75d3e",
+        "label": "GameWith · 캐릭터 명단·성장률 대조",
+        "url": "https://gamewith.jp/fefw/573109",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "ref-eb3c4430585e",
+        "label": "Game8 · 재배",
+        "url": "https://game8.jp/fe-banshisenko/816933",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "ref-42adb647d08c",
+        "label": "Game8 · 포획·탑승 후보",
+        "url": "https://game8.jp/fe-banshisenko/816904",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "ref-151c1ffd8c21",
+        "label": "Game8 · 칼날 울림",
+        "url": "https://game8.jp/fe-banshisenko/817151",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "ref-3521d2794f74",
+        "label": "Game8 · 공연",
+        "url": "https://game8.jp/fe-banshisenko/816915",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "ref-f8d6ba56c92e",
+        "label": "안나의 수첩 · 1부/3부 군단병 운용",
+        "url": "https://annasnotebook.net/ja/mechanics/battalions/",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "ref-2475ba6014cf",
+        "label": "국내 실제 플레이 · 스카우트 표기 참고",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=game_nintendo&no=3580294",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "ref-5c7a7cae6d6a",
+        "label": "국내 실제 플레이 · 3부 스테이터스 자료",
+        "url": "https://hysleeper.tistory.com/960",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      }
+    ]
+  },
+  {
+    "title": "63인 개별 원문 — 병종·조건·종합 등급",
+    "items": [
+      {
+        "id": "game8-816414",
+        "label": "카이 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816414",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816415",
+        "label": "디트리히 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816415",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816416",
+        "label": "세오도라 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816416",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816417",
+        "label": "레다 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816417",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816429",
+        "label": "시로코 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816429",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816422",
+        "label": "에스메랄다 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816422",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816440",
+        "label": "그자람 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816440",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816442",
+        "label": "카타냐 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816442",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816448",
+        "label": "소피아 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816448",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816419",
+        "label": "피터르 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816419",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816426",
+        "label": "릴리안 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816426",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816430",
+        "label": "올림피아 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816430",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816451",
+        "label": "로레타 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816451",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816453",
+        "label": "골라이어스 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816453",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816462",
+        "label": "누조 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816462",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816421",
+        "label": "파비오 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816421",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816431",
+        "label": "무우 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816431",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816437",
+        "label": "리네 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816437",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816439",
+        "label": "나타 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816439",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816463",
+        "label": "이니오니 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816463",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816420",
+        "label": "울턴드 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816420",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816424",
+        "label": "보나파르트 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816424",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816447",
+        "label": "녹투라 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816447",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816460",
+        "label": "키로이카 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816460",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816418",
+        "label": "티아라 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816418",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816425",
+        "label": "토비아스 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816425",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816427",
+        "label": "라이선더 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816427",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816435",
+        "label": "시몬 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816435",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816436",
+        "label": "디에고 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816436",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816444",
+        "label": "밴디츠 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816444",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816445",
+        "label": "알렉산드라 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816445",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816446",
+        "label": "양계 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816446",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816457",
+        "label": "하르빈 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816457",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816423",
+        "label": "미카엘라 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816423",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816428",
+        "label": "버커니어 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816428",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816432",
+        "label": "게이츠 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816432",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816433",
+        "label": "단테 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816433",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816434",
+        "label": "우술라 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816434",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816438",
+        "label": "사란 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816438",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816449",
+        "label": "페페 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816449",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816452",
+        "label": "제스터 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816452",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816454",
+        "label": "루루디아 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816454",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816456",
+        "label": "피아나 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816456",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816461",
+        "label": "자스민 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816461",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816443",
+        "label": "누디누 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816443",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816458",
+        "label": "자코네 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816458",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816450",
+        "label": "세테스 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816450",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816455",
+        "label": "대도 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816455",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816459",
+        "label": "마지데 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816459",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816441",
+        "label": "이오 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816441",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816479",
+        "label": "이스마르 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816479",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816884",
+        "label": "오르헬 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816884",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816882",
+        "label": "베르트랑 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816882",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816885",
+        "label": "아나톨리아 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816885",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816910",
+        "label": "키릭 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816910",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816478",
+        "label": "트로이아 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816478",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816883",
+        "label": "타리문 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816883",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816477",
+        "label": "홍화 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816477",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816877",
+        "label": "센트리온 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816877",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816902",
+        "label": "아스완 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816902",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816909",
+        "label": "네이선 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816909",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-817240",
+        "label": "클라프카 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/817240",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-816903",
+        "label": "타호니아 · 개별 원문",
+        "url": "https://game8.jp/fe-banshisenko/816903",
+        "lastChecked": "2026-11-05",
+        "status": "확인 범위는 본문 참조"
+      }
+    ]
+  },
+  {
+    "title": "원본 HTML에 수록된 참고 링크 — 재검증 범위와 구별",
+    "items": [
+      {
+        "id": "ref-405aeea63438",
+        "label": "알테마 무기 공략",
+        "url": "https://altema.jp/febansisenkou/saikyobuki",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-4aa807ecb538",
+        "label": "AppMedia — 추천 직업",
+        "url": "https://appmedia.jp/fe_banshisenkou/80380939",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-3bbfd96e1863",
+        "label": "AppMedia 역할별 평가",
+        "url": "https://appmedia.jp/fe_banshisenkou/80380957",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-f51cb2eeda83",
+        "label": "AppMedia — 동물 포획",
+        "url": "https://appmedia.jp/fe_banshisenkou/80410900",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-e408e4210f44",
+        "label": "AppMedia 무기 목록",
+        "url": "https://appmedia.jp/fe_banshisenkou/80411827",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-6a184fb4972b",
+        "label": "한국어·일본어 이름 대조",
+        "url": "https://bubae.github.io/fe-fortunes-weave-guide/characters.html",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-6f74a4fb3350",
+        "label": "명단·합류 데이터",
+        "url": "https://game8.jp/fe-banshisenko/816377",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-e21eb332df9a",
+        "label": "Game8 — 전직 조건",
+        "url": "https://game8.jp/fe-banshisenko/816408",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-232c52cc980f",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816414",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-0ece2666507e",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816415",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-487db1823114",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816416",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-14226fafe46f",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816417",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-c73c3b9d64e0",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816418",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-4abb8d5b70b6",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816419",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-f0339bf41b73",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816420",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-1a77a66c5744",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816421",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-5ff927ce0bd5",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816422",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-e4b8dbfce293",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816423",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-bd71f251bcc1",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816424",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-d6ebc6238bd7",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816425",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-c6e3187ff79c",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816426",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-bd9f5e6e684b",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816427",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-586babebe0ce",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816428",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-67dfec7a52ab",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816429",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-f93a1898d546",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816430",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-57fd990cf9fb",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816431",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-10ded8cbe744",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816432",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-de9f79a0d7da",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816433",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-4f10f1e4bd03",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816434",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-84d7dff405a9",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816435",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-a77ac8c383be",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816436",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-81d19abd7c93",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816437",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-ab4009bff947",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816438",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-e98a5ed9284e",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816439",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-0da28ff0a333",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816440",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-8873a93d3d18",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816441",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-6d9f2a251d57",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816442",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-10bd86277f60",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816443",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-cf4ce9663998",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816444",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-543bf21a96d6",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816445",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-ae4a97c84fa2",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816446",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-5f81280c7295",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816447",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-c260f5da1606",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816448",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-8d3ddee49234",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816449",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-0c8d8c241591",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816450",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-b1c6972114e6",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816451",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-e9616f3a3204",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816452",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-e91dd9440f95",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816453",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-e30a20ef9b73",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816454",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-e9ec212e9159",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816455",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-08f4e93cd8d3",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816456",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-1a108ad82e0e",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816457",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-c6ec03a1bc5a",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816458",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-b4c55830771c",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816459",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-6acd41aa16c5",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816460",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-90ac1e7f2a1e",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816461",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-5008e609957c",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816462",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-3723fc9890e2",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816463",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-b9b0c96380df",
+        "label": "Game8 — 추천 전직 경로",
+        "url": "https://game8.jp/fe-banshisenko/816464",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-a9cc0e4760d8",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816477",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-8f709ae788fa",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816478",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-7ed078e69cac",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816479",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-e67585879ef5",
+        "label": "Game8 — 캐릭터 평가",
+        "url": "https://game8.jp/fe-banshisenko/816563",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-d88f622105da",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816645",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-12ab4de6b86d",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816647",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-fda9ec64395e",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816648",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-58a31d756788",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816649",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-771e638c7f87",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816650",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-7d5bd3cd6165",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816651",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-fdb5fe4a9f1f",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816652",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-c0f673281578",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816653",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-c9f8cec2c30b",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816654",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-0dea8bf7a332",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816655",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-f14d48c4e044",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816656",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-8be1a1edcb89",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816657",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-ad23d6c1a0c2",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816658",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-a615e06271f1",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816659",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-1fa9861cf735",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816660",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-01fc1fe72ae8",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816661",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-376b8e813b2e",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816662",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-8d4e88e05f0b",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816663",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-3242505d9229",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816664",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-540099e04b2b",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816665",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-d7ab6d88f671",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816666",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-8d4885b9725b",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816667",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-7e53754fce6b",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816668",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-91bd91cab08e",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816669",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-c4c061f0a458",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816670",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-ef309696f4c7",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816710",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-54bba555a931",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816714",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-9a25223ee88d",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816716",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-ed90c3955011",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816717",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-d9a71c7a506b",
+        "label": "Game8 — 카이편 공략",
+        "url": "https://game8.jp/fe-banshisenko/816789",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-f06b36223a4c",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816858",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-5f29770b7341",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816860",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-d76b69fb0d12",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816861",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-3e9fa7d65053",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816877",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-49979b1d531c",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816882",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-81b988620848",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816883",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-08325d54cbbf",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816884",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-f1aa8bd1e07f",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816885",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-91252504044a",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816902",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-6090f38686d2",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816903",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-42adb647d08c",
+        "label": "Game8 — 동물 포획",
+        "url": "https://game8.jp/fe-banshisenko/816904",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-12d8beea9b2d",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816909",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-9035ee6191fd",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816910",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-eb3c4430585e",
+        "label": "Game8 — 재배",
+        "url": "https://game8.jp/fe-banshisenko/816933",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-576e19127f9a",
+        "label": "직업 조건 ↗",
+        "url": "https://game8.jp/fe-banshisenko/816950",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-98de834764f1",
+        "label": "피레스기쿠",
+        "url": "https://game8.jp/fe-banshisenko/817017",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-fcec86a51e34",
+        "label": "Game8 — 추천 편성",
+        "url": "https://game8.jp/fe-banshisenko/817236",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-1a67637da8d4",
+        "label": "인물·육성 근거 ↗",
+        "url": "https://game8.jp/fe-banshisenko/817240",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-f3697c48c7d8",
+        "label": "Game8 — 메가니우스",
+        "url": "https://game8.jp/fe-banshisenko/817431",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-633e9e5f51a0",
+        "label": "Game8 무기 목록",
+        "url": "https://game8.jp/fe-banshisenko/817514",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-d853984edf95",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819457",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-68e900c1f538",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819461",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-c1cf32fcb522",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819462",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-7a07ce3a5d0c",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819463",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-263a6e8b4f68",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819465",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-aa3b4a7c4106",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819471",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-9359688eea4b",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819474",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-c767ee52d217",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819475",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-0357bb6d1de0",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819476",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-efd576e8a629",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819478",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-bb4731318246",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819487",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-93432f5410ba",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819489",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-8f2412f4a05d",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819490",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-f940861dcd53",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819492",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-5ddf25ea2201",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819494",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-69b559562d86",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819500",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-c665252c8403",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819505",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-f6389b8ae343",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819507",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-7132638b831c",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819509",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-532a5348390a",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819511",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-77a09ec1ef59",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819512",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-f040039be38a",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819513",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-8feaa3d15010",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819515",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-fd6fc3034884",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819520",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-01d1dee4a9f4",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819521",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-7e11172ff0dc",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819522",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-352241b649e4",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819523",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-ea9bc13665c7",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819524",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-297dfd498a19",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819526",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-da3de83c2ce7",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819528",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-ecf2779be360",
+        "label": "무기 원문 ↗",
+        "url": "https://game8.jp/fe-banshisenko/819533",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-194c9f533c08",
+        "label": "GameWith 최강 캐릭터 평가",
+        "url": "https://gamewith.jp/fefw/575250",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-5c504133d81a",
+        "label": "GameWith — 추천 파티",
+        "url": "https://gamewith.jp/fefw/575647",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-831d848322c6",
+        "label": "GameWith — 카이편 공략",
+        "url": "https://gamewith.jp/fefw/577329",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-106b51e5f39a",
+        "label": "GameWith — 유인·먹이",
+        "url": "https://gamewith.jp/fefw/577539",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-08ba68fc570f",
+        "label": "GameWith — 채소 도감",
+        "url": "https://gamewith.jp/fefw/578169",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-343da8c7217c",
+        "label": "GameWith — 고기 도감",
+        "url": "https://gamewith.jp/fefw/578193",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-3261996fdb9e",
+        "label": "GameWith — 메가니우스",
+        "url": "https://gamewith.jp/fefw/578286",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-4d0b837b9fc9",
+        "label": "우사모스",
+        "url": "https://gamewith.jp/fefw/578707",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      },
+      {
+        "id": "ref-2a0500d5b1c2",
+        "label": "일본어 식재료 도감",
+        "url": "https://www.fire-emblem.fun/?pid=1970",
+        "lastChecked": null,
+        "status": "원본 참고 링크 · 재검증 미완료"
+      }
+    ]
+  }
+]
