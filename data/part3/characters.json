@@ -211,8 +211,8 @@
     "role": "물리 공격",
     "core": true,
     "sourceRank": "S",
-    "portrait": null,
-    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part1/ecac3046dcad4df5a500.webp",
+    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "선제 공격과 근접 화력을 맡기는 후보. 공격 후 후위가 노출되지 않도록 다른 전위와 함께 움직인다.",
     "jobs": [
       {
@@ -234,8 +234,10 @@
     "sources": [
       "game8-816440"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13012125/f02f8b372ab35951642607cfb51f83b3.webp/show"
   },
   {
     "part": 3,
@@ -483,8 +485,8 @@
     "role": "원거리 공격",
     "core": true,
     "sourceRank": "A",
-    "portrait": null,
-    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part1/372930b3272f81fd86c7.webp",
+    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "3부 초기 구성의 부족한 궁병 역할을 보완하는 후보. 원문 육성표에는 검 경유 경로도 있으므로 최종 활 역할과 중간 직업을 혼동하지 않는다.",
     "jobs": [
       {
@@ -506,8 +508,10 @@
     "sources": [
       "game8-816462"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13012136/81346e7c6c7f65e57866bb8bb07d7e05.webp/show"
   },
   {
     "part": 3,
@@ -517,8 +521,8 @@
     "role": "마법 공격 후보",
     "core": false,
     "sourceRank": "S",
-    "portrait": null,
-    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part1/a7e29509390a833c7e24.webp",
+    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "아래는 최신 개별 공략이 제안한 병종을 기준으로 한 운용 후보입니다. 3부만을 대상으로 한 사이트 간 등급 합의는 확인하지 못했습니다.",
     "jobs": [
       {
@@ -540,8 +544,10 @@
     "sources": [
       "game8-816421"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13012141/4a1b77a39d91050b4ec04aace350f10d.webp/show"
   },
   {
     "part": 3,
@@ -579,8 +585,8 @@
     "role": "회복·보조 후보",
     "core": false,
     "sourceRank": "S",
-    "portrait": null,
-    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part1/9f8dc944d1578887589e.webp",
+    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "아래는 최신 개별 공략이 제안한 병종을 기준으로 한 운용 후보입니다. 3부만을 대상으로 한 사이트 간 등급 합의는 확인하지 못했습니다.",
     "jobs": [
       {
@@ -602,8 +608,10 @@
     "sources": [
       "game8-816437"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13012149/be5278547f99311d89b5fec41784a024.webp/show"
   },
   {
     "part": 3,
@@ -783,8 +791,8 @@
     "role": "원거리 공격 후보",
     "core": false,
     "sourceRank": "A",
-    "portrait": null,
-    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part1/0def0cfdd57a0b7a67ea.webp",
+    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "아래는 최신 개별 공략이 제안한 병종을 기준으로 한 운용 후보입니다. 3부만을 대상으로 한 사이트 간 등급 합의는 확인하지 못했습니다.",
     "jobs": [
       {
@@ -806,8 +814,10 @@
     "sources": [
       "game8-816460"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13012170/f72394de61f3c304c96ce0cfb38c5618.webp/show"
   },
   {
     "part": 3,
@@ -987,8 +997,8 @@
     "role": "원거리 공격 후보",
     "core": false,
     "sourceRank": "A",
-    "portrait": null,
-    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part1/1686d07682ac77a07d76.webp",
+    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "아래는 최신 개별 공략이 제안한 병종을 기준으로 한 운용 후보입니다. 3부만을 대상으로 한 사이트 간 등급 합의는 확인하지 못했습니다.",
     "jobs": [
       {
@@ -1010,8 +1020,10 @@
     "sources": [
       "game8-816444"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13012175/08db6ebf538537601ffcf2587209c544.webp/show"
   },
   {
     "part": 3,
@@ -1055,8 +1067,8 @@
     "role": "회복·보조 후보",
     "core": false,
     "sourceRank": "A",
-    "portrait": null,
-    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part1/5e7df94a608eb5fef5ef.webp",
+    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "아래는 최신 개별 공략이 제안한 병종을 기준으로 한 운용 후보입니다. 3부만을 대상으로 한 사이트 간 등급 합의는 확인하지 못했습니다.",
     "jobs": [
       {
@@ -1078,8 +1090,10 @@
     "sources": [
       "game8-816446"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13012164/a95e106e3825c9981ce016b7abee6488.webp/show"
   },
   {
     "part": 3,
@@ -1463,8 +1477,8 @@
     "role": "전위 방어 후보",
     "core": false,
     "sourceRank": "C",
-    "portrait": null,
-    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part1/d70b829fabfc6cf3af0c.webp",
+    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "아래는 최신 개별 공략이 제안한 병종을 기준으로 한 운용 후보입니다. 3부만을 대상으로 한 사이트 간 등급 합의는 확인하지 못했습니다.",
     "jobs": [
       {
@@ -1486,8 +1500,10 @@
     "sources": [
       "game8-816461"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13012163/cae511a3c3c2f5ec97f8ad9329e3688c.webp/show"
   },
   {
     "part": 3,
@@ -1531,8 +1547,8 @@
     "role": "물리 공격 후보",
     "core": false,
     "sourceRank": "A",
-    "portrait": null,
-    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part1/0e7139bc32366db499e0.webp",
+    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "아래는 최신 개별 공략이 제안한 병종을 기준으로 한 운용 후보입니다. 3부만을 대상으로 한 사이트 간 등급 합의는 확인하지 못했습니다.",
     "jobs": [
       {
@@ -1554,8 +1570,10 @@
     "sources": [
       "game8-816458"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13012169/9576562cd718ea02b5bb80f49062618d.webp/show"
   },
   {
     "part": 3,
@@ -1633,8 +1651,8 @@
     "role": "물리 공격 후보",
     "core": false,
     "sourceRank": "C",
-    "portrait": null,
-    "identityStatus": "한국판 공식 표기 미확인 · 원본명 유지 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part1/039cd6db8c3218ea809b.webp",
+    "identityStatus": "한국판 공식 표기 미확인 · 원본명 유지 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "아래는 최신 개별 공략이 제안한 병종을 기준으로 한 운용 후보입니다. 3부만을 대상으로 한 사이트 간 등급 합의는 확인하지 못했습니다.",
     "jobs": [
       {
@@ -1656,8 +1674,10 @@
     "sources": [
       "game8-816459"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13012177/45640f074789b0b0189683659981b749.webp/show"
   },
   {
     "part": 3,
@@ -1701,8 +1721,8 @@
     "role": "구세주·가호 대응",
     "core": true,
     "sourceRank": "SS",
-    "portrait": null,
-    "identityStatus": "구세주 기본명·한국판 표기 미확인 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part3/unchanged-816479.webp",
+    "identityStatus": "구세주 기본명·한국판 표기 미확인 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "서막과 3부의 주인공. 사용자 지정 이름·성별이 가능하므로 특정 이름이 보유 명단에 없다고 미영입으로 판단하지 않는다.",
     "jobs": [
       {
@@ -1724,8 +1744,10 @@
     "sources": [
       "game8-816479"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13012151/96813757034e42e03465e3f7f5ae0bf3.webp/show"
   },
   {
     "part": 3,
@@ -1837,8 +1859,8 @@
     "role": "기동 전위 후보",
     "core": false,
     "sourceRank": "A",
-    "portrait": null,
-    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part3/unchanged-816910.webp",
+    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "아래는 최신 개별 공략이 제안한 병종을 기준으로 한 운용 후보입니다. 3부만을 대상으로 한 사이트 간 등급 합의는 확인하지 못했습니다.",
     "jobs": [
       {
@@ -1860,8 +1882,10 @@
     "sources": [
       "game8-816910"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13016888/ec091f6050f9301a4ce551a0e204b9b8.webp/show"
   },
   {
     "part": 3,
@@ -1871,8 +1895,8 @@
     "role": "격투·보조",
     "core": true,
     "sourceRank": "B",
-    "portrait": null,
-    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part3/unchanged-816478.webp",
+    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "초기 3인 구성원. 원문은 배틀 몽크 경로를 추천하므로 이름만 보고 검사·회피 전용직으로 확정하지 않는다.",
     "jobs": [
       {
@@ -1894,8 +1918,10 @@
     "sources": [
       "game8-816478"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13012156/d56c0e1327e460b92c5d112464dc99be.webp/show"
   },
   {
     "part": 3,
@@ -1939,8 +1965,8 @@
     "role": "마법 공격",
     "core": true,
     "sourceRank": "B",
-    "portrait": null,
-    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part3/unchanged-816477.webp",
+    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "일본어 「コウカ」에 해당하는 이름은 첨부 한국어 화면에서 홍화로 확인했다. 별도 인물 ‘코우카’를 추가하지 않는다.",
     "jobs": [
       {
@@ -1962,8 +1988,10 @@
     "sources": [
       "game8-816477"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13012131/4cbfb8b455a7001d2a302b80fe24185f.webp/show"
   },
   {
     "part": 3,
@@ -1973,8 +2001,8 @@
     "role": "전위 방어 후보",
     "core": false,
     "sourceRank": "B",
-    "portrait": null,
-    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part3/unchanged-816877.webp",
+    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "아래는 최신 개별 공략이 제안한 병종을 기준으로 한 운용 후보입니다. 3부만을 대상으로 한 사이트 간 등급 합의는 확인하지 못했습니다.",
     "jobs": [
       {
@@ -1996,8 +2024,10 @@
     "sources": [
       "game8-816877"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13012147/8827c8d2c2f48d750490216780264d44.webp/show"
   },
   {
     "part": 3,
@@ -2007,8 +2037,8 @@
     "role": "원거리 공격 후보",
     "core": false,
     "sourceRank": "C",
-    "portrait": null,
-    "identityStatus": "한국판 공식 표기 미확인 · 원본명 유지 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part3/unchanged-816902.webp",
+    "identityStatus": "한국판 공식 표기 미확인 · 원본명 유지 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "아래는 최신 개별 공략이 제안한 병종을 기준으로 한 운용 후보입니다. 3부만을 대상으로 한 사이트 간 등급 합의는 확인하지 못했습니다.",
     "jobs": [
       {
@@ -2030,8 +2060,10 @@
     "sources": [
       "game8-816902"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13017452/9321cab9c4db01e9468fd41d1751cdbe.webp/show"
   },
   {
     "part": 3,
@@ -2041,8 +2073,8 @@
     "role": "전위·중갑 대안",
     "core": true,
     "sourceRank": "C",
-    "portrait": null,
-    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part3/unchanged-816909.webp",
+    "identityStatus": "한국판 화면 확인 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "중갑 방어형과 중갑 기병형 추천이 공존한다. 이번 개별 공략의 경로는 그레이트 나이트 방향이며 포트리스는 다른 목적의 대안이다.",
     "jobs": [
       {
@@ -2064,8 +2096,10 @@
     "sources": [
       "game8-816909"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13017712/7884c13c0d293c633c4bac196d79c287.webp/show"
   },
   {
     "part": 3,
@@ -2103,8 +2137,8 @@
     "role": "물리 공격 후보",
     "core": false,
     "sourceRank": "D",
-    "portrait": null,
-    "identityStatus": "한국판 공식 표기 미확인 · 원본명 유지 · 외형 불변 목록 · 1부 이미지 재사용 안 함",
+    "portrait": "assets/part3/unchanged-816903.webp",
+    "identityStatus": "한국판 공식 표기 미확인 · 원본명 유지 · 외형 불변 목록 · 외형 동일 · 기본 초상화 사용",
     "evaluation": "아래는 최신 개별 공략이 제안한 병종을 기준으로 한 운용 후보입니다. 3부만을 대상으로 한 사이트 간 등급 합의는 확인하지 못했습니다.",
     "jobs": [
       {
@@ -2120,7 +2154,9 @@
     "sources": [
       "game8-816903"
     ],
-    "updatedAt": "2026-11-05",
-    "observations": []
+    "updatedAt": "2026-11-06",
+    "observations": [],
+    "portraitKind": "unchanged",
+    "portraitSource": "https://img.game8.jp/13017454/2abd720babbafe1d265766bfdaadd1dc.webp/show"
   }
 ]

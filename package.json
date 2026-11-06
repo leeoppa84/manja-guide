@@ -1,6 +1,6 @@
 {
   "name": "manja-guide",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "private": true,
   "type": "module",
   "scripts": {
@@ -8,5 +8,7 @@
     "check": "node scripts/build.mjs",
     "preview": "node scripts/serve.mjs"
   },
-  "engines": { "node": ">=22" }
+  "engines": {
+    "node": ">=22"
+  }
 }
