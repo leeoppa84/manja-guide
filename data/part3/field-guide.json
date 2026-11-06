@@ -9,13 +9,13 @@
       "family": "말 계열",
       "icon": "assets/field/13027475.webp",
       "food": "쓴맛 채소",
-      "foodExample": "잔게(ザンゲ)·이치노미(イチノミ)",
+      "foodExample": "잔게(ザンゲ)·하나 열매(イチノミ)",
       "locations": [
         "ダイモス台地",
         "砂の抜け道"
       ],
       "role": "말 계열 주력의 속도·기동 보완. 재이동을 원하면 해당 스킬이 있는 개체를 고릅니다.",
-      "acquire": "잔게는 ゴーラ草原帯·ドラグデン峠 등의 탐색, 복구한 아기뇨 시장이 확보 후보입니다."
+      "acquire": "잔게는 고라 초원 지대·드래그덴 고개 등의 탐색, 복구한 아기뇨 시장이 확보 후보입니다."
     },
     {
       "id": "red-bau",
@@ -24,7 +24,7 @@
       "family": "비룡 계열",
       "icon": "assets/field/13027715.webp",
       "food": "매운맛 고기",
-      "foodExample": "늑대고기(オオカミ肉)",
+      "foodExample": "늑대 고기(オオカミ肉)",
       "locations": [
         "ヤシロ砦"
       ],
@@ -38,13 +38,13 @@
       "family": "비룡 계열",
       "icon": "assets/field/13027715.webp",
       "food": "쓴맛 고기",
-      "foodExample": "비행 도마뱀 고기(飛蜥蜴肉)·거대한 고깃덩이(巨大肉)",
+      "foodExample": "날도마뱀 고기(飛蜥蜴肉)·거대고기(巨大肉)",
       "locations": [
         "戦士の道",
         "シデムの谷"
       ],
       "role": "비행 물리 공격수의 속도 보완과 특효 대응. 재이동 보유를 전제로 세팅하지 않습니다.",
-      "acquire": "비행 도마뱀 고기는 フライウィーグル 드롭, 거대한 고깃덩이는 상인·알렉토 교환·고급 고기 상자 경로를 비교합니다. 야크 고기의 1부 의뢰를 3부 반복 수급처로 계산하지 않습니다."
+      "acquire": "날도마뱀 고기는 フライウィーグル 드롭, 거대고기는 상인·알렉토 교환·고급 고기 상자 경로를 비교합니다. 야크 고기의 1부 의뢰를 3부 반복 수급처로 계산하지 않습니다."
     },
     {
       "id": "red-falcon",
@@ -53,7 +53,7 @@
       "family": "천마 계열",
       "icon": "assets/field/13027716.webp",
       "food": "매운맛 채소",
-      "foodExample": "샤쿠토우(シャクトウ)",
+      "foodExample": "샥투(シャクトウ)",
       "locations": [
         "風止まずの浜"
       ],
@@ -160,9 +160,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-1",
-      "label": "메시리나 대농원",
+      "label": "메실리나 대농원",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "アギーニョ村",
@@ -180,7 +181,8 @@
       "id": "restore-2",
       "label": "아기뇨 마을",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "オシリスの村",
@@ -196,9 +198,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-3",
-      "label": "オシリスの村",
+      "label": "오시리스 마을",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "カリアネイラの港",
@@ -218,9 +221,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-4",
-      "label": "カリアネイラの港",
+      "label": "칼리아네이라 항구",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "デモニクの村",
@@ -236,9 +240,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-5",
-      "label": "デモニクの村",
+      "label": "데모닉 마을",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "パンドラの港町",
@@ -254,9 +259,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-6",
-      "label": "パンドラの港町",
+      "label": "판도라 항구 도시",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "トバリンの村",
@@ -272,9 +278,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-7",
-      "label": "トバリンの村",
+      "label": "트발린 마을",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "ザスタの集落",
@@ -290,9 +297,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-8",
-      "label": "ザスタの集落",
+      "label": "자스타 촌락",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "ライオーの港",
@@ -312,9 +320,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-9",
-      "label": "ライオーの港",
+      "label": "라이 오 항구",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "pending"
     },
     {
       "place": "バイナのオアシス",
@@ -330,9 +339,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-10",
-      "label": "バイナのオアシス",
+      "label": "바이너의 오아시스",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "player-record"
     },
     {
       "place": "バスク宿場町",
@@ -348,9 +358,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-11",
-      "label": "バスク宿場町",
+      "label": "바스크 여관 거리",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "ヤーマン村",
@@ -362,9 +373,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-12",
-      "label": "ヤーマン村",
+      "label": "야먼 마을",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "オレンスの町",
@@ -380,9 +392,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-13",
-      "label": "オレンスの町",
+      "label": "올렌스 도시",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "キラの村",
@@ -398,9 +411,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-14",
-      "label": "キラの村",
+      "label": "키라 마을",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "ジーマの港",
@@ -416,9 +430,10 @@
       ],
       "crossCheck": "not-listed",
       "id": "restore-15",
-      "label": "ジーマの港",
+      "label": "지마 항구",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "ウィリー村",
@@ -434,9 +449,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-16",
-      "label": "ウィリー村",
+      "label": "윌리 마을",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "ベネトナシュの村",
@@ -448,9 +464,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-17",
-      "label": "ベネトナシュの村",
+      "label": "베네트나시 마을",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "ニーザの港",
@@ -466,9 +483,10 @@
       ],
       "crossCheck": "not-listed",
       "id": "restore-18",
-      "label": "ニーザの港",
+      "label": "니자 항구",
       "kind": "site",
-      "note": "다른 자료에는 ニーザの門으로 수록됩니다. 필요 재료는 같지만 장소명은 지도와 대조하세요."
+      "note": "다른 자료에는 ニーザの門으로 수록됩니다. 필요 재료는 같지만 장소명은 지도와 대조하세요.",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "ボンバエの隠れ里",
@@ -480,9 +498,10 @@
       ],
       "crossCheck": "not-listed",
       "id": "restore-19",
-      "label": "ボンバエの隠れ里",
+      "label": "봄바에 외딴 마을",
       "kind": "site",
-      "note": "단일 기본 목록에 수록된 항목입니다. 방문 전 게임의 복구 요구량을 확인하세요."
+      "note": "단일 기본 목록에 수록된 항목입니다. 방문 전 게임의 복구 요구량을 확인하세요.",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "黒煙の谷ダミナ",
@@ -494,9 +513,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-20",
-      "label": "黒煙の谷ダミナ",
+      "label": "흑연의 계곡 다 미나",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "王都ブレストン",
@@ -516,9 +536,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-21",
-      "label": "王都ブレストン",
+      "label": "왕도 브레스턴",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "海都アレクトー",
@@ -538,9 +559,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-22",
-      "label": "海都アレクトー",
+      "label": "해양 도시 알렉토",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "マオン城郭",
@@ -560,9 +582,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-23",
-      "label": "マオン城郭",
+      "label": "마온 성곽",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "城塞都市モンス",
@@ -582,9 +605,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-24",
-      "label": "城塞都市モンス",
+      "label": "성채 도시 몽스",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "フィーナの漁村",
@@ -604,9 +628,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-25",
-      "label": "フィーナの漁村",
+      "label": "피나 어촌",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "王都グランアラゴン",
@@ -626,9 +651,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-26",
-      "label": "王都グランアラゴン",
+      "label": "왕도 그랑 아라곤",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "player-record"
     },
     {
       "place": "王都メガエラ",
@@ -648,9 +674,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-27",
-      "label": "王都メガエラ",
+      "label": "왕도 메가에라",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "player-record"
     },
     {
       "place": "フォトナ神殿本殿",
@@ -662,9 +689,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-28",
-      "label": "포토나 신전",
+      "label": "포트나 신전 본전",
       "kind": "temple",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "カーラ神殿本殿",
@@ -676,9 +704,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-29",
-      "label": "카라 신전",
+      "label": "칼라 신전 본전",
       "kind": "temple",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "クレール神殿本殿",
@@ -690,9 +719,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-30",
-      "label": "클레르 신전",
+      "label": "크레르 신전 본전",
       "kind": "temple",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "スミルノス神殿本殿",
@@ -704,9 +734,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-31",
-      "label": "스밀노스 신전",
+      "label": "스미르노스 신전 본전",
       "kind": "temple",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "マーズ神殿本殿",
@@ -718,9 +749,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-32",
-      "label": "마즈 신전",
+      "label": "마스 신전 본전",
       "kind": "temple",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "ジュラ神殿本殿",
@@ -732,9 +764,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-33",
-      "label": "주라 신전",
+      "label": "주라 신전 본전",
       "kind": "temple",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "アウロラ神殿本殿",
@@ -746,9 +779,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-34",
-      "label": "아우로라 신전",
+      "label": "아우로라 신전 본전",
       "kind": "temple",
-      "note": "자료별 아오긴지 1·3개 차이. 준비량은 3개 기준이며 실제 납품은 게임 표시를 확인하세요."
+      "note": "자료별 파란 긴지 1·3개 차이. 준비량은 3개 기준이며 실제 납품은 게임 표시를 확인하세요.",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "東アマルテア駅",
@@ -762,7 +796,8 @@
       "id": "restore-35",
       "label": "동아말테아역",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "西アマルテア駅",
@@ -776,7 +811,8 @@
       "id": "restore-36",
       "label": "서아말테아역",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "カルメンタ駅",
@@ -788,9 +824,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-37",
-      "label": "カルメンタ駅",
+      "label": "카르멘타역",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "エオヒド駅",
@@ -802,9 +839,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-38",
-      "label": "エオヒド駅",
+      "label": "오하드역",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "フェロニア駅",
@@ -818,7 +856,8 @@
       "id": "restore-39",
       "label": "페로니아역",
       "kind": "site",
-      "note": "자료별 3·5개 차이. 준비량은 큰 값인 5개 기준입니다. 실제 납품은 게임 표시를 확인하세요."
+      "note": "자료별 3·5개 차이. 준비량은 큰 값인 5개 기준입니다. 실제 납품은 게임 표시를 확인하세요.",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "サラキア駅",
@@ -830,9 +869,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-40",
-      "label": "サラキア駅",
+      "label": "살라키아역",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "カリスト駅",
@@ -844,9 +884,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-41",
-      "label": "カリスト駅",
+      "label": "칼리스토역",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "カイロン駅",
@@ -858,9 +899,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-42",
-      "label": "カイロン駅",
+      "label": "카이론역",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "アラゴナ駅",
@@ -872,9 +914,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-43",
-      "label": "アラゴナ駅",
+      "label": "아라고나역",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "カルトド駅",
@@ -886,9 +929,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-44",
-      "label": "カルトド駅",
+      "label": "카르토드역",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "ウルカ駅",
@@ -900,9 +944,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-45",
-      "label": "ウルカ駅",
+      "label": "우르카역",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "領都カッシート",
@@ -918,9 +963,10 @@
       ],
       "crossCheck": "一致",
       "id": "restore-46",
-      "label": "領都カッシート",
+      "label": "영도 카시트",
       "kind": "site",
-      "note": ""
+      "note": "",
+      "nameStatus": "game-capture-reference"
     },
     {
       "place": "レギアの町",
@@ -936,16 +982,17 @@
       ],
       "crossCheck": "additional",
       "id": "restore-47",
-      "label": "레기아 마을",
+      "label": "레기아 도시",
       "kind": "site",
-      "note": "기본 46곳 목록 외에 개별 재료 공략·복구 공략에 수록된 추가 지역입니다."
+      "note": "기본 46곳 목록 외에 개별 재료 공략·복구 공략에 수록된 추가 지역입니다.",
+      "nameStatus": "game-capture-reference"
     }
   ],
   "materials": [
     {
       "id": "material-1",
       "ja": "デーツ",
-      "label": "대추야자 열매",
+      "label": "대추야자",
       "icon": "assets/field/13010017.webp",
       "explore": [
         "タルボス平原",
@@ -957,12 +1004,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/577816"
+      "source": "https://gamewith.jp/fefw/577816",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-2",
       "ja": "グルマオサ",
-      "label": "グルマオサ",
+      "label": "글루마오사",
       "icon": "assets/field/13010019.webp",
       "explore": [
         "巨人の丘",
@@ -974,7 +1022,8 @@
         "そよ風の丘"
       ],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/577825"
+      "source": "https://gamewith.jp/fefw/577825",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-3",
@@ -1012,12 +1061,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/577851"
+      "source": "https://gamewith.jp/fefw/577851",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-4",
       "ja": "カーネボニート",
-      "label": "カーネボニート",
+      "label": "카르네 가다랑어",
       "icon": "assets/field/13010026.webp",
       "explore": [
         "ペルーサ岬",
@@ -1029,12 +1079,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578023"
+      "source": "https://gamewith.jp/fefw/578023",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-5",
       "ja": "キンバショウ",
-      "label": "キンバショウ",
+      "label": "금파초",
       "icon": "assets/field/13010018.webp",
       "explore": [
         "ファウヌスの森",
@@ -1045,24 +1096,26 @@
       "shops": [
         "メッシリーナ大農園の市場"
       ],
-      "source": "https://gamewith.jp/fefw/578024"
+      "source": "https://gamewith.jp/fefw/578024",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-6",
       "ja": "バザリーシャーク",
-      "label": "バザリーシャーク",
+      "label": "바자리 상어",
       "icon": "assets/field/13010058.webp",
       "explore": [
         "大鮫の巣"
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578064"
+      "source": "https://gamewith.jp/fefw/578064",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-7",
       "ja": "スカライ",
-      "label": "スカライ",
+      "label": "스칼라이",
       "icon": "assets/field/13010026.webp",
       "explore": [
         "パンドラの魚巣",
@@ -1071,12 +1124,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578025"
+      "source": "https://gamewith.jp/fefw/578025",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-8",
       "ja": "アオギンジ",
-      "label": "아오긴지",
+      "label": "파란 긴지",
       "icon": "assets/field/13010018.webp",
       "explore": [
         "ヴォーダン峠",
@@ -1085,7 +1139,8 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578026"
+      "source": "https://gamewith.jp/fefw/578026",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-9",
@@ -1106,12 +1161,13 @@
       "shops": [
         "アギーニョ村の市場 / ヤーマン村の市場"
       ],
-      "source": "https://gamewith.jp/fefw/578027"
+      "source": "https://gamewith.jp/fefw/578027",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-10",
       "ja": "タルトゴビー",
-      "label": "タルトゴビー",
+      "label": "타르토 망둥이",
       "icon": "assets/field/13010026.webp",
       "explore": [
         "アルシネウス大橋",
@@ -1124,12 +1180,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578028"
+      "source": "https://gamewith.jp/fefw/578028",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-11",
       "ja": "バアルパイク",
-      "label": "バアルパイク",
+      "label": "바알 꼬치고기",
       "icon": "assets/field/13010026.webp",
       "explore": [
         "エンケラドゥス橋",
@@ -1137,12 +1194,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578029"
+      "source": "https://gamewith.jp/fefw/578029",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-12",
       "ja": "テフノミ",
-      "label": "テフノミ",
+      "label": "테프 열매",
       "icon": "assets/field/13010017.webp",
       "explore": [
         "ウラノス山",
@@ -1161,12 +1219,13 @@
       "shops": [
         "メッシリーナ大農園の市場"
       ],
-      "source": "https://gamewith.jp/fefw/578032"
+      "source": "https://gamewith.jp/fefw/578032",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-13",
       "ja": "カダム",
-      "label": "カダム",
+      "label": "카담",
       "icon": "assets/field/13010019.webp",
       "explore": [
         "ウラノス山",
@@ -1177,12 +1236,13 @@
       "shops": [
         "メッシリーナ大農園の市場"
       ],
-      "source": "https://gamewith.jp/fefw/578033"
+      "source": "https://gamewith.jp/fefw/578033",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-14",
       "ja": "ヒカリボシ",
-      "label": "히카리보시",
+      "label": "반짝별",
       "icon": "assets/field/13010018.webp",
       "explore": [
         "笑み岩",
@@ -1192,12 +1252,13 @@
       "shops": [
         "メッシリーナ大農園の市場"
       ],
-      "source": "https://gamewith.jp/fefw/578034"
+      "source": "https://gamewith.jp/fefw/578034",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-15",
       "ja": "サンノミ",
-      "label": "サンノミ",
+      "label": "태양 열매",
       "icon": "assets/field/13010017.webp",
       "explore": [
         "落ち日の道",
@@ -1220,12 +1281,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578035"
+      "source": "https://gamewith.jp/fefw/578035",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-16",
       "ja": "レッドフリッカ",
-      "label": "レッドフリッカ",
+      "label": "레드 플리커",
       "icon": "assets/field/13010019.webp",
       "explore": [
         "ベルナール峠",
@@ -1233,12 +1295,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578036"
+      "source": "https://gamewith.jp/fefw/578036",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-17",
       "ja": "シャクトウ",
-      "label": "샤쿠토우",
+      "label": "샥투",
       "icon": "assets/field/13010019.webp",
       "explore": [
         "ウォレの森",
@@ -1250,12 +1313,13 @@
       "shops": [
         "アギーニョ村の市場"
       ],
-      "source": "https://gamewith.jp/fefw/578037"
+      "source": "https://gamewith.jp/fefw/578037",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-18",
       "ja": "イチノミ",
-      "label": "이치노미",
+      "label": "하나 열매",
       "icon": "assets/field/13010017.webp",
       "explore": [
         "落ち日の道",
@@ -1267,12 +1331,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578038"
+      "source": "https://gamewith.jp/fefw/578038",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-19",
       "ja": "アルマメット",
-      "label": "아르마메트",
+      "label": "알마메트",
       "icon": "assets/field/13010018.webp",
       "explore": [
         "メラク峠",
@@ -1282,12 +1347,13 @@
         "タルボス北道"
       ],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578039"
+      "source": "https://gamewith.jp/fefw/578039",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-20",
       "ja": "ヒシバナ",
-      "label": "히시바나",
+      "label": "마름꽃",
       "icon": "assets/field/13010019.webp",
       "explore": [
         "ヴォーダン峠",
@@ -1300,7 +1366,8 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578040"
+      "source": "https://gamewith.jp/fefw/578040",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-21",
@@ -1321,12 +1388,13 @@
       "shops": [
         "アギーニョ村の市場"
       ],
-      "source": "https://gamewith.jp/fefw/578042"
+      "source": "https://gamewith.jp/fefw/578042",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-22",
       "ja": "キンバイ",
-      "label": "キンバイ",
+      "label": "금매",
       "icon": "assets/field/13010019.webp",
       "explore": [
         "ベラトリの谷",
@@ -1338,12 +1406,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578043"
+      "source": "https://gamewith.jp/fefw/578043",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-23",
       "ja": "シナモス",
-      "label": "シナモス",
+      "label": "시나모스",
       "icon": "assets/field/13010018.webp",
       "explore": [
         "オーガス山道",
@@ -1352,12 +1421,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578044"
+      "source": "https://gamewith.jp/fefw/578044",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-24",
       "ja": "サバクキビ",
-      "label": "サバクキビ",
+      "label": "사막 수수",
       "icon": "assets/field/13010017.webp",
       "explore": [
         "笑み岩",
@@ -1370,12 +1440,13 @@
       "shops": [
         "トバリンの村の市場"
       ],
-      "source": "https://gamewith.jp/fefw/578047"
+      "source": "https://gamewith.jp/fefw/578047",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-25",
       "ja": "バク",
-      "label": "バク",
+      "label": "바쿠",
       "icon": "assets/field/13010017.webp",
       "explore": [
         "天馬岩",
@@ -1388,12 +1459,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578048"
+      "source": "https://gamewith.jp/fefw/578048",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-26",
       "ja": "セムイモ",
-      "label": "セムイモ",
+      "label": "셈 감자",
       "icon": "assets/field/13010019.webp",
       "explore": [
         "黒翼の谷",
@@ -1406,12 +1478,13 @@
       "shops": [
         "トバリンの村の市場"
       ],
-      "source": "https://gamewith.jp/fefw/578049"
+      "source": "https://gamewith.jp/fefw/578049",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-27",
       "ja": "ソルギ",
-      "label": "ソルギ",
+      "label": "솔기",
       "icon": "assets/field/13010019.webp",
       "explore": [
         "砂虫の巣",
@@ -1422,12 +1495,13 @@
       "shops": [
         "バイナのオアシスの市場"
       ],
-      "source": "https://gamewith.jp/fefw/578050"
+      "source": "https://gamewith.jp/fefw/578050",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-28",
       "ja": "ロカ",
-      "label": "ロカ",
+      "label": "로카",
       "icon": "assets/field/13010017.webp",
       "explore": [
         "ベラトリの谷",
@@ -1442,7 +1516,8 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578051"
+      "source": "https://gamewith.jp/fefw/578051",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-29",
@@ -1462,12 +1537,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578052"
+      "source": "https://gamewith.jp/fefw/578052",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-30",
       "ja": "ポンゴ",
-      "label": "ポンゴ",
+      "label": "퐁고",
       "icon": "assets/field/13010017.webp",
       "explore": [
         "オレアンス平原",
@@ -1480,12 +1556,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578053"
+      "source": "https://gamewith.jp/fefw/578053",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-31",
       "ja": "パイヤ",
-      "label": "パイヤ",
+      "label": "파야",
       "icon": "assets/field/13010017.webp",
       "explore": [
         "ルミナリア峠",
@@ -1499,12 +1576,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578054"
+      "source": "https://gamewith.jp/fefw/578054",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-32",
       "ja": "オドモンジュ",
-      "label": "オドモンジュ",
+      "label": "오드 몽주",
       "icon": "assets/field/13010018.webp",
       "explore": [
         "朽ち木の狭道",
@@ -1516,12 +1594,13 @@
       "shops": [
         "メッシリーナ大農園の市場"
       ],
-      "source": "https://gamewith.jp/fefw/578062"
+      "source": "https://gamewith.jp/fefw/578062",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-33",
       "ja": "アガヴェ",
-      "label": "アガヴェ",
+      "label": "용설란",
       "icon": "assets/field/13010019.webp",
       "explore": [
         "砂流れの道",
@@ -1532,12 +1611,13 @@
       "shops": [
         "バイナのオアシスの市場"
       ],
-      "source": "https://gamewith.jp/fefw/578061"
+      "source": "https://gamewith.jp/fefw/578061",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-34",
       "ja": "クレストル",
-      "label": "クレストル",
+      "label": "크레스토",
       "icon": "assets/field/13010018.webp",
       "explore": [
         "砂虫の巣",
@@ -1549,12 +1629,13 @@
       "shops": [
         "バイナのオアシスの市場"
       ],
-      "source": "https://gamewith.jp/fefw/578060"
+      "source": "https://gamewith.jp/fefw/578060",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-35",
       "ja": "ミラニラ",
-      "label": "ミラニラ",
+      "label": "밀라닐라",
       "icon": "assets/field/13010017.webp",
       "explore": [
         "ファロの森",
@@ -1570,12 +1651,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578059"
+      "source": "https://gamewith.jp/fefw/578059",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-36",
       "ja": "メララ",
-      "label": "메라라 버섯",
+      "label": "멜라라",
       "icon": "assets/field/13010019.webp",
       "explore": [
         "ゴーラ草原帯",
@@ -1588,12 +1670,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578058"
+      "source": "https://gamewith.jp/fefw/578058",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-37",
       "ja": "チャノキ",
-      "label": "チャノキ",
+      "label": "차 나무",
       "icon": "assets/field/13010019.webp",
       "explore": [
         "タシット平原",
@@ -1604,12 +1687,13 @@
         "おくり岩"
       ],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578056"
+      "source": "https://gamewith.jp/fefw/578056",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-38",
       "ja": "テネバトウ",
-      "label": "テネバトウ",
+      "label": "테네바 콩",
       "icon": "assets/field/13010019.webp",
       "explore": [
         "天馬岩",
@@ -1621,12 +1705,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578057"
+      "source": "https://gamewith.jp/fefw/578057",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-39",
       "ja": "グラディゴビー",
-      "label": "グラディゴビー",
+      "label": "그래디 망둥이",
       "icon": "assets/field/13010026.webp",
       "explore": [
         "フィーナの岩礁",
@@ -1644,12 +1729,13 @@
       "shops": [
         "パンドラの港町の市場"
       ],
-      "source": "https://gamewith.jp/fefw/578215"
+      "source": "https://gamewith.jp/fefw/578215",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-40",
       "ja": "リルフィッシュ",
-      "label": "リルフィッシュ",
+      "label": "리르 피시",
       "icon": "assets/field/13010026.webp",
       "explore": [
         "フィーナの岩礁",
@@ -1665,12 +1751,13 @@
       "shops": [
         "パンドラの港町の市場"
       ],
-      "source": "https://gamewith.jp/fefw/578214"
+      "source": "https://gamewith.jp/fefw/578214",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-41",
       "ja": "ガラマーリン",
-      "label": "ガラマーリン",
+      "label": "갈라 멀린",
       "icon": "assets/field/13010058.webp",
       "explore": [
         "ペルーサ岬",
@@ -1683,12 +1770,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578201"
+      "source": "https://gamewith.jp/fefw/578201",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-42",
       "ja": "シャルミール",
-      "label": "シャルミール",
+      "label": "샤르미르",
       "icon": "assets/field/13010018.webp",
       "explore": [
         "ゴーラ草原帯"
@@ -1697,12 +1785,13 @@
         "マグナス台地"
       ],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578200"
+      "source": "https://gamewith.jp/fefw/578200",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-43",
       "ja": "リガネット",
-      "label": "リガネット",
+      "label": "리가네트",
       "icon": "assets/field/13010018.webp",
       "explore": [
         "ヴァレリ峡谷",
@@ -1713,7 +1802,8 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578199"
+      "source": "https://gamewith.jp/fefw/578199",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-44",
@@ -1726,12 +1816,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578183"
+      "source": "https://gamewith.jp/fefw/578183",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-45",
       "ja": "ジョッパ",
-      "label": "조파",
+      "label": "요파",
       "icon": "assets/field/13010018.webp",
       "explore": [
         "ダダ平原",
@@ -1741,12 +1832,13 @@
       "shops": [
         "アギーニョ村の市場"
       ],
-      "source": "https://gamewith.jp/fefw/578174"
+      "source": "https://gamewith.jp/fefw/578174",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-46",
       "ja": "ダッカモンジュ",
-      "label": "다카몬주",
+      "label": "다카 몽주",
       "icon": "assets/field/13010018.webp",
       "explore": [
         "オライオン渓谷"
@@ -1755,12 +1847,13 @@
         "ブラン平原"
       ],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578221"
+      "source": "https://gamewith.jp/fefw/578221",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-47",
       "ja": "ラザニバータ",
-      "label": "라자니바타",
+      "label": "라자니바르타",
       "icon": "assets/field/13010018.webp",
       "explore": [
         "巨人の丘"
@@ -1769,12 +1862,13 @@
         "セドー砦"
       ],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578220"
+      "source": "https://gamewith.jp/fefw/578220",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-48",
       "ja": "ハードフィッシュ",
-      "label": "ハードフィッシュ",
+      "label": "하드 피시",
       "icon": "assets/field/13010026.webp",
       "explore": [
         "パンジャ湾",
@@ -1784,12 +1878,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578408"
+      "source": "https://gamewith.jp/fefw/578408",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-49",
       "ja": "シールドパイク",
-      "label": "シールドパイク",
+      "label": "방패 꼬치고기",
       "icon": "assets/field/13010058.webp",
       "explore": [
         "ソルト湖",
@@ -1798,12 +1893,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578407"
+      "source": "https://gamewith.jp/fefw/578407",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-50",
       "ja": "ソロム",
-      "label": "ソロム",
+      "label": "솔롬",
       "icon": "assets/field/13010017.webp",
       "explore": [
         "アファルの門",
@@ -1811,12 +1907,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578611"
+      "source": "https://gamewith.jp/fefw/578611",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-51",
       "ja": "ハートボニート",
-      "label": "ハートボニート",
+      "label": "하트 가다랑어",
       "icon": "assets/field/13010016.webp",
       "explore": [
         "パンドラの魚巣",
@@ -1824,12 +1921,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578575"
+      "source": "https://gamewith.jp/fefw/578575",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-52",
       "ja": "アカキンバイ",
-      "label": "アカキンバイ",
+      "label": "빨간 금매",
       "icon": "assets/field/13010018.webp",
       "explore": [
         "ベルナール峠",
@@ -1837,12 +1935,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578577"
+      "source": "https://gamewith.jp/fefw/578577",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-53",
       "ja": "ミザンガ",
-      "label": "ミザンガ",
+      "label": "미장가",
       "icon": "assets/field/13010018.webp",
       "explore": [
         "アファルの門",
@@ -1850,12 +1949,13 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578702"
+      "source": "https://gamewith.jp/fefw/578702",
+      "nameStatus": "pending"
     },
     {
       "id": "material-54",
       "ja": "ソルダネラ",
-      "label": "ソルダネラ",
+      "label": "솔다넬라",
       "icon": "assets/field/13010019.webp",
       "explore": [
         "オライオン渓谷",
@@ -1865,19 +1965,21 @@
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/578578"
+      "source": "https://gamewith.jp/fefw/578578",
+      "nameStatus": "game-capture-reference"
     },
     {
       "id": "material-55",
       "ja": "コーシャルーガ",
-      "label": "コーシャルーガ",
+      "label": "코샬루 가아",
       "icon": "assets/field/13010026.webp",
       "explore": [
         "アルシネウス大橋"
       ],
       "cultivate": [],
       "shops": [],
-      "source": "https://gamewith.jp/fefw/577822"
+      "source": "https://gamewith.jp/fefw/577822",
+      "nameStatus": "game-capture-reference"
     }
   ],
   "scenarios": [

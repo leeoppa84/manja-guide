@@ -2314,5 +2314,1620 @@
         "status": "개별 사진 대신 계열·분류 아이콘 활용"
       }
     ]
+  },
+  {
+    "title": "한국어 지역·채집물 명칭 대조",
+    "items": [
+      {
+        "id": "ko-name-1",
+        "label": "작별 바위 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-farewell-rock/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-2",
+        "label": "산들바람 언덕 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-breeze-hill/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-3",
+        "label": "연결 바위 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-bond-rock/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-4",
+        "label": "순환 바위 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-reunion-rock/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-5",
+        "label": "아이기나 산 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-aegina-mountain/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-6",
+        "label": "아이프 해협 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-aife-strait/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-7",
+        "label": "아우로라 신전 본전 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/auroras-temple/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-8",
+        "label": "파란 긴지 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/blue-ginji/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-9",
+        "label": "빨간 금매 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/red-kimbai/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-10",
+        "label": "용설란 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-agave/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-11",
+        "label": "아기뇨 마을 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/aguino/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-12",
+        "label": "액시온 골짜기 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-exion-valley/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-13",
+        "label": "아다 요새 옛터 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-ada-fort-ruins/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-14",
+        "label": "아파르의 문 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/afar-gate/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-15",
+        "label": "아라고나역 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-aragona-station/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-16",
+        "label": "아르시네우스대교 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-arsineus-bridge/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-17",
+        "label": "알마메트 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-almamet/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-18",
+        "label": "하나 열매 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/wun-fruit/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-19",
+        "label": "윌리 마을 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-willy-village/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-20",
+        "label": "워레 숲 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-wire-forest/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-21",
+        "label": "우츠나 고개 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-utsuna-pass/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-22",
+        "label": "우라노스 산 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-uranos-mountain/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-23",
+        "label": "우르카역 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/urca-station/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-24",
+        "label": "오하드역 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/ohad-station/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-25",
+        "label": "엘리사 고개 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-elisa-pass/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-26",
+        "label": "엔켈라두스 다리 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-enkeladus-bridge/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-27",
+        "label": "엔데의 작은 소용돌이 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-ende-s-small-whirlpool/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-28",
+        "label": "엘 산지 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-el-mountains/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-29",
+        "label": "늑대 고기 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/wolf-meat/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-30",
+        "label": "오시리스 마을 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-osiris-village/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-31",
+        "label": "오드 몽주 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/oda-monja/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-32",
+        "label": "오리온 골짜기 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-orion-valley/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-33",
+        "label": "올리바 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/oliva/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-34",
+        "label": "올레안스 평원 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/oleance-plains/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-35",
+        "label": "올렌스 도시 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/orles-city/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-36",
+        "label": "오거스 산길 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-ogers-mountain-road/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-37",
+        "label": "카이론역 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-chiron-station/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-38",
+        "label": "카담 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/cadam/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-39",
+        "label": "칼리아네이라 항구 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/callianeira-port/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-40",
+        "label": "칼리스토역 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/callisto-station/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-41",
+        "label": "카르토드역 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-cartod-station/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-42",
+        "label": "카르멘타역 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/carmenta-station/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-43",
+        "label": "카르네 가다랑어 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/carna-bonito/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-44",
+        "label": "칼라 신전 본전 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-kala-s-temple/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-45",
+        "label": "갈라 멀린 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-gala-marlin/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-46",
+        "label": "키라 마을 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/kira-village/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-47",
+        "label": "금매 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-geummae/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-48",
+        "label": "금파초 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/jin-ba-jiao/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-49",
+        "label": "긴지 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/ginji/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-50",
+        "label": "쿠사리쿠 고기 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/kusarik-meat/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-51",
+        "label": "클리티오스 평원 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-clitios-plain/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-52",
+        "label": "크레스토 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/crestor/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-53",
+        "label": "크레르 신전 본전 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-crere-s-temple/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-54",
+        "label": "쿠거의 지붕 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-cougar-s-roof/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-55",
+        "label": "그래디 망둥이 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/grady-goby/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-56",
+        "label": "글루마오사 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/glirmosa/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-57",
+        "label": "코샬루 가아 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/kothar-gar/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-58",
+        "label": "코샬루호 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-cosalu-lake/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-59",
+        "label": "고라 초원 지대 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-gora-grassland/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-60",
+        "label": "사막 수수 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/desert-millet/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-61",
+        "label": "살라키아역 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/salacia-station/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-62",
+        "label": "산타나 다리 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-santana-bridge/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-63",
+        "label": "태양 열매 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/thry-fruit/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-64",
+        "label": "자스타 촌락 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-jasta-village/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-65",
+        "label": "잔게 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/zang/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-66",
+        "label": "시뎀의 계곡 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-sidem-valley/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-67",
+        "label": "시나모스 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-sinamos/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-68",
+        "label": "샥투 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-shaktu/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-69",
+        "label": "샤르미르 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-sharmir/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-70",
+        "label": "방패 꼬치고기 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/video-shield-pike/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-71",
+        "label": "주라 신전 본전 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-jura-s-temple/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-72",
+        "label": "요파 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/jyoppa/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-73",
+        "label": "조레 고개 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-jore-pass/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-74",
+        "label": "지마 항구 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-zima-port/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-75",
+        "label": "스칼라이 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/skolai/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-76",
+        "label": "스미르노스 신전 본전 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-smirnos-s-temple/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-77",
+        "label": "세도 요새 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-sedo-fort/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-78",
+        "label": "셈 감자 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/shem-yam/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-79",
+        "label": "제토스 대폭포 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-zetos-falls/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-80",
+        "label": "소시에만 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-sosie-bay/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-81",
+        "label": "소나이 고개 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-sonai-pass/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-82",
+        "label": "솔기 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-solgi/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-83",
+        "label": "솔다넬라 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-soldanella/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-84",
+        "label": "솔트호 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-salt-lake/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-85",
+        "label": "솔롬 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-solom/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-86",
+        "label": "타시트 평원 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-tacit-plains/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-87",
+        "label": "타르토 망둥이 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/talto-goby/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-88",
+        "label": "타르보스 북도 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-north-tarvos-road/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-89",
+        "label": "타르보스 평원 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-tarvos-plains/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-90",
+        "label": "다이모스 고원 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-daimos-plateau/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-91",
+        "label": "다다 평원 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-dada-plain/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-92",
+        "label": "다카 몽주 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/video-daka-monju/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-93",
+        "label": "다마센곶 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/video-damasen-cape/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-94",
+        "label": "체레섬 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-chere-island/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-95",
+        "label": "차 나무 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/tea-tree/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-96",
+        "label": "테네바 콩 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/tenebato/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-97",
+        "label": "테프 열매 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/coffee-berries/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-98",
+        "label": "디오네 해류 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-dione-current/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-99",
+        "label": "데모닉 마을 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-demonic-village/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-100",
+        "label": "대추야자 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/dates/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-101",
+        "label": "트발린 마을 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-tvalin-village/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-102",
+        "label": "토리토파텔 대회랑 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-toritopatel-corridor/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-103",
+        "label": "두베 고개 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-dubhe-pass/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-104",
+        "label": "드래그덴 고개 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-dragden-pass/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-105",
+        "label": "나이미호 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-lake-naimi/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-106",
+        "label": "니자 항구 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-niza-port/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-107",
+        "label": "니자의 문 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-niza-s-gate/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-108",
+        "label": "네이피어 숲 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/napier-woods/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-109",
+        "label": "네레우스의 곶 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/cape-nereus/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-110",
+        "label": "하트 가다랑어 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-heart-bonito/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-111",
+        "label": "하드 피시 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/steelfish/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-112",
+        "label": "바알 꼬치고기 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/baal-pike/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-113",
+        "label": "바이너의 오아시스 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/baina-oasis/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-114",
+        "label": "바쿠 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/bakul/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-115",
+        "label": "바자리 상어 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/bazari-shark/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-116",
+        "label": "바스크 여관 거리 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-basque-inn-district/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-117",
+        "label": "발 데르호 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-lake-val-der/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-118",
+        "label": "발로르의 섬 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-balor-island/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-119",
+        "label": "파야 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-paya/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-120",
+        "label": "판자 해류 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-panja-current/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-121",
+        "label": "판자만 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-panja-bay/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-122",
+        "label": "판도라 항구 도시 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/port-of-pandor/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-123",
+        "label": "판도라의 어장 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-pandor-fishing-grounds/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-124",
+        "label": "반짝별 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/lightstar/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-125",
+        "label": "마름꽃 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/caltrop-flower/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-126",
+        "label": "파우누스 숲 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/fauns-forest/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-127",
+        "label": "파로의 숲 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/video-paro-forest/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-128",
+        "label": "피나의 암초 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-pina-reef/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-129",
+        "label": "피나 어촌 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/pina-village/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-130",
+        "label": "페로니아역 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/peronia-station/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-131",
+        "label": "포트나 신전 본전 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/fortunas-temple/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-132",
+        "label": "블랑 평원 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-bulang-plain/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-133",
+        "label": "브리거디어 고개 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-brigadier-pass/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-134",
+        "label": "브론테스호 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/lake-brontes/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-135",
+        "label": "베네트나시 마을 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/benetnasi-village/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-136",
+        "label": "베라트리의 계곡 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-beratri-valley/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-137",
+        "label": "베르나르 고개 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-bernard-pass/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-138",
+        "label": "펠루사 앞바다 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-pelusa-offshore-waters/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-139",
+        "label": "펠루사곶 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-pelusa-cape/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-140",
+        "label": "호루스 해협 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-horus-strait/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-141",
+        "label": "봄바에 외딴 마을 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-bomba-s-remote-village/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-142",
+        "label": "퐁고 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/pongo/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-143",
+        "label": "마온 성곽 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-maon-castle/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-144",
+        "label": "마그나스 고원 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-magnas-plateau/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-145",
+        "label": "마듀의 작은 유적 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/madieu-vestige/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-146",
+        "label": "마스 신전 본전 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-mars-s-temple/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-147",
+        "label": "미장가 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/mizang/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-148",
+        "label": "뮤그리아의 거목 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/myugria-great-tree/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-149",
+        "label": "밀라닐라 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/miranilla/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-150",
+        "label": "민티카의 바위 문 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-mintaka-rock-gate/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-151",
+        "label": "물키베르 습지대 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-mulciber-wetland/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-152",
+        "label": "메실리나 대농원 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-messilina-estate/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-153",
+        "label": "메라크 고개 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-merak-pass/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-154",
+        "label": "멜라라 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/melara/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-155",
+        "label": "야크 고기 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/yarc-meat/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-156",
+        "label": "야시로 요새 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-yashiro-fort/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-157",
+        "label": "야먼 마을 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/yaaman/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-158",
+        "label": "유나메이 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/video-yunamei/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-159",
+        "label": "라이 오 항구 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/raivo-port/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-160",
+        "label": "라자니바르타 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-rajanivarta/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-161",
+        "label": "리가네트 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/liganet/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-162",
+        "label": "리나리아 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/linaria/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-163",
+        "label": "리르 피시 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/lir-fish/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-164",
+        "label": "루프 고기 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/rukh-meat/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-165",
+        "label": "루미나리아 고개 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-luminaria-pass/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-166",
+        "label": "레기아 도시 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/regia/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-167",
+        "label": "레드 플리커 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/redflicker/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-168",
+        "label": "로카 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/roca/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-169",
+        "label": "발레리 협곡 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/valeri-gorge/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-170",
+        "label": "보단 고개 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-bodan-pass/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-171",
+        "label": "절규의 바다 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/sea-of-screams/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-172",
+        "label": "짐승 우는 골짜기 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-howling-beast-valley/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-173",
+        "label": "이름 없는 묘비 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-nameless-graves/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-174",
+        "label": "숨 막히는 바람의 계곡 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/choking-wind-valley/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-175",
+        "label": "울부짖는 나무 숲 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-howling-tree-forest/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-176",
+        "label": "속삭임 바위 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-whispering-rock/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-177",
+        "label": "성채 도시 몽스 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-mons-fortress-city/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-178",
+        "label": "대상어 소굴 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-great-shark-den/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-179",
+        "label": "천마암 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-pegasus-rock/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-180",
+        "label": "거인의 언덕 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-giant-s-hill/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-181",
+        "label": "거대고기 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/giants-meat/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-182",
+        "label": "거대 새의 목 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-giant-bird-neck/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-183",
+        "label": "안개 평원 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-mist-plain/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-184",
+        "label": "전사의 길 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-warrior-s-road/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-185",
+        "label": "여행자의 언덕 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/travelers-hill/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-186",
+        "label": "해맞이 고개 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-sunrise-pass/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-187",
+        "label": "별이 낳은 화원 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/starbirth-garden/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-188",
+        "label": "별맞이 고개 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-stargazing-pass/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-189",
+        "label": "눈속임 숲 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-deceptive-forest/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-190",
+        "label": "새벽녘 평원 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-dawn-plain/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-191",
+        "label": "달맞이 고개 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/moonwatch-pass/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-192",
+        "label": "미개척 오아시스 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-unexplored-oasis/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-193",
+        "label": "부목의 좁은 길 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-driftwood-path/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-194",
+        "label": "동아말테아역 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/east-amalthea-station/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-195",
+        "label": "유랑자의 옛 정원 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/travelers-garden/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-196",
+        "label": "해양 도시 알렉토 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/alecto-city/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-197",
+        "label": "심록의 구멍 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/verdant-hollow/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-198",
+        "label": "그을린 초목의 사구 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-charred-dunes/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-199",
+        "label": "왕도 그랑 아라곤 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/gran-aragon/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-200",
+        "label": "왕도 브레스턴 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-bresten/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-201",
+        "label": "왕도 메가에라 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/megaira/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-202",
+        "label": "백아의 석대 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-pale-raven-s-stone/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-203",
+        "label": "모래 샛길 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/desert-escapeway/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-204",
+        "label": "모래 위의 동산 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/garden-in-the-sands/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-205",
+        "label": "흐르는 모랫길 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-shifting-sand-road/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-206",
+        "label": "사막 입구 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-desert-entrance/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-207",
+        "label": "모래 벌레 소굴 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-sandworm-den/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-208",
+        "label": "용을 부르는 곳 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-dragon-cape/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-209",
+        "label": "미소 바위 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-smiling-rock/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-210",
+        "label": "해 지는 길 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-sunset-path/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-211",
+        "label": "뒤쪽 산길 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-back-mountain-road/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-212",
+        "label": "서아말테아역 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/west-amalthea-station/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-213",
+        "label": "길 잃은 거대 소용돌이 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-wandering-great-whirlpool/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-214",
+        "label": "돌아올 수 없는 숲 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/forest-of-no-return/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-215",
+        "label": "암야 고개 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-darknight-pass/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-216",
+        "label": "별받이 고개 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/video-starwatch-mount-pass/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-217",
+        "label": "햇빛의 화원 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-sunlight-garden/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-218",
+        "label": "작약의 갈림길 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-peony-crossroads/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-219",
+        "label": "고요의 바다 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-quiet-sea/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-220",
+        "label": "영도 카시트 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-kashit/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-221",
+        "label": "끝없는 바람의 해변 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-endless-wind-beach/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-222",
+        "label": "날도마뱀 고기 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/flying-lizard-meat/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-223",
+        "label": "머리 사냥 바위 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-headhunting-rock/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-224",
+        "label": "시체의 대유사 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-quicksand-graveyard/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-225",
+        "label": "마의 해역 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-perilous-waters/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-226",
+        "label": "어군 암초 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-fish-shoal-reef/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-227",
+        "label": "흑연의 계곡 다 미나 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-da-mina-graphite-valley/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-228",
+        "label": "검은 날개 계곡 · 한국어 명칭 근거",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-black-wing-valley/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-229",
+        "label": "한국어 도감 · 게임 화면·플레이 자료와 임시 표기 기준",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/category/sources/",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      },
+      {
+        "id": "ko-name-230",
+        "label": "국내 직접 플레이 기록 · 3부 거점·복구 소재 명칭",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=fireemblem&no=775154",
+        "lastChecked": "2026-11-06",
+        "status": "게임 화면 근거 명시 도감·국내 플레이 기록 대조. 확인 중 표기는 확정 이름 아님"
+      }
+    ]
   }
 ]

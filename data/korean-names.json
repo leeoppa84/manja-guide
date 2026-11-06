@@ -1,0 +1,3007 @@
+{
+  "updatedAt": "2026-11-06",
+  "scope": "지역·채집물 명칭. 획득 조건·수량은 기존 3부 데이터를 유지합니다.",
+  "verification": "game-capture-reference는 한국어 도감이 게임 화면 근거를 명시한 이름이며 이번 작업에서 원본 게임 화면을 모두 직접 확인한 뜻은 아닙니다. player-record는 국내 직접 플레이 기록입니다. pending은 한국판명 확인 전 표기입니다.",
+  "names": {
+    "おくり岩": {
+      "ko": "작별 바위",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "おくり岩",
+        "작별 바위"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-farewell-rock/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "そよ風の丘": {
+      "ko": "산들바람 언덕",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "そよ風の丘",
+        "산들바람 언덕"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-breeze-hill/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "つなぎ岩": {
+      "ko": "연결 바위",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "つなぎ岩",
+        "연결 바위"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-bond-rock/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "めぐり岩": {
+      "ko": "순환 바위",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "めぐり岩",
+        "순환 바위"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-reunion-rock/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "アイギーナ山": {
+      "ko": "아이기나 산",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "アイギーナ山",
+        "아이기나 산"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-aegina-mountain/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "アイフ海峡": {
+      "ko": "아이프 해협",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "アイフ海峡",
+        "아이프 해협",
+        "Eif Channel"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-aife-strait/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "アウロラ神殿本殿": {
+      "ko": "아우로라 신전 본전",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "アウロラ神殿本殿",
+        "아우로라 신전",
+        "아우로라 신전 본전",
+        "Aurora’s Temple"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/auroras-temple/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "アオギンジ": {
+      "ko": "파란 긴지",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "アオギンジ",
+        "아오긴지",
+        "Blue Ginji"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/blue-ginji/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "アカキンバイ": {
+      "ko": "빨간 금매",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "アカキンバイ",
+        "Red Kimbai",
+        "붉은 킨바이",
+        "붉은 킨바이(Red Kimbai)",
+        "빨간 금매"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/red-kimbai/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "アガヴェ": {
+      "ko": "용설란",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "アガヴェ",
+        "용설란",
+        "Agave"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-agave/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "アギーニョ村": {
+      "ko": "아기뇨 마을",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "アギーニョ村",
+        "아기뇨 마을",
+        "Aguino"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/aguino/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "アクシオン渓谷": {
+      "ko": "액시온 골짜기",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "アクシオン渓谷",
+        "엑시온 골짜기",
+        "액시온 골짜기"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-exion-valley/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "アダ砦跡": {
+      "ko": "아다 요새 옛터",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "アダ砦跡",
+        "아다 요새 옛터"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-ada-fort-ruins/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "アファルの門": {
+      "ko": "아파르의 문",
+      "kind": "location",
+      "status": "pending",
+      "aliases": [
+        "アファルの門",
+        "Afar Gate",
+        "아파르 문",
+        "아파르 문(Afar Gate)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/afar-gate/",
+      "sourceMethod": "community-name-correspondence",
+      "note": "참고 도감에서도 공식 한국어명 확인 전 커뮤니티 표기로 분류한 장소입니다."
+    },
+    "アラゴナ駅": {
+      "ko": "아라고나역",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "アラゴナ駅",
+        "아라고나역"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-aragona-station/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "アルシネウス大橋": {
+      "ko": "아르시네우스대교",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "アルシネウス大橋",
+        "아르시네우스대교"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-arsineus-bridge/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "アルマメット": {
+      "ko": "알마메트",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "アルマメット",
+        "아르마메트",
+        "알마메트",
+        "Almamet"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-almamet/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "イチノミ": {
+      "ko": "하나 열매",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "イチノミ",
+        "이치노미",
+        "Wun Fruit",
+        "운 열매",
+        "Hana Fruit",
+        "하나 열매",
+        "운 열매(Wun Fruit)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/wun-fruit/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ウィリー村": {
+      "ko": "윌리 마을",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ウィリー村",
+        "윌리 마을"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-willy-village/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ウォレの森": {
+      "ko": "워레 숲",
+      "kind": "location",
+      "status": "pending",
+      "aliases": [
+        "ウォレの森",
+        "위레 숲",
+        "Walle’s Woodlands",
+        "왈레 숲(ウォレの森)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-wire-forest/",
+      "sourceMethod": "user-adopted-community-name",
+      "note": "참고 도감에서도 공식 한국어명 확인 전 커뮤니티 표기로 분류한 장소입니다."
+    },
+    "ウツナ峠": {
+      "ko": "우츠나 고개",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ウツナ峠",
+        "우츠나 고개"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-utsuna-pass/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ウラノス山": {
+      "ko": "우라노스 산",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ウラノス山",
+        "우라노스 산"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-uranos-mountain/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ウルカ駅": {
+      "ko": "우르카역",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ウルカ駅",
+        "우르카역"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/urca-station/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "エオヒド駅": {
+      "ko": "오하드역",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "エオヒド駅",
+        "오하드역"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/ohad-station/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "エリッサ峠": {
+      "ko": "엘리사 고개",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "エリッサ峠",
+        "엘리사 고개"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-elisa-pass/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "エンケラドゥス橋": {
+      "ko": "엔켈라두스 다리",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "エンケラドゥス橋",
+        "엔켈라두스 다리"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-enkeladus-bridge/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "エンデの小渦": {
+      "ko": "엔데의 작은 소용돌이",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "エンデの小渦",
+        "엔데의 작은 소용돌이",
+        "Edne Whirlpools"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-ende-s-small-whirlpool/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "エール山地": {
+      "ko": "엘 산지",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "エール山地",
+        "엘 산지",
+        "에르 산지(エール山地)",
+        "Ere Mountains"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-el-mountains/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "オオカミ肉": {
+      "ko": "늑대 고기",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "オオカミ肉",
+        "Wolf Meat",
+        "늑대고기"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/wolf-meat/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "オシリスの村": {
+      "ko": "오시리스 마을",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "オシリスの村",
+        "오시리스 마을"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-osiris-village/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "オドモンジュ": {
+      "ko": "오드 몽주",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "オドモンジュ",
+        "Oda Monja",
+        "오다 몬자",
+        "오드 몽주",
+        "오다 몬자(Oda Monja)",
+        "오드 몽쥬",
+        "Oda Moja",
+        "오다 모자",
+        "오다 모자(Oda Moja)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/oda-monja/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "オライオン渓谷": {
+      "ko": "오리온 골짜기",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "オライオン渓谷",
+        "오리온 골짜기",
+        "오리온 계곡(オライオン渓谷)",
+        "Orion Canyon",
+        "오라이온 계곡"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-orion-valley/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "オリバ": {
+      "ko": "올리바",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "オリバ",
+        "올리바",
+        "Oliva"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/oliva/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "オレアンス平原": {
+      "ko": "올레안스 평원",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "オレアンス平原",
+        "올레앙스 평원",
+        "올레안스 평원",
+        "Oleance Plains"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/oleance-plains/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "オレンスの町": {
+      "ko": "올렌스 도시",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "オレンスの町",
+        "올레스 도시",
+        "올렌스 도시"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/orles-city/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "オーガス山道": {
+      "ko": "오거스 산길",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "オーガス山道",
+        "오거스 산길",
+        "Mount Orgus Trail",
+        "오르구스 산길(オーガス山道)",
+        "오르구스 산길(Mount Orgus Trail)",
+        "오르구스 산길"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-ogers-mountain-road/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "カイロン駅": {
+      "ko": "카이론역",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "カイロン駅",
+        "카이론역"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-chiron-station/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "カダム": {
+      "ko": "카담",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "カダム",
+        "Cadam"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/cadam/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "カリアネイラの港": {
+      "ko": "칼리아네이라 항구",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "カリアネイラの港",
+        "Callianeira Port",
+        "칼리아네이라 항구"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/callianeira-port/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "カリスト駅": {
+      "ko": "칼리스토역",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "カリスト駅",
+        "칼리스토역"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/callisto-station/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "カルトド駅": {
+      "ko": "카르토드역",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "カルトド駅",
+        "카르토드역"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-cartod-station/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "カルメンタ駅": {
+      "ko": "카르멘타역",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "カルメンタ駅",
+        "카르멘타역"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/carmenta-station/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "カーネボニート": {
+      "ko": "카르네 가다랑어",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "カーネボニート",
+        "Carna Bonito"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/carna-bonito/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "カーラ神殿本殿": {
+      "ko": "칼라 신전 본전",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "カーラ神殿本殿",
+        "카라 신전",
+        "칼라 신전 본전"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-kala-s-temple/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ガラマーリン": {
+      "ko": "갈라 멀린",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ガラマーリン",
+        "갈라 멀린",
+        "Gala Marlin",
+        "Garla Marlin"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-gala-marlin/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "キラの村": {
+      "ko": "키라 마을",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "キラの村",
+        "키라 마을"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/kira-village/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "キンバイ": {
+      "ko": "금매",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "キンバイ",
+        "금매",
+        "Geummae"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-geummae/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "キンバショウ": {
+      "ko": "금파초",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "キンバショウ",
+        "Jin Ba Jiao",
+        "진바자오",
+        "금파초",
+        "Golden Basho",
+        "진바자오(Jin Ba Jiao)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/jin-ba-jiao/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ギンジ": {
+      "ko": "긴지",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ギンジ",
+        "긴지",
+        "Ginji"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/ginji/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "クサリク肉": {
+      "ko": "쿠사리쿠 고기",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "クサリク肉",
+        "Kusarik Meat"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/kusarik-meat/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "クリュテイオス平原": {
+      "ko": "클리티오스 평원",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "クリュテイオス平原",
+        "클리티오스 평원",
+        "크뤼테이오스 평원"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-clitios-plain/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "クレストル": {
+      "ko": "크레스토",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "クレストル",
+        "Crestor",
+        "크레스토르",
+        "크레스토르(Crestor)",
+        "크레스토"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/crestor/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "クレール神殿本殿": {
+      "ko": "크레르 신전 본전",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "クレール神殿本殿",
+        "클레르 신전",
+        "크레르 신전 본전"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-crere-s-temple/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "クーガーの屋根": {
+      "ko": "쿠거의 지붕",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "クーガーの屋根",
+        "쿠거의 지붕",
+        "Cougar Canopy"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-cougar-s-roof/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "グラディゴビー": {
+      "ko": "그래디 망둥이",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "グラディゴビー",
+        "Grady Goby"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/grady-goby/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "グルマオサ": {
+      "ko": "글루마오사",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "グルマオサ",
+        "Glirmosa"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/glirmosa/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "コーシャルーガ": {
+      "ko": "코샬루 가아",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "コーシャルーガ",
+        "Kothar Gar",
+        "코타르 가아",
+        "コーシャルーガー",
+        "코타르 가아(Kothar Gar)",
+        "코샬루 가아"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/kothar-gar/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "コーシャルー湖": {
+      "ko": "코샬루호",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "コーシャルー湖",
+        "코살루호",
+        "코샬루호",
+        "Kothar Lake"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-cosalu-lake/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ゴーラ草原帯": {
+      "ko": "고라 초원 지대",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ゴーラ草原帯",
+        "고라 초원 지대",
+        "고라 초원대"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-gora-grassland/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "サバクキビ": {
+      "ko": "사막 수수",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "サバクキビ",
+        "Desert Millet"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/desert-millet/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "サラキア駅": {
+      "ko": "살라키아역",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "サラキア駅",
+        "살라키아역"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/salacia-station/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "サンタナ橋": {
+      "ko": "산타나 다리",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "サンタナ橋",
+        "산타나 다리"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-santana-bridge/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "サンノミ": {
+      "ko": "태양 열매",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "サンノミ",
+        "Thry Fruit",
+        "스리 열매",
+        "Sun Fruit",
+        "태양 열매",
+        "스리 열매(Thry Fruit)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/thry-fruit/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ザスタの集落": {
+      "ko": "자스타 촌락",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ザスタの集落",
+        "자스타 촌락",
+        "자스타 취락",
+        "Zasta settlement"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-jasta-village/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ザンゲ": {
+      "ko": "잔게",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ザンゲ",
+        "잔게",
+        "Zang"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/zang/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "シデムの谷": {
+      "ko": "시뎀의 계곡",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "シデムの谷",
+        "시뎀의 계곡",
+        "시뎀 계곡"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-sidem-valley/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "シナモス": {
+      "ko": "시나모스",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "シナモス",
+        "시나모스",
+        "Sinamos",
+        "Cinnamos"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-sinamos/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "シャクトウ": {
+      "ko": "샥투",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "シャクトウ",
+        "샤쿠토우",
+        "샥투",
+        "Shaktu",
+        "Shaktoh"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-shaktu/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "シャルミール": {
+      "ko": "샤르미르",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "シャルミール",
+        "샤르미르",
+        "Sharmir",
+        "Zamir"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-sharmir/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "シールドパイク": {
+      "ko": "방패 꼬치고기",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "シールドパイク",
+        "Shield Pike",
+        "방패 꼬치고기",
+        "Aegis Pike"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/video-shield-pike/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ジュラ神殿本殿": {
+      "ko": "주라 신전 본전",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ジュラ神殿本殿",
+        "주라 신전",
+        "주라 신전 본전"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-jura-s-temple/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ジョッパ": {
+      "ko": "요파",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ジョッパ",
+        "조파",
+        "Jyoppa"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/jyoppa/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ジョレ峠": {
+      "ko": "조레 고개",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ジョレ峠",
+        "조레 고개"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-jore-pass/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ジーマの港": {
+      "ko": "지마 항구",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ジーマの港",
+        "지마 항구"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-zima-port/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "スカライ": {
+      "ko": "스칼라이",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "スカライ",
+        "Skolai"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/skolai/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "スミルノス神殿本殿": {
+      "ko": "스미르노스 신전 본전",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "スミルノス神殿本殿",
+        "스밀노스 신전",
+        "스미르노스 신전 본전"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-smirnos-s-temple/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "セドー砦": {
+      "ko": "세도 요새",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "セドー砦",
+        "세도 요새"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-sedo-fort/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "セムイモ": {
+      "ko": "셈 감자",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "セムイモ",
+        "Shem Yam"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/shem-yam/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ゼートス大滝": {
+      "ko": "제토스 대폭포",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ゼートス大滝",
+        "제토스 대폭포"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-zetos-falls/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ソシエ湾": {
+      "ko": "소시에만",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ソシエ湾",
+        "소시에만",
+        "Socie Bay",
+        "소시에 만(ソシエ湾)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-sosie-bay/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ソナイ峠": {
+      "ko": "소나이 고개",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ソナイ峠",
+        "소나이 고개"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-sonai-pass/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ソルギ": {
+      "ko": "솔기",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ソルギ",
+        "솔기",
+        "Solgi"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-solgi/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ソルダネラ": {
+      "ko": "솔다넬라",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ソルダネラ",
+        "솔다넬라",
+        "숄다넬라",
+        "Soldanella"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-soldanella/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ソルト湖": {
+      "ko": "솔트호",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ソルト湖",
+        "솔트호",
+        "솔트 호수(ソルト湖)",
+        "Zorto Lake"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-salt-lake/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ソロム": {
+      "ko": "솔롬",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ソロム",
+        "솔롬"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-solom/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "タシット平原": {
+      "ko": "타시트 평원",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "タシット平原",
+        "타시트 평원",
+        "Tasit Plain",
+        "타시트 평야(タシット平原)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-tacit-plains/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "タルトゴビー": {
+      "ko": "타르토 망둥이",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "タルトゴビー",
+        "Talto Goby"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/talto-goby/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "タルボス北道": {
+      "ko": "타르보스 북도",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "タルボス北道",
+        "타르보스 북도",
+        "탈보스 북로"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-north-tarvos-road/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "タルボス平原": {
+      "ko": "타르보스 평원",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "タルボス平原",
+        "타르보스 평원"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-tarvos-plains/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ダイモス台地": {
+      "ko": "다이모스 고원",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ダイモス台地",
+        "다이모스 고원",
+        "다이모스 대지",
+        "Daimos Plateau"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-daimos-plateau/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ダダ平原": {
+      "ko": "다다 평원",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ダダ平原",
+        "다다 평원"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-dada-plain/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ダッカモンジュ": {
+      "ko": "다카 몽주",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ダッカモンジュ",
+        "다카몬주",
+        "다카 몽주",
+        "다카 몽쥬",
+        "Daka Monju",
+        "Dakka Monja"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/video-daka-monju/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ダマセン岬": {
+      "ko": "다마센곶",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ダマセン岬",
+        "다마센곶"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/video-damasen-cape/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "チェレ島": {
+      "ko": "체레섬",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "チェレ島",
+        "체레섬"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-chere-island/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "チャノキ": {
+      "ko": "차 나무",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "チャノキ",
+        "Tea Tree"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/tea-tree/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "テネバトウ": {
+      "ko": "테네바 콩",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "テネバトウ",
+        "Tenebato"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/tenebato/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "テフノミ": {
+      "ko": "테프 열매",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "テフノミ",
+        "Coffee Berries"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/coffee-berries/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ディオネ海流": {
+      "ko": "디오네 해류",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ディオネ海流",
+        "디오네 해류",
+        "Dione Current"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-dione-current/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "デモニクの村": {
+      "ko": "데모닉 마을",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "デモニクの村",
+        "데모닉 마을",
+        "데모니크 마을",
+        "Demonik village"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-demonic-village/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "デーツ": {
+      "ko": "대추야자",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "デーツ",
+        "대추야자 열매",
+        "Dates"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/dates/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "トバリンの村": {
+      "ko": "트발린 마을",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "トバリンの村",
+        "트발린 마을",
+        "토바린 마을",
+        "Tobarin village"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-tvalin-village/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "トリトパテル大回廊": {
+      "ko": "토리토파텔 대회랑",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "トリトパテル大回廊",
+        "토리토파텔 대회랑"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-toritopatel-corridor/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ドゥーベ峠": {
+      "ko": "두베 고개",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ドゥーベ峠",
+        "두베 고개",
+        "Dubhe Ridge"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-dubhe-pass/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ドラグデン峠": {
+      "ko": "드래그덴 고개",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ドラグデン峠",
+        "드래그덴 고개",
+        "드라그덴 고개"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-dragden-pass/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ナイミ湖": {
+      "ko": "나이미호",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ナイミ湖",
+        "나이미호"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-lake-naimi/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ニーザの港": {
+      "ko": "니자 항구",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ニーザの港",
+        "니자 항구",
+        "二ーザの港"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-niza-port/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ニーザの門": {
+      "ko": "니자의 문",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ニーザの門",
+        "니자의 문",
+        "Niiza Gate"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-niza-s-gate/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ネイピアの森": {
+      "ko": "네이피어 숲",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ネイピアの森",
+        "Napier Woods",
+        "네이피어 숲",
+        "네이피아 숲"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/napier-woods/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ネレウスの岬": {
+      "ko": "네레우스의 곶",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ネレウスの岬",
+        "네레우스 곶",
+        "Cape Nereus",
+        "네레우스의 곶"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/cape-nereus/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ハートボニート": {
+      "ko": "하트 가다랑어",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ハートボニート",
+        "하트 가다랑어",
+        "Heart Bonito"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-heart-bonito/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ハードフィッシュ": {
+      "ko": "하드 피시",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ハードフィッシュ",
+        "Steelfish",
+        "강철 물고기",
+        "Hard Fish",
+        "하드 피시",
+        "강철 물고기(Steelfish)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/steelfish/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "バアルパイク": {
+      "ko": "바알 꼬치고기",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "バアルパイク",
+        "Baal Pike",
+        "바알 꼬치고기"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/baal-pike/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "バイナのオアシス": {
+      "ko": "바이너의 오아시스",
+      "kind": "location",
+      "status": "player-record",
+      "aliases": [
+        "バイナのオアシス",
+        "Baina Oasis",
+        "바이너의 오아시스"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/baina-oasis/",
+      "sourceMethod": "community-translated",
+      "note": "",
+      "playerSource": "https://gall.dcinside.com/mgallery/board/view/?id=fireemblem&no=775154"
+    },
+    "バク": {
+      "ko": "바쿠",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "バク",
+        "Bakul"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/bakul/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "バザリーシャーク": {
+      "ko": "바자리 상어",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "バザリーシャーク",
+        "Bazari Shark",
+        "바자리 상어"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/bazari-shark/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "バスク宿場町": {
+      "ko": "바스크 여관 거리",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "バスク宿場町",
+        "바스크 여관 거리"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-basque-inn-district/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "バル・デル湖": {
+      "ko": "발 데르호",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "バル・デル湖",
+        "발 데르호",
+        "Lake Baldr",
+        "발 델 호수(バル・デル湖)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-lake-val-der/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "バロールの島": {
+      "ko": "발로르의 섬",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "バロールの島",
+        "발로르의 섬"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-balor-island/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "パイヤ": {
+      "ko": "파야",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "パイヤ",
+        "파야",
+        "Paya"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-paya/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "パンジャ海流": {
+      "ko": "판자 해류",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "パンジャ海流",
+        "판자 해류",
+        "Pasha Currents"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-panja-current/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "パンジャ湾": {
+      "ko": "판자만",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "パンジャ湾",
+        "판자만",
+        "Pasha Bay",
+        "판자 만(パンジャ湾)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-panja-bay/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "パンドラの港町": {
+      "ko": "판도라 항구 도시",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "パンドラの港町",
+        "판도라 항구 도시"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/port-of-pandor/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "パンドラの魚巣": {
+      "ko": "판도라의 어장",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "パンドラの魚巣",
+        "판도라의 어장",
+        "Pandora Shoal",
+        "판도라의 물고기 둥지(パンドラの魚巣)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-pandor-fishing-grounds/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ヒカリボシ": {
+      "ko": "반짝별",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ヒカリボシ",
+        "히카리보시",
+        "Lightstar",
+        "빛의 별",
+        "반짝 별",
+        "반짝별",
+        "Twinkling Star",
+        "빛의 별(Lightstar)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/lightstar/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ヒシバナ": {
+      "ko": "마름꽃",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ヒシバナ",
+        "히시바나",
+        "Caltrop Flower"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/caltrop-flower/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ファウヌスの森": {
+      "ko": "파우누스 숲",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ファウヌスの森",
+        "Faun's Forest",
+        "파우누스 숲"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/fauns-forest/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ファロの森": {
+      "ko": "파로의 숲",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ファロの森",
+        "파로의 숲"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/video-paro-forest/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "フィーナの岩礁": {
+      "ko": "피나의 암초",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "フィーナの岩礁",
+        "피나의 암초"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-pina-reef/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "フィーナの漁村": {
+      "ko": "피나 어촌",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "フィーナの漁村",
+        "피나 어촌"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/pina-village/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "フェロニア駅": {
+      "ko": "페로니아역",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "フェロニア駅",
+        "페로니아역"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/peronia-station/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "フォトナ神殿本殿": {
+      "ko": "포트나 신전 본전",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "フォトナ神殿本殿",
+        "포토나 신전",
+        "Fortuna's Temple",
+        "포트나 신전 본전"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/fortunas-temple/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ブラン平原": {
+      "ko": "블랑 평원",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ブラン平原",
+        "불랑 평원",
+        "블랑 평원",
+        "브란 평원"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-bulang-plain/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ブリガディア峠": {
+      "ko": "브리거디어 고개",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ブリガディア峠",
+        "브리거디어 고개"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-brigadier-pass/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ブロンテス湖": {
+      "ko": "브론테스호",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ブロンテス湖",
+        "브론테스",
+        "브론테스 호수",
+        "브론테스호",
+        "Lake Brontes"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/lake-brontes/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ベネトナシュの村": {
+      "ko": "베네트나시 마을",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ベネトナシュの村",
+        "베네트나시 마을"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/benetnasi-village/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ベラトリの谷": {
+      "ko": "베라트리의 계곡",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ベラトリの谷",
+        "베라트리의 계곡"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-beratri-valley/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ベルナール峠": {
+      "ko": "베르나르 고개",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ベルナール峠",
+        "베르나르 고개",
+        "Bernard Pass"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-bernard-pass/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ペルーサの沖": {
+      "ko": "펠루사 앞바다",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ペルーサの沖",
+        "펠루사 앞바다",
+        "Peluza Gulf",
+        "ぺルーサの沖",
+        "펠루자 앞바다(ぺルーサの沖)",
+        "펠루자 앞바다(ペルーサの沖)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-pelusa-offshore-waters/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ペルーサ岬": {
+      "ko": "펠루사곶",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ペルーサ岬",
+        "펠루사곶"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-pelusa-cape/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ホルス海峡": {
+      "ko": "호루스 해협",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ホルス海峡",
+        "호루스 해협",
+        "Horus Channel"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-horus-strait/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ボンバエの隠れ里": {
+      "ko": "봄바에 외딴 마을",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ボンバエの隠れ里",
+        "봄바에 외딴 마을"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-bomba-s-remote-village/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ポンゴ": {
+      "ko": "퐁고",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ポンゴ",
+        "Pongo"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/pongo/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "マオン城郭": {
+      "ko": "마온 성곽",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "マオン城郭",
+        "마온 성곽"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-maon-castle/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "マグナス台地": {
+      "ko": "마그나스 고원",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "マグナス台地",
+        "마그나스 고원"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-magnas-plateau/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "マデュー小遺跡": {
+      "ko": "마듀의 작은 유적",
+      "kind": "location",
+      "status": "pending",
+      "aliases": [
+        "マデュー小遺跡",
+        "Madieu Vestige",
+        "마디유 유적",
+        "마디유 유적(Madieu Vestige)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/madieu-vestige/",
+      "sourceMethod": "community-name-correspondence",
+      "note": "참고 도감에서도 공식 한국어명 확인 전 커뮤니티 표기로 분류한 장소입니다."
+    },
+    "マーズ神殿本殿": {
+      "ko": "마스 신전 본전",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "マーズ神殿本殿",
+        "마즈 신전",
+        "마스 신전 본전"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-mars-s-temple/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ミザンガ": {
+      "ko": "미장가",
+      "kind": "material",
+      "status": "pending",
+      "aliases": [
+        "ミザンガ",
+        "Mizang",
+        "미잔"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/mizang/",
+      "sourceMethod": "provisional",
+      "note": "직접 플레이 복구 기록은 미장가, 다른 도감은 미잔(임시)으로 표시합니다. 한국어 화면 확인 전 확정하지 않습니다.",
+      "playerSource": "https://gall.dcinside.com/mgallery/board/view/?id=fireemblem&no=775154"
+    },
+    "ミュグリアの大樹": {
+      "ko": "뮤그리아의 거목",
+      "kind": "location",
+      "status": "pending",
+      "aliases": [
+        "ミュグリアの大樹",
+        "Myugria Great Tree",
+        "뮈그리아 거목",
+        "뮈그리아 거목(Myugria Great Tree)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/myugria-great-tree/",
+      "sourceMethod": "community-name-correspondence",
+      "note": "참고 도감에서도 공식 한국어명 확인 전 커뮤니티 표기로 분류한 장소입니다."
+    },
+    "ミラニラ": {
+      "ko": "밀라닐라",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ミラニラ",
+        "Miranilla",
+        "멜라넬라",
+        "Melanella",
+        "밀라닐라"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/miranilla/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ミンタカの岩門": {
+      "ko": "민티카의 바위 문",
+      "kind": "location",
+      "status": "pending",
+      "aliases": [
+        "ミンタカの岩門",
+        "민타카의 바위 문"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-mintaka-rock-gate/",
+      "sourceMethod": "user-adopted-community-name",
+      "note": "참고 도감에서도 공식 한국어명 확인 전 커뮤니티 표기로 분류한 장소입니다."
+    },
+    "ムルキベル湿地帯": {
+      "ko": "물키베르 습지대",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ムルキベル湿地帯",
+        "물키베르 습지대"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-mulciber-wetland/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "メッシリーナ大農園": {
+      "ko": "메실리나 대농원",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "メッシリーナ大農園",
+        "메시리나 대농원",
+        "메실리나 대농원"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-messilina-estate/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "メラク峠": {
+      "ko": "메라크 고개",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "メラク峠",
+        "메라크 고개",
+        "Merak Pass"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-merak-pass/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "メララ": {
+      "ko": "멜라라",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "メララ",
+        "메라라 버섯",
+        "Melara"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/melara/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ヤク肉": {
+      "ko": "야크 고기",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ヤク肉",
+        "Yarc Meat"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/yarc-meat/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ヤシロ砦": {
+      "ko": "야시로 요새",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ヤシロ砦",
+        "야시로 요새",
+        "Yashiro Fort"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-yashiro-fort/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ヤーマン村": {
+      "ko": "야먼 마을",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ヤーマン村",
+        "Yaaman",
+        "야먼 마을"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/yaaman/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ユナメイ": {
+      "ko": "유나메이",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ユナメイ",
+        "유나메이",
+        "Yunamei",
+        "Yuna Mei"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/video-yunamei/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ライオーの港": {
+      "ko": "라이 오 항구",
+      "kind": "location",
+      "status": "pending",
+      "aliases": [
+        "ライオーの港",
+        "라이 오 항구",
+        "라이보 항구",
+        "Raivo Port"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/raivo-port/",
+      "sourceMethod": "provisional",
+      "note": "플레이 기록의 라이 오 항구와 도감의 라이보 항구가 달라 한국어 화면 확인이 필요합니다.",
+      "playerSource": "https://gall.dcinside.com/mgallery/board/view/?id=fireemblem&no=775154"
+    },
+    "ラザニバータ": {
+      "ko": "라자니바르타",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ラザニバータ",
+        "라자니바타",
+        "라자니바르타",
+        "Rajanivarta",
+        "Lazanibata"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/observed-rajanivarta/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "リガネット": {
+      "ko": "리가네트",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "リガネット",
+        "Liganet"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/liganet/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "リナリア": {
+      "ko": "리나리아",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "リナリア",
+        "리나리아",
+        "Linaria"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/linaria/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "リルフィッシュ": {
+      "ko": "리르 피시",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "リルフィッシュ",
+        "Lir Fish"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/lir-fish/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ルフ肉": {
+      "ko": "루프 고기",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ルフ肉",
+        "Rukh Meat",
+        "루크 고기",
+        "Rupo Meat",
+        "루프 고기",
+        "루크 고기(Rukh Meat)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/rukh-meat/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ルミナリア峠": {
+      "ko": "루미나리아 고개",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ルミナリア峠",
+        "루미나리아 고개",
+        "Luminaria Pass",
+        "ルナミリア峠",
+        "루나미리아 고개(ルナミリア峠)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-luminaria-pass/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "レギアの町": {
+      "ko": "레기아 도시",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "レギアの町",
+        "레기아 마을",
+        "Regia",
+        "레기아 도시"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/regia/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "レッドフリッカ": {
+      "ko": "레드 플리커",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "レッドフリッカ",
+        "Redflicker"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/redflicker/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ロカ": {
+      "ko": "로카",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ロカ",
+        "Roca"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/roca/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ヴァレリ峡谷": {
+      "ko": "발레리 협곡",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ヴァレリ峡谷",
+        "Valeri Gorge",
+        "발레리 협곡"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/valeri-gorge/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "ヴォーダン峠": {
+      "ko": "보단 고개",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "ヴォーダン峠",
+        "보단 고개",
+        "Wodan Pass",
+        "보만 고개"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-bodan-pass/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "叫びの海": {
+      "ko": "절규의 바다",
+      "kind": "location",
+      "status": "pending",
+      "aliases": [
+        "叫びの海",
+        "Sea of Screams",
+        "비명의 바다",
+        "비명의 바다(Sea of Screams)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/sea-of-screams/",
+      "sourceMethod": "community-name-correspondence",
+      "note": "참고 도감에서도 공식 한국어명 확인 전 커뮤니티 표기로 분류한 장소입니다."
+    },
+    "叫獣渓谷": {
+      "ko": "짐승 우는 골짜기",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "叫獣渓谷",
+        "짐승 우는 골짜기"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-howling-beast-valley/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "名もなき墓標": {
+      "ko": "이름 없는 묘비",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "名もなき墓標",
+        "이름 없는 묘비",
+        "Unmarked Graves"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-nameless-graves/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "咽せ風の谷": {
+      "ko": "숨 막히는 바람의 계곡",
+      "kind": "location",
+      "status": "pending",
+      "aliases": [
+        "咽せ風の谷",
+        "Choking-Wind Valley",
+        "휘몰아치는 골짜기",
+        "휘몰아치는 골짜기(Choking-Wind Valley)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/choking-wind-valley/",
+      "sourceMethod": "community-name-correspondence",
+      "note": "참고 도감에서도 공식 한국어명 확인 전 커뮤니티 표기로 분류한 장소입니다."
+    },
+    "哭き木の森": {
+      "ko": "울부짖는 나무 숲",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "哭き木の森",
+        "울부짖는 나무 숲"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-howling-tree-forest/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "囁き岩": {
+      "ko": "속삭임 바위",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "囁き岩",
+        "속삭임 바위"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-whispering-rock/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "城塞都市モンス": {
+      "ko": "성채 도시 몽스",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "城塞都市モンス",
+        "성채 도시 몽스",
+        "성채 도시 몬스",
+        "Fortress City Mons"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-mons-fortress-city/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "大鮫の巣": {
+      "ko": "대상어 소굴",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "大鮫の巣",
+        "대상어 소굴",
+        "Great Shark’s Den",
+        "거대 상어의 둥지(大鮫の巣)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-great-shark-den/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "天馬岩": {
+      "ko": "천마암",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "天馬岩",
+        "천마암"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-pegasus-rock/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "巨人の丘": {
+      "ko": "거인의 언덕",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "巨人の丘",
+        "거인의 언덕",
+        "Giants’ Mount",
+        "거인의 산(Giant's Mount)",
+        "거인의 산",
+        "Giant's Mount"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-giant-s-hill/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "巨大肉": {
+      "ko": "거대고기",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "巨大肉",
+        "거인의 고기",
+        "거대 고기",
+        "거대한 고깃덩이"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/giants-meat/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "巨鳥の頸": {
+      "ko": "거대 새의 목",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "巨鳥の頸",
+        "거대 새의 목"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-giant-bird-neck/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "常霧平原": {
+      "ko": "안개 평원",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "常霧平原",
+        "안개 평원"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-mist-plain/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "戦士の道": {
+      "ko": "전사의 길",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "戦士の道",
+        "전사의 길",
+        "Warrior’s Road"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-warrior-s-road/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "旅人の丘": {
+      "ko": "여행자의 언덕",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "旅人の丘",
+        "Traveler's Hill",
+        "Traveler’s Hill",
+        "여행자의 언덕"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/travelers-hill/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "日見峠": {
+      "ko": "해맞이 고개",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "日見峠",
+        "해맞이 고개"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-sunrise-pass/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "星生まれの花園": {
+      "ko": "별이 낳은 화원",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "星生まれの花園",
+        "Starbirth Garden",
+        "별이 낳은 화원"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/starbirth-garden/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "星見峠": {
+      "ko": "별맞이 고개",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "星見峠",
+        "별맞이 고개"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-stargazing-pass/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "晦ましの森": {
+      "ko": "눈속임 숲",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "晦ましの森",
+        "눈속임 숲"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-deceptive-forest/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "暁平原": {
+      "ko": "새벽녘 평원",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "暁平原",
+        "새벽녘 평원"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-dawn-plain/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "月見峠": {
+      "ko": "달맞이 고개",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "月見峠",
+        "Moonwatch Pass",
+        "달맞이 고개"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/moonwatch-pass/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "未開のオアシス": {
+      "ko": "미개척 오아시스",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "未開のオアシス",
+        "미개척 오아시스"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-unexplored-oasis/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "朽ち木の狭道": {
+      "ko": "부목의 좁은 길",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "朽ち木の狭道",
+        "부목의 좁은 길"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-driftwood-path/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "東アマルテア駅": {
+      "ko": "동아말테아역",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "東アマルテア駅",
+        "동아말테아역"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/east-amalthea-station/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "流浪者の古庭": {
+      "ko": "유랑자의 옛 정원",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "流浪者の古庭",
+        "Traveler's Garden",
+        "Traveler’s Garden",
+        "유랑자의 옛 정원"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/travelers-garden/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "海都アレクトー": {
+      "ko": "해양 도시 알렉토",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "海都アレクトー",
+        "해도 알렉토",
+        "해양 도시 알렉토",
+        "Alecto"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/alecto-city/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "深緑の穴": {
+      "ko": "심록의 구멍",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "深緑の穴",
+        "짙푸른 구덩이",
+        "푸른 골짜기",
+        "Deep Green Hollow",
+        "심록의 구멍",
+        "Verdant Hollow"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/verdant-hollow/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "焼け草の砂丘": {
+      "ko": "그을린 초목의 사구",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "焼け草の砂丘",
+        "그을린 초목의 사구",
+        "불탄 풀 사구(焼け草の砂丘)",
+        "Scorched-Grass Dunes"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-charred-dunes/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "王都グランアラゴン": {
+      "ko": "왕도 그랑 아라곤",
+      "kind": "location",
+      "status": "player-record",
+      "aliases": [
+        "王都グランアラゴン",
+        "왕도 그랑 아라곤"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/gran-aragon/",
+      "sourceMethod": "untranslated",
+      "note": "",
+      "playerSource": "https://gall.dcinside.com/mgallery/board/view/?id=fireemblem&no=775154"
+    },
+    "王都ブレストン": {
+      "ko": "왕도 브레스턴",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "王都ブレストン",
+        "왕도 브레스턴",
+        "왕도 브레스톤",
+        "Breston capital"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-bresten/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "王都メガエラ": {
+      "ko": "왕도 메가에라",
+      "kind": "location",
+      "status": "player-record",
+      "aliases": [
+        "王都メガエラ",
+        "메가이라",
+        "왕도 메가에라",
+        "메가에라",
+        "Megaira"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/megaira/",
+      "sourceMethod": "provisional",
+      "note": "",
+      "playerSource": "https://gall.dcinside.com/mgallery/board/view/?id=fireemblem&no=775154"
+    },
+    "白鴉の台": {
+      "ko": "백아의 석대",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "白鴉の台",
+        "백아의 석대",
+        "Pale Raven’s Perch",
+        "백아의 대지(白鴉の台)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-pale-raven-s-stone/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "砂の抜け道": {
+      "ko": "모래 샛길",
+      "kind": "location",
+      "status": "pending",
+      "aliases": [
+        "砂の抜け道",
+        "Desert Escapeway",
+        "사막 탈출로",
+        "사막 탈출로(Desert Escapeway)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/desert-escapeway/",
+      "sourceMethod": "community-name-correspondence",
+      "note": "참고 도감에서도 공식 한국어명 확인 전 커뮤니티 표기로 분류한 장소입니다."
+    },
+    "砂上の園": {
+      "ko": "모래 위의 동산",
+      "kind": "location",
+      "status": "pending",
+      "aliases": [
+        "砂上の園",
+        "Garden in the Sands",
+        "모래 속 화원",
+        "모래 속 화원(Garden in the Sands)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/garden-in-the-sands/",
+      "sourceMethod": "community-name-correspondence",
+      "note": "참고 도감에서도 공식 한국어명 확인 전 커뮤니티 표기로 분류한 장소입니다."
+    },
+    "砂流れの道": {
+      "ko": "흐르는 모랫길",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "砂流れの道",
+        "흐르는 모랫길",
+        "Sandflow Road",
+        "유사 길(砂流れの道)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-shifting-sand-road/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "砂漠の入口": {
+      "ko": "사막 입구",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "砂漠の入口",
+        "사막 입구"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-desert-entrance/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "砂虫の巣": {
+      "ko": "모래 벌레 소굴",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "砂虫の巣",
+        "모래 벌레 소굴",
+        "Sandworm Nest",
+        "모래벌레 둥지(砂虫の巣)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-sandworm-den/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "竜呼びの岬": {
+      "ko": "용을 부르는 곳",
+      "kind": "location",
+      "status": "pending",
+      "aliases": [
+        "竜呼びの岬",
+        "용을 부르는 곶"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-dragon-cape/",
+      "sourceMethod": "user-adopted-community-name",
+      "note": "참고 도감에서도 공식 한국어명 확인 전 커뮤니티 표기로 분류한 장소입니다."
+    },
+    "笑み岩": {
+      "ko": "미소 바위",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "笑み岩",
+        "미소 바위",
+        "웃는 바위(笑み岩)",
+        "Smiling Stone",
+        "웃는 바위"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-smiling-rock/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "落ち日の道": {
+      "ko": "해 지는 길",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "落ち日の道",
+        "해 지는 길"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-sunset-path/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "裏山道": {
+      "ko": "뒤쪽 산길",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "裏山道",
+        "뒤쪽 산길",
+        "Rear Mountain Path",
+        "뒷산길(裏山道)",
+        "뒷산길(Rear Mountain Path)",
+        "뒷산길"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-back-mountain-road/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "西アマルテア駅": {
+      "ko": "서아말테아역",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "西アマルテア駅",
+        "서아말테아역"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/west-amalthea-station/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "迷子の大渦": {
+      "ko": "길 잃은 거대 소용돌이",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "迷子の大渦",
+        "길 잃은 거대 소용돌이",
+        "Wandering Whirlpool"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-wandering-great-whirlpool/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "還らずの森": {
+      "ko": "돌아올 수 없는 숲",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "還らずの森",
+        "Forest of No Return",
+        "돌아오지 못하는 숲",
+        "돌아올 수 없는 숲",
+        "돌아오지 못하는 숲(Forest of No Return)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/forest-of-no-return/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "闇夜峠": {
+      "ko": "암야 고개",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "闇夜峠",
+        "암야 고개",
+        "Midnight Turn",
+        "어두운 밤 고개(闇夜峠)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-darknight-pass/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "陽だまり峠": {
+      "ko": "별받이 고개",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "陽だまり峠",
+        "별받이 고개",
+        "볕받이 고개",
+        "양지 고개",
+        "Sunlit Pass"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/video-starwatch-mount-pass/",
+      "sourceMethod": "user-corrected-ocr",
+      "note": ""
+    },
+    "陽光の花園": {
+      "ko": "햇빛의 화원",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "陽光の花園",
+        "햇빛의 화원"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-sunlight-garden/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "雀躍の辻": {
+      "ko": "작약의 갈림길",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "雀躍の辻",
+        "작약의 갈림길"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-peony-crossroads/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "静寂の海": {
+      "ko": "고요의 바다",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "静寂の海",
+        "고요의 바다",
+        "고요한 바다(静寂の海)",
+        "Silent Sea"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-quiet-sea/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "領都カッシート": {
+      "ko": "영도 카시트",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "領都カッシート",
+        "영도 카시트",
+        "Cassito"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-kashit/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "風止まずの浜": {
+      "ko": "끝없는 바람의 해변",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "風止まずの浜",
+        "끝없는 바람의 해변"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-endless-wind-beach/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "飛蜥蜴肉": {
+      "ko": "날도마뱀 고기",
+      "kind": "material",
+      "status": "game-capture-reference",
+      "aliases": [
+        "飛蜥蜴肉",
+        "Flying-Lizard Meat",
+        "비행 도마뱀 고기"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/flying-lizard-meat/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "首狩り岩": {
+      "ko": "머리 사냥 바위",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "首狩り岩",
+        "머리 사냥 바위"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-headhunting-rock/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "骸の大流砂": {
+      "ko": "시체의 대유사",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "骸の大流砂",
+        "시체의 대유사",
+        "Corpses’ Gutter",
+        "시체의 거대 유사(骸の大流砂)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-quicksand-graveyard/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "魔の海域": {
+      "ko": "마의 해역",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "魔の海域",
+        "마의 해역",
+        "Demon’s Seawaters"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-perilous-waters/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "魚群岩礁": {
+      "ko": "어군 암초",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "魚群岩礁",
+        "어군 암초",
+        "Fish Schools’ Reef",
+        "물고기 떼 암초(魚群岩礁)"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-fish-shoal-reef/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "黒煙の谷ダミナ": {
+      "ko": "흑연의 계곡 다 미나",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "黒煙の谷ダミナ",
+        "흑연의 계곡 다 미나",
+        "검은 연기의 계곡 다 미나",
+        "Da Mina, Black Smoke Valley"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/map-da-mina-graphite-valley/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    },
+    "黒翼の谷": {
+      "ko": "검은 날개 계곡",
+      "kind": "location",
+      "status": "game-capture-reference",
+      "aliases": [
+        "黒翼の谷",
+        "검은 날개 계곡"
+      ],
+      "source": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/collection-black-wing-valley/",
+      "sourceMethod": "game-capture",
+      "note": ""
+    }
+  }
+}
