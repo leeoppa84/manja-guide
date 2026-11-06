@@ -1,4 +1,4 @@
-import {readFile,writeFile,mkdir,cp,stat} from 'node:fs/promises';
+import {readFile,writeFile,mkdir,cp,stat,rm} from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {createHash} from 'node:crypto';
@@ -14,6 +14,8 @@ const [site,first,third,sourceGroups,changes,order1,order3,classes]=await Promis
 function assert(ok,message){if(!ok)throw Error(message)}
 assert(datePattern.test(site.updatedAt),'site.updatedAt must be YYYY-MM-DD');
 assert(typeof site.version==='string'&&site.version.length>0,'Site version required');
+for(const key of ['authorBlogUrl','blogPostUrl'])assert(new URL(site[key]).origin==='https://blog.naver.com',`Invalid Naver blog URL: ${key}`);
+assert(site.version===(await json('package.json')).version&&site.version===changes[0].version,'Version metadata must agree');
 const sourceIds=new Set(sourceGroups.flatMap(g=>g.items.map(s=>s.id)));
 const hashes={1:new Set(),3:new Set()};
 const firstPortraits=new Map(first.map(c=>[c.id,c.portrait]));
@@ -86,24 +88,17 @@ const sourceHtml=(await read('content/sources.html')).replace(/<!--SOURCES:(\d+)
 const changelog=`<section id="updates"><h2>업데이트 기록</h2><p class="muted">현재 버전 ${esc(site.version)} · 수정 ${esc(site.updatedAt)}${site.gameVersion?' · 게임 '+esc(site.gameVersion):''}</p>${changes.map(c=>`<details><summary>${esc(c.date)} · v${esc(c.version)} · ${esc(c.part)}</summary><div><ul>${c.changes.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></div></details>`).join('')}</section>`;
 const [partOne,partThree]=await Promise.all([renderSections(order1,1),renderSections(order3,3)]);
 const fieldGuide=await renderFieldGuide({root,characters:third,classes});
-let output=(await read('content/template.html')).replace(/<title>[^<]*<\/title>/,`<title>${esc(site.title)}</title>`).replaceAll('{{ASSET_VERSION}}',encodeURIComponent(site.version)).replace('{{UPDATED_LABEL}}',`v${esc(site.version)} · 수정 ${esc(site.updatedAt)}`).replace('<!--PART1-->',()=>partOne).replace('<!--PART3-->',()=>partThree).replace('<!--BIBLIOGRAPHY-->',()=>sourceHtml).replace('<!--CHANGELOG-->',()=>changelog);
+let output=(await read('content/template.html')).replace(/<title>[^<]*<\/title>/,`<title>${esc(site.title)}</title>`).replaceAll('{{AUTHOR_BLOG_URL}}',()=>esc(site.authorBlogUrl)).replaceAll('{{BLOG_POST_URL}}',()=>esc(site.blogPostUrl)).replaceAll('{{ASSET_VERSION}}',encodeURIComponent(site.version)).replace('{{UPDATED_LABEL}}',`v${esc(site.version)} · 수정 ${esc(site.updatedAt)}`).replace('<!--PART1-->',()=>partOne).replace('<!--PART3-->',()=>partThree).replace('<!--BIBLIOGRAPHY-->',()=>sourceHtml).replace('<!--CHANGELOG-->',()=>changelog);
 output=output.replace('<!--FIELD_MOUNTS-->',()=>fieldGuide.mounts).replace('<!--FIELD_RESTORATION-->',()=>fieldGuide.restoration).replace('<!--FIELD_TEAMS-->',()=>fieldGuide.teams).replace('<!--FIELD_FARMING-->',()=>fieldGuide.farming);
 output=decorateClassCells(decorateClassSteps(output));
 assert(!/<!--(?:UNIT1|CHARACTERS3|PART[13]|SOURCES|BIBLIOGRAPHY|CHANGELOG|FIELD_)/.test(output),'Unrendered source placeholder');
 const ids=[...output.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);assert(ids.length===new Set(ids).size,'Duplicate output IDs');
 for(const m of output.matchAll(/href="#([^"]+)"/g))assert(ids.includes(m[1]),`Missing anchor target ${m[1]}`);
 const dist=path.join(root,'dist');await mkdir(dist,{recursive:true});await cp(path.join(root,'assets'),path.join(dist,'assets'),{recursive:true});await writeFile(path.join(dist,'index.html'),output);await writeFile(path.join(dist,'.nojekyll'),'');
-let css=await read('assets/shared/guide.css');const js=await read('assets/shared/guide.js');
-for(const m of [...css.matchAll(/url\((\.\.\/shared\/[^)]+)\)/g)]){const file='assets/shared/'+path.basename(m[1]);const b=await readFile(path.join(root,file));css=css.replaceAll(m[1],'data:font/woff;base64,'+b.toString('base64'))}
-// Callback replacements preserve literal $$ and other replacement-pattern characters in source code.
-new Script(js,{filename:'guide.js'});
-let offline=output.replace(/<link[^>]*href="assets\/shared\/guide.css(?:\?[^\"]*)?"[^>]*>/,()=>'<style>'+css+'</style>').replace(/<script[^>]*src="assets\/shared\/guide.js(?:\?[^\"]*)?"[^>]*><\/script>/,()=>'<script>'+js+'</script>');
-const inlineScript=offline.match(/<script>([\s\S]*?)<\/script>/)?.[1];
-assert(inlineScript===js,'Offline JavaScript differs from source');
-new Script(inlineScript,{filename:'offline.html'});
-offline=offline.replace(/<a download="manja_guide_v[^"]+\.html" href="offline\.html\?v=[^"]+">[^<]*<\/a>/,'<span>오프라인 저장본</span>');
-const assets=[...new Set([...offline.matchAll(/src="(assets\/(?:part[13]|jobs|field)\/[^\"]+)"/g)].map(m=>m[1]))];
-for(const file of assets){const b=await readFile(path.join(root,file));const ext=path.extname(file).slice(1);offline=offline.replaceAll('src="'+file+'"','src="data:image/'+(ext==='jpg'?'jpeg':ext)+';base64,'+b.toString('base64')+'"')}
-await writeFile(path.join(dist,'offline.html'),offline);
-await writeFile(path.join(dist,'build-info.json'),JSON.stringify({version:site.version,updatedAt:site.updatedAt,part1:first.length,part3:third.length,thirdPortraits:third.filter(c=>c.portrait).length,indexBytes:Buffer.byteLength(output),offlineBytes:Buffer.byteLength(offline)},null,2));
-console.log(JSON.stringify({validation:'passed',version:site.version,part1:first.length,part3:third.length,thirdPortraits:third.filter(c=>c.portrait).length,indexBytes:Buffer.byteLength(output),offlineBytes:Buffer.byteLength(offline)}));
+// Remove a stale download artifact when rebuilding an existing dist directory.
+await rm(path.join(dist,'offline.html'),{force:true});
+new Script(await read('assets/shared/guide.js'),{filename:'guide.js'});
+assert(!/\bdownload(?:\s|=|>)/i.test(output)&&!output.includes('offline.html'),'Web guide must not offer downloads');
+const buildInfo={version:site.version,updatedAt:site.updatedAt,part1:first.length,part3:third.length,thirdPortraits:third.filter(c=>c.portrait).length,indexBytes:Buffer.byteLength(output)};
+await writeFile(path.join(dist,'build-info.json'),JSON.stringify(buildInfo,null,2));
+console.log(JSON.stringify({validation:'passed',...buildInfo}));

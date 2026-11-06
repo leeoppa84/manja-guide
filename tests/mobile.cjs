@@ -4,13 +4,14 @@ const root=path.resolve(__dirname,'..');const expectedVersion=JSON.parse(require
 (async()=>{
  const browser=await chromium.launch({executablePath:process.env.GUIDE_BROWSER_PATH||undefined,headless:true,args:['--disable-gpu']});
  const results=[];const test=(name,pass,detail)=>{results.push({name,pass,detail});if(!pass)console.log('FAIL',name,detail)};
- const url=name=>'file:///'+path.resolve(name).replaceAll('\\','/');
- for(const build of ['index.html','offline.html']){
+ const url=name=>process.env.GUIDE_TEST_URL||'file:///'+path.resolve(name).replaceAll('\\','/');
+ for(const build of ['index.html']){
   const ctx=await browser.newContext({viewport:{width:390,height:844},isMobile:true,hasTouch:true});
   const p=await ctx.newPage(),errors=[];p.on('pageerror',e=>errors.push(e.message));
-  if(build==='offline.html')await ctx.setOffline(true);
   await p.goto(url(path.join(root,'dist')+'/'+build));
   test(build+': initialized and correct version',await p.evaluate(()=>!!window.guide)&&await p.locator('header small').innerText().then(t=>t.includes('v'+expectedVersion)));
+  test(build+': no download UI',await p.locator('[download],a[href*="offline.html"]').count()===0);
+  test(build+': creator and blog links',await p.locator('header a[href="https://blog.naver.com/leeoppaoppa"]').count()===1&&await p.locator('header a[href="https://blog.naver.com/leeoppaoppa/224466296404"]').count()===1);
   test(build+': original first-part roster retained',await p.locator('#tier-board .static-unit').count()===50);
   await p.locator('#hero-search').fill('사도');await p.locator('#hero-search').press('Enter');
   test(build+': localized first-part class search',await p.locator('#find-count').innerText().then(t=>!t.includes('없음'))&&await p.locator('#tier-board details[open]').count()===1);
@@ -55,18 +56,17 @@ const root=path.resolve(__dirname,'..');const expectedVersion=JSON.parse(require
   await p.setViewportSize({width:390,height:844});
   await p.locator('[data-part-button="3"]').tap();
   await p.locator('#p3-u816415 .class-path').scrollIntoViewIfNeeded();
-  await p.screenshot({path:out+'/v1.2.0-'+build.split('.')[0]+'-classes.png'});
+  await p.screenshot({path:out+'/v'+expectedVersion+'-'+build.split('.')[0]+'-classes.png'});
   await p.locator('#nav3 a[href="#p3-atlas"]').tap();await p.locator('#p3-search').fill('클라프카');
   await p.locator('#p3-u817240>summary').tap();await p.locator('#p3-u817240').scrollIntoViewIfNeeded();
-  await p.screenshot({path:out+'/v1.2.0-'+build.split('.')[0]+'-portrait.png'});
+  await p.screenshot({path:out+'/v'+expectedVersion+'-'+build.split('.')[0]+'-portrait.png'});
   await p.goto(url(path.join(root,'dist')+'/'+build)+'#p3-u816440');
   test(build+': direct character link opens correct part',await p.locator('#part3').isVisible()&&await p.locator('#p3-u816440').getAttribute('open')!==null);
   await p.goto(url(path.join(root,'dist')+'/'+build)+'#%FF');
   test(build+': malformed hash does not break startup',await p.evaluate(()=>!!window.guide));
   test(build+': no JS errors',errors.length===0,errors);
-  if(build==='offline.html')test('Offline copy has no external images or assets',await p.evaluate(()=>[...document.images].every(i=>i.src.startsWith('data:'))&&document.querySelectorAll('script[src],link[rel="stylesheet"]').length===0));
   await ctx.close();
  }
- const ctx=await browser.newContext({javaScriptEnabled:false,viewport:{width:390,height:844},isMobile:true,hasTouch:true});const p=await ctx.newPage();await p.goto(url(path.join(root,'dist/offline.html')));await p.locator('[data-part-button="3"]').tap();test('No-JS tab falls back to native anchor',await p.evaluate(()=>location.hash==='#part3')&&await p.locator('#part3').isVisible());
+ const ctx=await browser.newContext({javaScriptEnabled:false,viewport:{width:390,height:844},isMobile:true,hasTouch:true});const p=await ctx.newPage();await p.goto(url(path.join(root,'dist/index.html')));await p.locator('[data-part-button="3"]').tap();test('No-JS tab falls back to native anchor',await p.evaluate(()=>location.hash==='#part3')&&await p.locator('#part3').isVisible());
  await browser.close();fs.writeFileSync(path.join(out,'mobile-tests.json'),JSON.stringify(results,null,2));console.log(JSON.stringify({tests:results.length,passed:results.filter(r=>r.pass).length,failed:results.filter(r=>!r.pass)}));if(results.some(r=>!r.pass))process.exit(1);
 })().catch(e=>{console.error(e);process.exit(1)});

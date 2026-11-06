@@ -20,9 +20,9 @@ jobs:
       - uses: actions/setup-node@v6
         with:
           node-version: '22'
-      - name: Validate content and build online and offline guides
+      - name: Validate content and build public web guide
         run: node scripts/build.mjs
-      - name: Check content and offline regression guards
+      - name: Check content and public web regression guards
         run: node tests/content.cjs
       - name: Configure GitHub Pages
         if: github.event_name != 'pull_request'

@@ -6,10 +6,9 @@ const out=path.join(root,'test-results');fs.mkdirSync(out,{recursive:true});
 (async()=>{
  const browser=await chromium.launch({executablePath:process.env.GUIDE_BROWSER_PATH||undefined,headless:true});
  const results=[],test=(name,pass,detail)=>{results.push({name,pass,detail});if(!pass)console.log('FAIL',name,detail)};
- const cases=process.env.GUIDE_TEST_URL?[process.env.GUIDE_TEST_URL]:['index.html','offline.html'];
+ const cases=process.env.GUIDE_TEST_URL?[process.env.GUIDE_TEST_URL]:['index.html'];
  for(const name of cases){
   const ctx=await browser.newContext({viewport:{width:390,height:844},isMobile:true,hasTouch:true});
-  if(name==='offline.html')await ctx.setOffline(true);
   const p=await ctx.newPage(),errors=[];p.on('pageerror',e=>errors.push(e.message));
   const url=name.startsWith('https:')?name:pathToFileURL(path.join(root,'dist',name)).href;
   await p.goto(url+'#p3-restoration');await p.waitForFunction(()=>!!window.guide);

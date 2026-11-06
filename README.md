@@ -9,7 +9,13 @@ node scripts/build.mjs
 node scripts/serve.mjs
 ```
 
-추가 패키지 없이 Node.js 22 이상에서 실행합니다. dist/index.html은 온라인용, dist/offline.html은 이미지·기능을 내장한 다운로드용이며 같은 데이터에서 생성됩니다.
+추가 패키지 없이 Node.js 22 이상에서 실행합니다. dist/index.html과 정적 자산을 공개 웹 공략집으로 제공합니다. 다운로드 버튼과 오프라인 HTML은 제공하지 않습니다. 기존 빌드 폴더에 남은 offline.html도 재빌드 시 제거합니다.
+
+공개 공략집: https://leeoppa84.github.io/manja-guide/
+제작자 블로그: https://blog.naver.com/leeoppaoppa
+공략집 소개 글: https://blog.naver.com/leeoppaoppa/224466296404
+
+버전·수정일·제작자/블로그 링크는 data/site.json에서 관리합니다. package.json 및 최신 변경 기록의 버전도 함께 맞춥니다.
 
 GitHub의 main 브랜치에 변경 사항을 올리면 검사 후 Pages를 배포합니다. 최초 한 번 Settings → Pages → Source를 GitHub Actions로 선택해야 합니다. 블로그에서 연결한 주소는 이후 업데이트에도 유지합니다.
 

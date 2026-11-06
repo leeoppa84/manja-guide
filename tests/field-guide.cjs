@@ -5,11 +5,10 @@ const out=path.join(root,'test-results');fs.mkdirSync(out,{recursive:true});
 (async()=>{
  const browser=await chromium.launch({executablePath:process.env.GUIDE_BROWSER_PATH||undefined,headless:true});
  const results=[],test=(name,pass,detail)=>{results.push({name,pass,detail});if(!pass)console.log('FAIL',name,detail)};
- const cases=process.env.GUIDE_TEST_URL?[process.env.GUIDE_TEST_URL]:['index.html','offline.html'];
+ const cases=process.env.GUIDE_TEST_URL?[process.env.GUIDE_TEST_URL]:['index.html'];
  for(const name of cases){
   const ctx=await browser.newContext({viewport:{width:390,height:844},isMobile:true,hasTouch:true});
   const page=await ctx.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));
-  if(name==='offline.html')await ctx.setOffline(true);
   const url=name.startsWith('https:')?name:pathToFileURL(path.join(root,'dist',name)).href;
   await page.goto(url+'#p3-mounts');
   await page.waitForFunction(()=>!!window.guide);
@@ -56,7 +55,7 @@ const out=path.join(root,'test-results');fs.mkdirSync(out,{recursive:true});
   test(name+': no JavaScript errors',errors.length===0,errors);
   await ctx.close();
  }
- if(!process.env.GUIDE_TEST_URL){const nojs=await browser.newContext({javaScriptEnabled:false,viewport:{width:390,height:844}});const p=await nojs.newPage();await p.goto(pathToFileURL(path.join(root,'dist/offline.html')).href+'#p3-teams');test('No-JS offline guide exposes all three squad plans',await p.locator('.squad-plan:visible').count()===3);await nojs.close();}
+ if(!process.env.GUIDE_TEST_URL){const nojs=await browser.newContext({javaScriptEnabled:false,viewport:{width:390,height:844}});const p=await nojs.newPage();await p.goto(pathToFileURL(path.join(root,'dist/index.html')).href+'#p3-teams');test('No-JS web guide exposes all three squad plans',await p.locator('.squad-plan:visible').count()===3);await nojs.close();}
  await browser.close();fs.writeFileSync(path.join(out,'field-guide-tests.json'),JSON.stringify(results,null,2));
  console.log(JSON.stringify({tests:results.length,passed:results.filter(x=>x.pass).length,failed:results.filter(x=>!x.pass)}));if(results.some(x=>!x.pass))process.exit(1);
 })().catch(e=>{console.error(e);process.exit(1)});
