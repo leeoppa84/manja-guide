@@ -22,6 +22,8 @@ jobs:
           node-version: '22'
       - name: Validate content and build online and offline guides
         run: node scripts/build.mjs
+      - name: Check content and offline regression guards
+        run: node tests/content.cjs
       - name: Configure GitHub Pages
         if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v5

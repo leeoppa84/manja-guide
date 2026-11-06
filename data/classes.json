@@ -1,0 +1,634 @@
+[
+  {
+    "ja": "闘士",
+    "url": "https://img.game8.jp/13008841/1dba540f7f729f8a224ccef782a4cb66.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816670",
+    "path": "assets/jobs/class-13008841.webp",
+    "color": "#783828",
+    "aliases": [
+      "투사"
+    ],
+    "surface": "#34201b"
+  },
+  {
+    "ja": "猟兵",
+    "url": "https://img.game8.jp/13008843/6dee3c01da724386c48df4c3b27ac83c.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816669",
+    "path": "assets/jobs/class-13008843.webp",
+    "color": "#985818",
+    "aliases": [
+      "엽병"
+    ],
+    "surface": "#3f2a16"
+  },
+  {
+    "ja": "兵士",
+    "url": "https://img.game8.jp/13008842/659acc645855e92e1ceb86fbbcc94759.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816668",
+    "path": "assets/jobs/class-13008842.webp",
+    "color": "#384828",
+    "aliases": [
+      "병사"
+    ],
+    "surface": "#20251b"
+  },
+  {
+    "ja": "飛駝兵",
+    "url": "https://img.game8.jp/13008850/aa46460e19d5ef8daa9ba1106ea63168.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816667",
+    "path": "assets/jobs/class-13008850.webp",
+    "color": "#284858",
+    "aliases": [
+      "비타병"
+    ],
+    "surface": "#1b252a"
+  },
+  {
+    "ja": "呪い師",
+    "url": "https://img.game8.jp/13008845/f7390082f21cb05e25ca0d939c34e997.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816666",
+    "path": "assets/jobs/class-13008845.webp",
+    "color": "#583858",
+    "aliases": [
+      "주술사"
+    ],
+    "surface": "#2a202a"
+  },
+  {
+    "ja": "剣士",
+    "url": "https://img.game8.jp/13008851/c41b9c4f3c1bfc04e740d788fb66134c.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816665",
+    "path": "assets/jobs/class-13008851.webp",
+    "color": "#783828",
+    "aliases": [
+      "검사"
+    ],
+    "surface": "#34201b"
+  },
+  {
+    "ja": "ブリガンド",
+    "url": "https://img.game8.jp/13008853/79c4b19219530ab1b5b706c81bdb217c.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816664",
+    "path": "assets/jobs/class-13008853.webp",
+    "color": "#783828",
+    "aliases": [
+      "브리건드"
+    ],
+    "surface": "#34201b"
+  },
+  {
+    "ja": "セスタス",
+    "url": "https://img.game8.jp/13008861/8685a8bbad83470df44ca3df28999660.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816663",
+    "path": "assets/jobs/class-13008861.webp",
+    "color": "#783828",
+    "aliases": [
+      "세스타스"
+    ],
+    "surface": "#34201b"
+  },
+  {
+    "ja": "アーチャー",
+    "url": "https://img.game8.jp/13008866/f7e121eb92b677ee3c75c951d7d42793.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816662",
+    "path": "assets/jobs/class-13008866.webp",
+    "color": "#985818",
+    "aliases": [
+      "아처"
+    ],
+    "surface": "#3f2a16"
+  },
+  {
+    "ja": "ローグ",
+    "url": "https://img.game8.jp/13008846/08bb59161b0264e79b3ee961c295af69.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816661",
+    "path": "assets/jobs/class-13008846.webp",
+    "color": "#985818",
+    "aliases": [
+      "로그"
+    ],
+    "surface": "#3f2a16"
+  },
+  {
+    "ja": "重装歩兵",
+    "url": "https://img.game8.jp/13008859/7d9f7393b284a1b3a3b16df3909036c1.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816660",
+    "path": "assets/jobs/class-13008859.webp",
+    "color": "#485828",
+    "aliases": [
+      "중장보병"
+    ],
+    "surface": "#252a1b"
+  },
+  {
+    "ja": "軽騎兵",
+    "url": "https://img.game8.jp/13008863/00eb088e598c27b26df1d24034bf1470.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816659",
+    "path": "assets/jobs/class-13008863.webp",
+    "color": "#384828",
+    "aliases": [
+      "경기병"
+    ],
+    "surface": "#20251b"
+  },
+  {
+    "ja": "戦車兵",
+    "url": "https://img.game8.jp/13008862/632cbbc30f8d47614d7bff74e04e6227.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816658",
+    "path": "assets/jobs/class-13008862.webp",
+    "color": "#384828",
+    "aliases": [
+      "전차병"
+    ],
+    "surface": "#20251b"
+  },
+  {
+    "ja": "騎甲駝兵",
+    "url": "https://img.game8.jp/13008852/575e77e76dea8ea5a9cad62daf7a5f78.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816657",
+    "path": "assets/jobs/class-13008852.webp",
+    "color": "#284848",
+    "aliases": [
+      "기갑타병"
+    ],
+    "surface": "#1b2525"
+  },
+  {
+    "ja": "天翼兵",
+    "url": "https://img.game8.jp/13008860/e3af62405befaaa62699127cddcd849a.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816656",
+    "path": "assets/jobs/class-13008860.webp",
+    "color": "#284858",
+    "aliases": [
+      "천익병"
+    ],
+    "surface": "#1b252a"
+  },
+  {
+    "ja": "シャーマン",
+    "url": "https://img.game8.jp/13008849/01dce648d3181b5a75c4c38a6c773e3e.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816655",
+    "path": "assets/jobs/class-13008849.webp",
+    "color": "#583858",
+    "aliases": [
+      "샤먼"
+    ],
+    "surface": "#2a202a"
+  },
+  {
+    "ja": "プリースト",
+    "url": "https://img.game8.jp/13008864/4f640dcaa577dad6f8cc8328b1689b46.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816654",
+    "path": "assets/jobs/class-13008864.webp",
+    "color": "#583858",
+    "aliases": [
+      "프리스트"
+    ],
+    "surface": "#2a202a"
+  },
+  {
+    "ja": "シドー",
+    "url": "https://img.game8.jp/13008854/8e01e6336740da6d442b921143616d33.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816653",
+    "path": "assets/jobs/class-13008854.webp",
+    "color": "#783828",
+    "aliases": [
+      "사도",
+      "시도"
+    ],
+    "surface": "#34201b"
+  },
+  {
+    "ja": "ウォーリアー",
+    "url": "https://img.game8.jp/13008865/535512d78bd25e7094f9a7c2eaae8a8b.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816652",
+    "path": "assets/jobs/class-13008865.webp",
+    "color": "#783828",
+    "aliases": [
+      "워리어"
+    ],
+    "surface": "#34201b"
+  },
+  {
+    "ja": "スナイパー",
+    "url": "https://img.game8.jp/13008858/5a0b48681a250f0eaee596a589a9a5f8.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816651",
+    "path": "assets/jobs/class-13008858.webp",
+    "color": "#985818",
+    "aliases": [
+      "스나이퍼"
+    ],
+    "surface": "#3f2a16"
+  },
+  {
+    "ja": "フォレストナイト",
+    "url": "https://img.game8.jp/13008856/25f786d29cd0e531685defac76599511.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816650",
+    "path": "assets/jobs/class-13008856.webp",
+    "color": "#885818",
+    "aliases": [
+      "포레스트 나이트"
+    ],
+    "surface": "#3a2a16"
+  },
+  {
+    "ja": "ヘヴィアーマー",
+    "url": "https://img.game8.jp/13008847/e7d8e9e9660e4cad59b641ec9d33d338.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816649",
+    "path": "assets/jobs/class-13008847.webp",
+    "color": "#384828",
+    "aliases": [
+      "헤비 아머"
+    ],
+    "surface": "#20251b"
+  },
+  {
+    "ja": "バーディンガー",
+    "url": "https://img.game8.jp/13008844/e68d28b29377ded9816e72e582971791.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816648",
+    "path": "assets/jobs/class-13008844.webp",
+    "color": "#384828",
+    "aliases": [
+      "바딩거"
+    ],
+    "surface": "#20251b"
+  },
+  {
+    "ja": "ウァテス",
+    "url": "https://img.game8.jp/13008857/b8c87e7c59e42540c5228f8e5168f11c.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816647",
+    "path": "assets/jobs/class-13008857.webp",
+    "color": "#583858",
+    "aliases": [
+      "와테스",
+      "바테스"
+    ],
+    "surface": "#2a202a"
+  },
+  {
+    "ja": "ビショップ",
+    "url": "https://img.game8.jp/13008848/8e8fa2aabcb7651852d040acae1516ac.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816645",
+    "path": "assets/jobs/class-13008848.webp",
+    "color": "#583858",
+    "aliases": [
+      "비숍"
+    ],
+    "surface": "#2a202a"
+  },
+  {
+    "ja": "戦象兵",
+    "url": "https://img.game8.jp/13012932/a92e09f34ab995db87ba30e445a605c1.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816718",
+    "path": "assets/jobs/class-13012932.webp",
+    "color": "#485838",
+    "aliases": [],
+    "surface": "#252a20"
+  },
+  {
+    "ja": "カラドリオス",
+    "url": "https://img.game8.jp/13012926/fac1b17a30cebfda9f75725b6f48b639.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816717",
+    "path": "assets/jobs/class-13012926.webp",
+    "color": "#384858",
+    "aliases": [
+      "카라드리오스"
+    ],
+    "surface": "#20252a"
+  },
+  {
+    "ja": "ドラグーン",
+    "url": "https://img.game8.jp/13012935/1962a6bb44f55a2fd52ac85532081739.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816716",
+    "path": "assets/jobs/class-13012935.webp",
+    "color": "#384858",
+    "aliases": [
+      "드라군"
+    ],
+    "surface": "#20252a"
+  },
+  {
+    "ja": "トルバドール",
+    "url": "https://img.game8.jp/13012933/5ec592c2e98e7f2687144d8bc776e56d.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816715",
+    "path": "assets/jobs/class-13012933.webp",
+    "color": "#583858",
+    "aliases": [
+      "트루바두르"
+    ],
+    "surface": "#2a202a"
+  },
+  {
+    "ja": "踊り子",
+    "url": "https://img.game8.jp/13015153/86a4ec6f91f9dbddac186db044c6c648.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816861",
+    "path": "assets/jobs/class-13015153.webp",
+    "color": "#884838",
+    "aliases": [
+      "무희"
+    ],
+    "surface": "#3a2520"
+  },
+  {
+    "ja": "ガーディアン",
+    "url": "https://img.game8.jp/13015154/f1ccf4e76ba9e5f7f44c4b99a73199ba.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816860",
+    "path": "assets/jobs/class-13015154.webp",
+    "color": "#485828",
+    "aliases": [
+      "가디언"
+    ],
+    "surface": "#252a1b"
+  },
+  {
+    "ja": "レンジャー",
+    "url": "https://img.game8.jp/13015155/5d50c63ee9d21d5978d7ee67dff83e1f.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816859",
+    "path": "assets/jobs/class-13015155.webp",
+    "color": "#a86838",
+    "aliases": [
+      "레인저"
+    ],
+    "surface": "#442f20"
+  },
+  {
+    "ja": "カタフラクト",
+    "url": "https://img.game8.jp/13015284/98fc02cc284e92be07db8b0d02b6d31e.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816858",
+    "path": "assets/jobs/class-13015284.webp",
+    "color": "#485838",
+    "aliases": [],
+    "surface": "#252a20"
+  },
+  {
+    "ja": "鍛冶師",
+    "url": "https://img.game8.jp/13019787/35bd52b6966b7774c7ee13f43e5d7eca.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816973",
+    "path": "assets/jobs/class-13019787.webp",
+    "color": "#783828",
+    "aliases": [
+      "대장장이"
+    ],
+    "surface": "#34201b"
+  },
+  {
+    "ja": "バトルマスター",
+    "url": "https://img.game8.jp/13012957/8ebec5e28ad2324b93c4023ce5d3e7ec.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816714",
+    "path": "assets/jobs/class-13012957.webp",
+    "color": "#784838",
+    "aliases": [
+      "배틀 마스터"
+    ],
+    "surface": "#342520"
+  },
+  {
+    "ja": "マスターアーチ",
+    "url": "https://img.game8.jp/13012958/4de0be8fd5165ac7c426e49f578d46d3.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816713",
+    "path": "assets/jobs/class-13012958.webp",
+    "color": "#986838",
+    "aliases": [],
+    "surface": "#3f2f20"
+  },
+  {
+    "ja": "シャドーシーカー",
+    "url": "https://img.game8.jp/13012956/b69da221f73e80fe99c1def056b941f5.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816712",
+    "path": "assets/jobs/class-13012956.webp",
+    "color": "#986838",
+    "aliases": [
+      "섀도 시커"
+    ],
+    "surface": "#3f2f20"
+  },
+  {
+    "ja": "ホーリーランサー",
+    "url": "https://img.game8.jp/13012934/3d7e9242e9cf6cf65ede02d299fc64d9.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816711",
+    "path": "assets/jobs/class-13012934.webp",
+    "color": "#485838",
+    "aliases": [
+      "홀리 랜서"
+    ],
+    "surface": "#252a20"
+  },
+  {
+    "ja": "フォートレス",
+    "url": "https://img.game8.jp/13012930/679324288231566034fe50d15b29d939.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816710",
+    "path": "assets/jobs/class-13012930.webp",
+    "color": "#485838",
+    "aliases": [
+      "포트리스"
+    ],
+    "surface": "#252a20"
+  },
+  {
+    "ja": "オリハルディア",
+    "url": "https://img.game8.jp/13012931/ab76d8f818e22321f4abf1642cd0b8a2.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816709",
+    "path": "assets/jobs/class-13012931.webp",
+    "color": "#485838",
+    "aliases": [
+      "오리할디아"
+    ],
+    "surface": "#252a20"
+  },
+  {
+    "ja": "聖天翼兵",
+    "url": "https://img.game8.jp/13013053/8e1605b278f6c0f8f9f8e3ab1a35e395.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816708",
+    "path": "assets/jobs/class-13013053.webp",
+    "color": "#385868",
+    "aliases": [
+      "성천익병"
+    ],
+    "surface": "#202a2f"
+  },
+  {
+    "ja": "ドラゴンマスター",
+    "url": "https://img.game8.jp/13012929/def68dc406e3d5d4443306d3982d0a19.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816707",
+    "path": "assets/jobs/class-13012929.webp",
+    "color": "#384858",
+    "aliases": [
+      "드래곤 마스터"
+    ],
+    "surface": "#20252a"
+  },
+  {
+    "ja": "ドルイド",
+    "url": "https://img.game8.jp/13012927/5c6fd9723b1c3dbc714474f1ea0fd929.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816706",
+    "path": "assets/jobs/class-13012927.webp",
+    "color": "#583858",
+    "aliases": [
+      "드루이드"
+    ],
+    "surface": "#2a202a"
+  },
+  {
+    "ja": "ワイズマン",
+    "url": "https://img.game8.jp/13012928/bca724dfb40f76d8d83f6e55450c3783.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816705",
+    "path": "assets/jobs/class-13012928.webp",
+    "color": "#583858",
+    "aliases": [
+      "와이즈맨"
+    ],
+    "surface": "#2a202a"
+  },
+  {
+    "ja": "ソードマスター",
+    "url": "https://img.game8.jp/13018531/fdbd6e2b583d5c8316ff564b8ee4408d.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816951",
+    "path": "assets/jobs/class-13018531.webp",
+    "color": "#784838",
+    "aliases": [
+      "소드 마스터"
+    ],
+    "surface": "#342520"
+  },
+  {
+    "ja": "バトルモンク",
+    "url": "https://img.game8.jp/13018530/b9588f1802ae2f1050b1e529fa908f9b.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816950",
+    "path": "assets/jobs/class-13018530.webp",
+    "color": "#884838",
+    "aliases": [
+      "배틀 몽크"
+    ],
+    "surface": "#3a2520"
+  },
+  {
+    "ja": "ボウナイト",
+    "url": "https://img.game8.jp/13018519/6d3a96ec6ed55fa30eb742fab731f419.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816949",
+    "path": "assets/jobs/class-13018519.webp",
+    "color": "#986838",
+    "aliases": [
+      "보우 나이트"
+    ],
+    "surface": "#3f2f20"
+  },
+  {
+    "ja": "グレートナイト",
+    "url": "https://img.game8.jp/13018526/508acab5bf8be7e154bca4ea714f5db2.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816948",
+    "path": "assets/jobs/class-13018526.webp",
+    "color": "#485838",
+    "aliases": [
+      "그레이트 나이트"
+    ],
+    "surface": "#252a20"
+  },
+  {
+    "ja": "ヴァルキュリウム",
+    "url": "https://img.game8.jp/13018522/08b4cc1b2db2a501411d30ecafe0519e.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816947",
+    "path": "assets/jobs/class-13018522.webp",
+    "color": "#583858",
+    "aliases": [
+      "발큐리움"
+    ],
+    "surface": "#2a202a"
+  },
+  {
+    "ja": "ハイエピタフ",
+    "url": "https://img.game8.jp/13018529/39ecef56cc92bcfc454346b3aef38272.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816946",
+    "path": "assets/jobs/class-13018529.webp",
+    "color": "#683838",
+    "aliases": [
+      "하이 에피타프"
+    ],
+    "surface": "#2f2020"
+  },
+  {
+    "ja": "ザ・ブレイド",
+    "url": "https://img.game8.jp/13018527/2a6a2527a61ca7bc35c4980393e98df3.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816945",
+    "path": "assets/jobs/class-13018527.webp",
+    "color": "#884838",
+    "aliases": [
+      "더 블레이드"
+    ],
+    "surface": "#3a2520"
+  },
+  {
+    "ja": "ジ・アプサラス",
+    "url": "https://img.game8.jp/13018518/f25e2b9aa127242bb3adb488c0deddc4.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816944",
+    "path": "assets/jobs/class-13018518.webp",
+    "color": "#784838",
+    "aliases": [
+      "디 압사라"
+    ],
+    "surface": "#342520"
+  },
+  {
+    "ja": "ジ・エターナル",
+    "url": "https://img.game8.jp/13018524/7be0681e711fdbbe7a30d5f7799f7bb2.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816943",
+    "path": "assets/jobs/class-13018524.webp",
+    "color": "#784838",
+    "aliases": [
+      "디 이터널"
+    ],
+    "surface": "#342520"
+  },
+  {
+    "ja": "ザ・ゴッドハンド",
+    "url": "https://img.game8.jp/13018523/e59f51625a05078bf1c50d476fac33c0.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816942",
+    "path": "assets/jobs/class-13018523.webp",
+    "color": "#884838",
+    "aliases": [],
+    "surface": "#3a2520"
+  },
+  {
+    "ja": "ザ・カラミティ",
+    "url": "https://img.game8.jp/13018525/fb583c3ca80a6d968ee249a1bf34328d.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816941",
+    "path": "assets/jobs/class-13018525.webp",
+    "color": "#986838",
+    "aliases": [
+      "더 캘러미티"
+    ],
+    "surface": "#3f2f20"
+  },
+  {
+    "ja": "ザ・トライデント",
+    "url": "https://img.game8.jp/13018528/c483e190623632130197aa1e5d234618.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816940",
+    "path": "assets/jobs/class-13018528.webp",
+    "color": "#485838",
+    "aliases": [
+      "더 트라이던트"
+    ],
+    "surface": "#252a20"
+  },
+  {
+    "ja": "ザ・キャバリアー",
+    "url": "https://img.game8.jp/13018521/3dbc248babf19409b163d1c6db282424.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816939",
+    "path": "assets/jobs/class-13018521.webp",
+    "color": "#485838",
+    "aliases": [
+      "더 캐벌리어"
+    ],
+    "surface": "#252a20"
+  },
+  {
+    "ja": "ジ・アヴァタール",
+    "url": "https://img.game8.jp/13018520/b394abc027c16b095c10a76d66657159.webp/show",
+    "page": "https://game8.jp/fe-banshisenko/816938",
+    "path": "assets/jobs/class-13018520.webp",
+    "color": "#583858",
+    "aliases": [
+      "디 아바타르"
+    ],
+    "surface": "#2a202a"
+  }
+]

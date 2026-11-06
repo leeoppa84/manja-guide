@@ -113,6 +113,27 @@
         "url": "https://hysleeper.tistory.com/960",
         "lastChecked": "2026-11-05",
         "status": "확인 범위는 본문 참조"
+      },
+      {
+        "id": "game8-class-icons",
+        "label": "Game8 · 병과 목록·직업 아이콘",
+        "url": "https://game8.jp/fe-banshisenko/816408",
+        "lastChecked": "2026-11-06",
+        "status": "병과 이미지·용어 참고"
+      },
+      {
+        "id": "kr-restoration",
+        "label": "국내 공략 · 지역 복구와 제도 시설 재건",
+        "url": "https://hysleeper.tistory.com/896",
+        "lastChecked": "2026-11-06",
+        "status": "병과 이미지·용어 참고"
+      },
+      {
+        "id": "kr-exploration",
+        "label": "국내 도감 · 복구 소재와 재건 자재 구분",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/part-three-exploration/",
+        "lastChecked": "2026-11-06",
+        "status": "병과 이미지·용어 참고"
       }
     ]
   },
