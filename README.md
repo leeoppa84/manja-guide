@@ -18,3 +18,5 @@ GitHub의 main 브랜치에 변경 사항을 올리면 검사 후 Pages를 배�
 게임 이미지 권리: © Nintendo / INTELLIGENT SYSTEMS.
 
 개발 검사는 `node tests/content.cjs`로 실행합니다. 모바일 브라우저 검사는 Playwright를 설치한 환경에서 빌드 후 `node tests/mobile.cjs`로 실행합니다. `PLAYWRIGHT_MODULE`로 설치 경로를, `GUIDE_BROWSER_PATH`로 테스트 브라우저 실행 파일을 지정할 수 있습니다. 결과는 Git에서 제외되는 `test-results/`에 저장됩니다.
+
+3부 탈것·지역 복구·부대 편성은 `data/part3/field-guide.json`에서 관리합니다. 추가 브라우저 검사는 같은 환경 변수로 `node tests/field-guide.cjs`를 실행합니다. 수량이 상충하는 복구 재료는 큰 값을 준비량으로 표시하며 실제 납품량과 구분합니다.

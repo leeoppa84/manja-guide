@@ -1,6 +1,6 @@
 const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'playwright');
 const fs=require('node:fs'),path=require('node:path');
-const root=path.resolve(__dirname,'..');const out=process.env.GUIDE_TEST_OUTPUT||path.join(root,'test-results');fs.mkdirSync(out,{recursive:true});
+const root=path.resolve(__dirname,'..');const expectedVersion=JSON.parse(require('node:fs').readFileSync(path.join(root,'data/site.json'),'utf8')).version;const out=process.env.GUIDE_TEST_OUTPUT||path.join(root,'test-results');fs.mkdirSync(out,{recursive:true});
 (async()=>{
  const browser=await chromium.launch({executablePath:process.env.GUIDE_BROWSER_PATH||undefined,headless:true,args:['--disable-gpu']});
  const results=[];const test=(name,pass,detail)=>{results.push({name,pass,detail});if(!pass)console.log('FAIL',name,detail)};
@@ -10,7 +10,7 @@ const root=path.resolve(__dirname,'..');const out=process.env.GUIDE_TEST_OUTPUT|
   const p=await ctx.newPage(),errors=[];p.on('pageerror',e=>errors.push(e.message));
   if(build==='offline.html')await ctx.setOffline(true);
   await p.goto(url(path.join(root,'dist')+'/'+build));
-  test(build+': initialized and correct version',await p.evaluate(()=>!!window.guide)&&await p.locator('header small').innerText().then(t=>t.includes('v1.2.0')));
+  test(build+': initialized and correct version',await p.evaluate(()=>!!window.guide)&&await p.locator('header small').innerText().then(t=>t.includes('v'+expectedVersion)));
   test(build+': original first-part roster retained',await p.locator('#tier-board .static-unit').count()===50);
   await p.locator('#hero-search').fill('사도');await p.locator('#hero-search').press('Enter');
   test(build+': localized first-part class search',await p.locator('#find-count').innerText().then(t=>!t.includes('없음'))&&await p.locator('#tier-board details[open]').count()===1);

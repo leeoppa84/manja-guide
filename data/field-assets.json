@@ -1,0 +1,79 @@
+[
+  {
+    "path": "assets/field/13010017.webp",
+    "url": "https://img.game8.jp/13010017/b8e86753d00cce6bbd81a28ab11b4639.webp/show",
+    "sourcePage": "https://game8.jp/fe-banshisenko/816980",
+    "label": "デーツ",
+    "kind": "item-category-icon"
+  },
+  {
+    "path": "assets/field/13010019.webp",
+    "url": "https://img.game8.jp/13010019/5571e49bb58a4a3049910b8f7f01d1c6.webp/show",
+    "sourcePage": "https://game8.jp/fe-banshisenko/816980",
+    "label": "グルマオサ",
+    "kind": "item-category-icon"
+  },
+  {
+    "path": "assets/field/13010026.webp",
+    "url": "https://img.game8.jp/13010026/5d5de4ef29a0825db729687dea6b09c5.webp/show",
+    "sourcePage": "https://game8.jp/fe-banshisenko/816980",
+    "label": "カーネボニート",
+    "kind": "item-category-icon"
+  },
+  {
+    "path": "assets/field/13010018.webp",
+    "url": "https://img.game8.jp/13010018/63a4f31144642a7d0280c6d637e75f97.webp/show",
+    "sourcePage": "https://game8.jp/fe-banshisenko/816980",
+    "label": "キンバショウ",
+    "kind": "item-category-icon"
+  },
+  {
+    "path": "assets/field/13010058.webp",
+    "url": "https://img.game8.jp/13010058/05a139d695b20eec7fae0702d64a274b.webp/show",
+    "sourcePage": "https://game8.jp/fe-banshisenko/816980",
+    "label": "バザリーシャーク",
+    "kind": "item-category-icon"
+  },
+  {
+    "path": "assets/field/13010016.webp",
+    "url": "https://img.game8.jp/13010016/c07fb895f7da714ab7b222af71adfa16.webp/show",
+    "sourcePage": "https://game8.jp/fe-banshisenko/816980",
+    "label": "ハートボニート",
+    "kind": "item-category-icon"
+  },
+  {
+    "path": "assets/field/13027475.webp",
+    "url": "https://img.game8.jp/13027475/e88da4936bb5c3bb8f0aafeb005d4212.webp/show",
+    "sourcePage": "https://game8.jp/fe-banshisenko/816904",
+    "label": "野生の馬画像",
+    "kind": "mount-family-icon"
+  },
+  {
+    "path": "assets/field/13027715.webp",
+    "url": "https://img.game8.jp/13027715/a955056b0b05aa28d82179b6430fdabf.webp/show",
+    "sourcePage": "https://game8.jp/fe-banshisenko/816904",
+    "label": "野生のバウ画像",
+    "kind": "mount-family-icon"
+  },
+  {
+    "path": "assets/field/13027716.webp",
+    "url": "https://img.game8.jp/13027716/1d88a752c79a4743e2c3c0c1bae2fd8a.webp/show",
+    "sourcePage": "https://game8.jp/fe-banshisenko/816904",
+    "label": "野生のペガサス画像",
+    "kind": "mount-family-icon"
+  },
+  {
+    "path": "assets/field/13028529.webp",
+    "url": "https://img.game8.jp/13028529/06621bc28a23fbc634a60f29fb1751cc.webp/original",
+    "sourcePage": "https://game8.jp/fe-banshisenko/817234",
+    "label": "探索",
+    "kind": "game-screenshot"
+  },
+  {
+    "path": "assets/field/13018585.webp",
+    "url": "https://img.game8.jp/13018585/fbaf058fe2ca73ecb33c67e7c8171875.webp/original",
+    "sourcePage": "https://game8.jp/fe-banshisenko/817234",
+    "label": "育てたい野菜や植物",
+    "kind": "game-screenshot"
+  }
+]

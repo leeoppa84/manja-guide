@@ -1,0 +1,2041 @@
+{
+  "updatedAt": "2026-11-06",
+  "quantityPolicy": "conflicting-higher",
+  "mounts": [
+    {
+      "id": "black-horse",
+      "name": "흑마",
+      "ja": "黒馬",
+      "family": "말 계열",
+      "icon": "assets/field/13027475.webp",
+      "food": "쓴맛 채소",
+      "foodExample": "잔게(ザンゲ)·이치노미(イチノミ)",
+      "locations": [
+        "ダイモス台地",
+        "砂の抜け道"
+      ],
+      "role": "말 계열 주력의 속도·기동 보완. 재이동을 원하면 해당 스킬이 있는 개체를 고릅니다.",
+      "acquire": "잔게는 ゴーラ草原帯·ドラグデン峠 등의 탐색, 복구한 아기뇨 시장이 확보 후보입니다."
+    },
+    {
+      "id": "red-bau",
+      "name": "레드 바우",
+      "ja": "レッドバウ",
+      "family": "비룡 계열",
+      "icon": "assets/field/13027715.webp",
+      "food": "매운맛 고기",
+      "foodExample": "늑대고기(オオカミ肉)",
+      "locations": [
+        "ヤシロ砦"
+      ],
+      "role": "드래곤 마스터의 공격적 운용. 이동력 또는 전투 기술 명중 보완 중 필요한 개체 스킬을 선택합니다.",
+      "acquire": "줄무늬 늑대(タテジマオオカミ) 격파 드롭. 쿠사리쿠 고기·루프 고기는 상자 획득 경로도 비교합니다."
+    },
+    {
+      "id": "black-bau",
+      "name": "블랙 바우",
+      "ja": "ブラックバウ",
+      "family": "비룡 계열",
+      "icon": "assets/field/13027715.webp",
+      "food": "쓴맛 고기",
+      "foodExample": "비행 도마뱀 고기(飛蜥蜴肉)·거대한 고깃덩이(巨大肉)",
+      "locations": [
+        "戦士の道",
+        "シデムの谷"
+      ],
+      "role": "비행 물리 공격수의 속도 보완과 특효 대응. 재이동 보유를 전제로 세팅하지 않습니다.",
+      "acquire": "비행 도마뱀 고기는 フライウィーグル 드롭, 거대한 고깃덩이는 상인·알렉토 교환·고급 고기 상자 경로를 비교합니다. 야크 고기의 1부 의뢰를 3부 반복 수급처로 계산하지 않습니다."
+    },
+    {
+      "id": "red-falcon",
+      "name": "레드 팔콘",
+      "ja": "レッドファルコン",
+      "family": "천마 계열",
+      "icon": "assets/field/13027716.webp",
+      "food": "매운맛 채소",
+      "foodExample": "샤쿠토우(シャクトウ)",
+      "locations": [
+        "風止まずの浜"
+      ],
+      "role": "천마 계열의 공격적 운용. 바우를 타는 비룡 병과와 탑승 조건이 다릅니다.",
+      "acquire": "숲·산길 탐색과 복구한 아기뇨 시장의 판매를 확인합니다. 신전 복구용 희귀 채소를 먼저 소모하지 않습니다."
+    }
+  ],
+  "matches": [
+    {
+      "characters": [
+        "카이"
+      ],
+      "classJa": "ハイエピタフ",
+      "className": "하이 에피타프",
+      "mount": "black-horse",
+      "note": "말 탑승 병과로 전직한 뒤 배치. 공격 후 위치 조절을 원하면 재이동 개체를 우선합니다."
+    },
+    {
+      "characters": [
+        "피터르",
+        "릴리안",
+        "미카엘라"
+      ],
+      "classJa": "ボウナイト",
+      "className": "보우 나이트",
+      "mount": "black-horse",
+      "note": "사격 후 위치 조절과 속도 보완. 필요한 궁술·기마술을 갖춘 경우의 육성안입니다."
+    },
+    {
+      "characters": [
+        "이오",
+        "키릭"
+      ],
+      "classJa": "オリハルディア",
+      "className": "오리할디아",
+      "mount": "black-horse",
+      "note": "말 계열 전위. 친밀도가 높은 기존 로시난이 있으면 새 개체 육성 비용과 비교합니다."
+    },
+    {
+      "characters": [
+        "누디누",
+        "네이선"
+      ],
+      "classJa": "グレートナイト",
+      "className": "그레이트 나이트",
+      "mount": "black-horse",
+      "note": "기마 전위의 속도·기동 보완. 현재 기술과 전직 조건을 먼저 확인합니다."
+    },
+    {
+      "characters": [
+        "라이선더",
+        "버커니어"
+      ],
+      "classJa": "ドラゴンマスター",
+      "className": "드래곤 마스터",
+      "mount": "black-bau",
+      "note": "속도 보완·특효 대응 목적. 재이동 스킬을 보장하지 않습니다."
+    },
+    {
+      "characters": [
+        "라이선더",
+        "버커니어"
+      ],
+      "classJa": "ドラゴンマスター",
+      "className": "드래곤 마스터",
+      "mount": "red-bau",
+      "note": "공격적 운용이나 전투 기술 명중 보완이 필요한 경우의 대안입니다."
+    },
+    {
+      "characters": [
+        "에스메랄다"
+      ],
+      "classJa": "聖天翼兵",
+      "className": "성천익병",
+      "mount": "red-falcon",
+      "note": "천마 병과로 육성할 때의 선택입니다. 중갑 방어 역할로 완성했다면 전환 비용을 먼저 비교합니다."
+    },
+    {
+      "characters": [
+        "티아라"
+      ],
+      "classJa": "ヴァルキュリウム",
+      "className": "발큐리움",
+      "mount": "black-horse",
+      "note": "기마 마법·회복 운용. 위치 조절은 흑마, 치료 스킬이 필요하면 기존 모노케로스도 비교합니다."
+    }
+  ],
+  "screenshots": {
+    "gathering": "assets/field/13028529.webp",
+    "farming": "assets/field/13018585.webp"
+  },
+  "restoration": [
+    {
+      "place": "メッシリーナ大農園",
+      "items": [
+        {
+          "name": "カダム",
+          "count": 10
+        },
+        {
+          "name": "ヒシバナ",
+          "count": 10
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-1",
+      "label": "메시리나 대농원",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "アギーニョ村",
+      "items": [
+        {
+          "name": "ギンジ",
+          "count": 20
+        },
+        {
+          "name": "ザンゲ",
+          "count": 10
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-2",
+      "label": "아기뇨 마을",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "オシリスの村",
+      "items": [
+        {
+          "name": "ソルギ",
+          "count": 10
+        },
+        {
+          "name": "アガヴェ",
+          "count": 10
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-3",
+      "label": "オシリスの村",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "カリアネイラの港",
+      "items": [
+        {
+          "name": "イチノミ",
+          "count": 20
+        },
+        {
+          "name": "メララ",
+          "count": 10
+        },
+        {
+          "name": "チャノキ",
+          "count": 5
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-4",
+      "label": "カリアネイラの港",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "デモニクの村",
+      "items": [
+        {
+          "name": "サバクキビ",
+          "count": 10
+        },
+        {
+          "name": "テネバトウ",
+          "count": 5
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-5",
+      "label": "デモニクの村",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "パンドラの港町",
+      "items": [
+        {
+          "name": "グラディゴビー",
+          "count": 20
+        },
+        {
+          "name": "リルフィッシュ",
+          "count": 10
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-6",
+      "label": "パンドラの港町",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "トバリンの村",
+      "items": [
+        {
+          "name": "デーツ",
+          "count": 20
+        },
+        {
+          "name": "キンバイ",
+          "count": 5
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-7",
+      "label": "トバリンの村",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "ザスタの集落",
+      "items": [
+        {
+          "name": "ポンゴ",
+          "count": 20
+        },
+        {
+          "name": "セムイモ",
+          "count": 5
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-8",
+      "label": "ザスタの集落",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "ライオーの港",
+      "items": [
+        {
+          "name": "タルトゴビー",
+          "count": 20
+        },
+        {
+          "name": "バアルパイク",
+          "count": 20
+        },
+        {
+          "name": "ガラマーリン",
+          "count": 3
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-9",
+      "label": "ライオーの港",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "バイナのオアシス",
+      "items": [
+        {
+          "name": "リナリア",
+          "count": 20
+        },
+        {
+          "name": "ソルダネラ",
+          "count": 3
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-10",
+      "label": "バイナのオアシス",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "バスク宿場町",
+      "items": [
+        {
+          "name": "バク",
+          "count": 20
+        },
+        {
+          "name": "シャルミール",
+          "count": 1
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-11",
+      "label": "バスク宿場町",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "ヤーマン村",
+      "items": [
+        {
+          "name": "ヒシバナ",
+          "count": 20
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-12",
+      "label": "ヤーマン村",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "オレンスの町",
+      "items": [
+        {
+          "name": "イチノミ",
+          "count": 10
+        },
+        {
+          "name": "リガネット",
+          "count": 1
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-13",
+      "label": "オレンスの町",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "キラの村",
+      "items": [
+        {
+          "name": "リナリア",
+          "count": 10
+        },
+        {
+          "name": "オドモンジュ",
+          "count": 1
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-14",
+      "label": "キラの村",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "ジーマの港",
+      "items": [
+        {
+          "name": "ソロム",
+          "count": 10
+        },
+        {
+          "name": "ミザンガ",
+          "count": 1
+        }
+      ],
+      "crossCheck": "not-listed",
+      "id": "restore-15",
+      "label": "ジーマの港",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "ウィリー村",
+      "items": [
+        {
+          "name": "パイヤ",
+          "count": 10
+        },
+        {
+          "name": "シャクトウ",
+          "count": 3
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-16",
+      "label": "ウィリー村",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "ベネトナシュの村",
+      "items": [
+        {
+          "name": "テフノミ",
+          "count": 10
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-17",
+      "label": "ベネトナシュの村",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "ニーザの港",
+      "items": [
+        {
+          "name": "カーネボニート",
+          "count": 20
+        },
+        {
+          "name": "ハートボニート",
+          "count": 1
+        }
+      ],
+      "crossCheck": "not-listed",
+      "id": "restore-18",
+      "label": "ニーザの港",
+      "kind": "site",
+      "note": "다른 자료에는 ニーザの門으로 수록됩니다. 필요 재료는 같지만 장소명은 지도와 대조하세요."
+    },
+    {
+      "place": "ボンバエの隠れ里",
+      "items": [
+        {
+          "name": "リナリア",
+          "count": 50
+        }
+      ],
+      "crossCheck": "not-listed",
+      "id": "restore-19",
+      "label": "ボンバエの隠れ里",
+      "kind": "site",
+      "note": "단일 기본 목록에 수록된 항목입니다. 방문 전 게임의 복구 요구량을 확인하세요."
+    },
+    {
+      "place": "黒煙の谷ダミナ",
+      "items": [
+        {
+          "name": "アカキンバイ",
+          "count": 3
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-20",
+      "label": "黒煙の谷ダミナ",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "王都ブレストン",
+      "items": [
+        {
+          "name": "サバクキビ",
+          "count": 20
+        },
+        {
+          "name": "グルマオサ",
+          "count": 3
+        },
+        {
+          "name": "シナモス",
+          "count": 1
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-21",
+      "label": "王都ブレストン",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "海都アレクトー",
+      "items": [
+        {
+          "name": "ロカ",
+          "count": 10
+        },
+        {
+          "name": "バク",
+          "count": 10
+        },
+        {
+          "name": "サバクキビ",
+          "count": 10
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-22",
+      "label": "海都アレクトー",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "マオン城郭",
+      "items": [
+        {
+          "name": "ポンゴ",
+          "count": 10
+        },
+        {
+          "name": "ミラニラ",
+          "count": 5
+        },
+        {
+          "name": "テネバトウ",
+          "count": 3
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-23",
+      "label": "マオン城郭",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "城塞都市モンス",
+      "items": [
+        {
+          "name": "デーツ",
+          "count": 20
+        },
+        {
+          "name": "ギンジ",
+          "count": 10
+        },
+        {
+          "name": "セムイモ",
+          "count": 5
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-24",
+      "label": "城塞都市モンス",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "フィーナの漁村",
+      "items": [
+        {
+          "name": "スカライ",
+          "count": 5
+        },
+        {
+          "name": "ハードフィッシュ",
+          "count": 5
+        },
+        {
+          "name": "バザリーシャーク",
+          "count": 1
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-25",
+      "label": "フィーナの漁村",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "王都グランアラゴン",
+      "items": [
+        {
+          "name": "サンノミ",
+          "count": 20
+        },
+        {
+          "name": "レッドフリッカ",
+          "count": 10
+        },
+        {
+          "name": "クレストル",
+          "count": 1
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-26",
+      "label": "王都グランアラゴン",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "王都メガエラ",
+      "items": [
+        {
+          "name": "テフノミ",
+          "count": 20
+        },
+        {
+          "name": "ヒシバナ",
+          "count": 10
+        },
+        {
+          "name": "キンバショウ",
+          "count": 1
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-27",
+      "label": "王都メガエラ",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "フォトナ神殿本殿",
+      "items": [
+        {
+          "name": "ユナメイ",
+          "count": 1
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-28",
+      "label": "포토나 신전",
+      "kind": "temple",
+      "note": ""
+    },
+    {
+      "place": "カーラ神殿本殿",
+      "items": [
+        {
+          "name": "ダッカモンジュ",
+          "count": 1
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-29",
+      "label": "카라 신전",
+      "kind": "temple",
+      "note": ""
+    },
+    {
+      "place": "クレール神殿本殿",
+      "items": [
+        {
+          "name": "ヒカリボシ",
+          "count": 1
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-30",
+      "label": "클레르 신전",
+      "kind": "temple",
+      "note": ""
+    },
+    {
+      "place": "スミルノス神殿本殿",
+      "items": [
+        {
+          "name": "アルマメット",
+          "count": 1
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-31",
+      "label": "스밀노스 신전",
+      "kind": "temple",
+      "note": ""
+    },
+    {
+      "place": "マーズ神殿本殿",
+      "items": [
+        {
+          "name": "ラザニバータ",
+          "count": 1
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-32",
+      "label": "마즈 신전",
+      "kind": "temple",
+      "note": ""
+    },
+    {
+      "place": "ジュラ神殿本殿",
+      "items": [
+        {
+          "name": "ジョッパ",
+          "count": 1
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-33",
+      "label": "주라 신전",
+      "kind": "temple",
+      "note": ""
+    },
+    {
+      "place": "アウロラ神殿本殿",
+      "items": [
+        {
+          "name": "アオギンジ",
+          "count": 3
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-34",
+      "label": "아우로라 신전",
+      "kind": "temple",
+      "note": "자료별 아오긴지 1·3개 차이. 준비량은 3개 기준이며 실제 납품은 게임 표시를 확인하세요."
+    },
+    {
+      "place": "東アマルテア駅",
+      "items": [
+        {
+          "name": "リナリア",
+          "count": 5
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-35",
+      "label": "동아말테아역",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "西アマルテア駅",
+      "items": [
+        {
+          "name": "リナリア",
+          "count": 5
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-36",
+      "label": "서아말테아역",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "カルメンタ駅",
+      "items": [
+        {
+          "name": "サンノミ",
+          "count": 5
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-37",
+      "label": "カルメンタ駅",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "エオヒド駅",
+      "items": [
+        {
+          "name": "イチノミ",
+          "count": 5
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-38",
+      "label": "エオヒド駅",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "フェロニア駅",
+      "items": [
+        {
+          "name": "オリバ",
+          "count": 5
+        }
+      ],
+      "crossCheck": "partial",
+      "id": "restore-39",
+      "label": "페로니아역",
+      "kind": "site",
+      "note": "자료별 3·5개 차이. 준비량은 큰 값인 5개 기준입니다. 실제 납품은 게임 표시를 확인하세요."
+    },
+    {
+      "place": "サラキア駅",
+      "items": [
+        {
+          "name": "テフノミ",
+          "count": 5
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-40",
+      "label": "サラキア駅",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "カリスト駅",
+      "items": [
+        {
+          "name": "サバクキビ",
+          "count": 5
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-41",
+      "label": "カリスト駅",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "カイロン駅",
+      "items": [
+        {
+          "name": "セムイモ",
+          "count": 3
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-42",
+      "label": "カイロン駅",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "アラゴナ駅",
+      "items": [
+        {
+          "name": "ロカ",
+          "count": 5
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-43",
+      "label": "アラゴナ駅",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "カルトド駅",
+      "items": [
+        {
+          "name": "デーツ",
+          "count": 5
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-44",
+      "label": "カルトド駅",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "ウルカ駅",
+      "items": [
+        {
+          "name": "ヒシバナ",
+          "count": 5
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-45",
+      "label": "ウルカ駅",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "領都カッシート",
+      "items": [
+        {
+          "name": "コーシャルーガ",
+          "count": 10
+        },
+        {
+          "name": "シールドパイク",
+          "count": 3
+        }
+      ],
+      "crossCheck": "一致",
+      "id": "restore-46",
+      "label": "領都カッシート",
+      "kind": "site",
+      "note": ""
+    },
+    {
+      "place": "レギアの町",
+      "items": [
+        {
+          "name": "ギンジ",
+          "count": 20
+        },
+        {
+          "name": "オリバ",
+          "count": 10
+        }
+      ],
+      "crossCheck": "additional",
+      "id": "restore-47",
+      "label": "레기아 마을",
+      "kind": "site",
+      "note": "기본 46곳 목록 외에 개별 재료 공략·복구 공략에 수록된 추가 지역입니다."
+    }
+  ],
+  "materials": [
+    {
+      "id": "material-1",
+      "ja": "デーツ",
+      "label": "대추야자 열매",
+      "icon": "assets/field/13010017.webp",
+      "explore": [
+        "タルボス平原",
+        "ドゥーベ峠",
+        "オライオン渓谷",
+        "砂流れの道",
+        "砂虫の巣",
+        "骸の大流砂"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/577816"
+    },
+    {
+      "id": "material-2",
+      "ja": "グルマオサ",
+      "label": "グルマオサ",
+      "icon": "assets/field/13010019.webp",
+      "explore": [
+        "巨人の丘",
+        "オーガス山道",
+        "裏山道",
+        "還らずの森"
+      ],
+      "cultivate": [
+        "そよ風の丘"
+      ],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/577825"
+    },
+    {
+      "id": "material-3",
+      "ja": "リナリア",
+      "label": "리나리아",
+      "icon": "assets/field/13010017.webp",
+      "explore": [
+        "エリッサ峠",
+        "ウラノス山",
+        "黒翼の谷",
+        "竜呼びの岬",
+        "ダイモス台地",
+        "ヴォーダン峠",
+        "ヴァレリ峡谷",
+        "ネイピアの森",
+        "アイギーナ山",
+        "星見峠",
+        "月見峠",
+        "星生まれの花園",
+        "クリュテイオス平原",
+        "バロールの島",
+        "ファウヌスの森",
+        "タシット平原",
+        "闇夜峠",
+        "ルミナリア峠",
+        "ウォレの森",
+        "裏山道",
+        "常霧平原",
+        "そよ風の丘",
+        "めぐり岩",
+        "深緑の穴",
+        "トリトパテル大回廊",
+        "名もなき墓標",
+        "晦ましの森"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/577851"
+    },
+    {
+      "id": "material-4",
+      "ja": "カーネボニート",
+      "label": "カーネボニート",
+      "icon": "assets/field/13010026.webp",
+      "explore": [
+        "ペルーサ岬",
+        "ペルーサの沖",
+        "魚群岩礁",
+        "エンデの小渦",
+        "魔の海域",
+        "静寂の海"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578023"
+    },
+    {
+      "id": "material-5",
+      "ja": "キンバショウ",
+      "label": "キンバショウ",
+      "icon": "assets/field/13010018.webp",
+      "explore": [
+        "ファウヌスの森",
+        "ルミナリア峠",
+        "クーガーの屋根"
+      ],
+      "cultivate": [],
+      "shops": [
+        "メッシリーナ大農園の市場"
+      ],
+      "source": "https://gamewith.jp/fefw/578024"
+    },
+    {
+      "id": "material-6",
+      "ja": "バザリーシャーク",
+      "label": "バザリーシャーク",
+      "icon": "assets/field/13010058.webp",
+      "explore": [
+        "大鮫の巣"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578064"
+    },
+    {
+      "id": "material-7",
+      "ja": "スカライ",
+      "label": "スカライ",
+      "icon": "assets/field/13010026.webp",
+      "explore": [
+        "パンドラの魚巣",
+        "ペルーサの沖",
+        "魚群岩礁"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578025"
+    },
+    {
+      "id": "material-8",
+      "ja": "アオギンジ",
+      "label": "아오긴지",
+      "icon": "assets/field/13010018.webp",
+      "explore": [
+        "ヴォーダン峠",
+        "ネイピアの森",
+        "ドラグデン峠"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578026"
+    },
+    {
+      "id": "material-9",
+      "ja": "ギンジ",
+      "label": "긴지",
+      "icon": "assets/field/13010017.webp",
+      "explore": [
+        "陽だまり峠",
+        "オレアンス平原",
+        "ヴォーダン峠",
+        "ネイピアの森",
+        "ドラグデン峠",
+        "クリュテイオス平原",
+        "咽せ風の谷",
+        "そよ風の丘"
+      ],
+      "cultivate": [],
+      "shops": [
+        "アギーニョ村の市場 / ヤーマン村の市場"
+      ],
+      "source": "https://gamewith.jp/fefw/578027"
+    },
+    {
+      "id": "material-10",
+      "ja": "タルトゴビー",
+      "label": "タルトゴビー",
+      "icon": "assets/field/13010026.webp",
+      "explore": [
+        "アルシネウス大橋",
+        "エンケラドゥス橋",
+        "サンタナ橋",
+        "コーシャルー湖",
+        "ペルーサ岬",
+        "ナイミ湖",
+        "ブロンテス湖"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578028"
+    },
+    {
+      "id": "material-11",
+      "ja": "バアルパイク",
+      "label": "バアルパイク",
+      "icon": "assets/field/13010026.webp",
+      "explore": [
+        "エンケラドゥス橋",
+        "サンタナ橋"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578029"
+    },
+    {
+      "id": "material-12",
+      "ja": "テフノミ",
+      "label": "テフノミ",
+      "icon": "assets/field/13010017.webp",
+      "explore": [
+        "ウラノス山",
+        "アクシオン渓谷",
+        "朽ち木の狭道",
+        "月見峠",
+        "ファウヌスの森",
+        "哭き木の森",
+        "巨人の丘",
+        "オーガス山道",
+        "首狩り岩",
+        "ミュグリアの大樹",
+        "トリトパテル大回廊"
+      ],
+      "cultivate": [],
+      "shops": [
+        "メッシリーナ大農園の市場"
+      ],
+      "source": "https://gamewith.jp/fefw/578032"
+    },
+    {
+      "id": "material-13",
+      "ja": "カダム",
+      "label": "カダム",
+      "icon": "assets/field/13010019.webp",
+      "explore": [
+        "ウラノス山",
+        "月見峠",
+        "ミュグリアの大樹"
+      ],
+      "cultivate": [],
+      "shops": [
+        "メッシリーナ大農園の市場"
+      ],
+      "source": "https://gamewith.jp/fefw/578033"
+    },
+    {
+      "id": "material-14",
+      "ja": "ヒカリボシ",
+      "label": "히카리보시",
+      "icon": "assets/field/13010018.webp",
+      "explore": [
+        "笑み岩",
+        "闇夜峠"
+      ],
+      "cultivate": [],
+      "shops": [
+        "メッシリーナ大農園の市場"
+      ],
+      "source": "https://gamewith.jp/fefw/578034"
+    },
+    {
+      "id": "material-15",
+      "ja": "サンノミ",
+      "label": "サンノミ",
+      "icon": "assets/field/13010017.webp",
+      "explore": [
+        "落ち日の道",
+        "エリッサ峠",
+        "ファロの森",
+        "ヴァレリ峡谷",
+        "ドラグデン峠",
+        "ウツナ峠",
+        "ゼートス大滝",
+        "アイギーナ山",
+        "暁平原",
+        "ベルナール峠",
+        "メラク峠",
+        "白鴉の台",
+        "咽せ風の谷",
+        "ソナイ峠",
+        "ブリガディア峠",
+        "おくり岩",
+        "ブラン平原"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578035"
+    },
+    {
+      "id": "material-16",
+      "ja": "レッドフリッカ",
+      "label": "レッドフリッカ",
+      "icon": "assets/field/13010019.webp",
+      "explore": [
+        "ベルナール峠",
+        "メラク峠"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578036"
+    },
+    {
+      "id": "material-17",
+      "ja": "シャクトウ",
+      "label": "샤쿠토우",
+      "icon": "assets/field/13010019.webp",
+      "explore": [
+        "ウォレの森",
+        "裏山道",
+        "晦ましの森",
+        "戦士の道"
+      ],
+      "cultivate": [],
+      "shops": [
+        "アギーニョ村の市場"
+      ],
+      "source": "https://gamewith.jp/fefw/578037"
+    },
+    {
+      "id": "material-18",
+      "ja": "イチノミ",
+      "label": "이치노미",
+      "icon": "assets/field/13010017.webp",
+      "explore": [
+        "落ち日の道",
+        "日見峠",
+        "暁平原",
+        "陽光の花園",
+        "旅人の丘",
+        "つなぎ岩"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578038"
+    },
+    {
+      "id": "material-19",
+      "ja": "アルマメット",
+      "label": "아르마메트",
+      "icon": "assets/field/13010018.webp",
+      "explore": [
+        "メラク峠",
+        "ドゥーベ峠"
+      ],
+      "cultivate": [
+        "タルボス北道"
+      ],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578039"
+    },
+    {
+      "id": "material-20",
+      "ja": "ヒシバナ",
+      "label": "히시바나",
+      "icon": "assets/field/13010019.webp",
+      "explore": [
+        "ヴォーダン峠",
+        "ゴーラ草原帯",
+        "ネイピアの森",
+        "陽光の花園",
+        "ダダ平原",
+        "星見峠",
+        "常霧平原"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578040"
+    },
+    {
+      "id": "material-21",
+      "ja": "ザンゲ",
+      "label": "잔게",
+      "icon": "assets/field/13010017.webp",
+      "explore": [
+        "陽だまり峠",
+        "ゴーラ草原帯",
+        "ドラグデン峠",
+        "アイギーナ山",
+        "タシット平原",
+        "闇夜峠",
+        "深緑の穴",
+        "ブラン平原"
+      ],
+      "cultivate": [],
+      "shops": [
+        "アギーニョ村の市場"
+      ],
+      "source": "https://gamewith.jp/fefw/578042"
+    },
+    {
+      "id": "material-22",
+      "ja": "キンバイ",
+      "label": "キンバイ",
+      "icon": "assets/field/13010019.webp",
+      "explore": [
+        "ベラトリの谷",
+        "ベルナール峠",
+        "エール山地",
+        "ドゥーベ峠",
+        "オライオン渓谷",
+        "叫獣渓谷"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578043"
+    },
+    {
+      "id": "material-23",
+      "ja": "シナモス",
+      "label": "シナモス",
+      "icon": "assets/field/13010018.webp",
+      "explore": [
+        "オーガス山道",
+        "裏山道",
+        "還らずの森"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578044"
+    },
+    {
+      "id": "material-24",
+      "ja": "サバクキビ",
+      "label": "サバクキビ",
+      "icon": "assets/field/13010017.webp",
+      "explore": [
+        "笑み岩",
+        "焼け草の砂丘",
+        "ジョレ峠"
+      ],
+      "cultivate": [
+        "アダ砦跡"
+      ],
+      "shops": [
+        "トバリンの村の市場"
+      ],
+      "source": "https://gamewith.jp/fefw/578047"
+    },
+    {
+      "id": "material-25",
+      "ja": "バク",
+      "label": "バク",
+      "icon": "assets/field/13010017.webp",
+      "explore": [
+        "天馬岩",
+        "ウツナ峠",
+        "ゼートス大滝",
+        "日見峠",
+        "暁平原",
+        "囁き岩",
+        "マグナス台地"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578048"
+    },
+    {
+      "id": "material-26",
+      "ja": "セムイモ",
+      "label": "セムイモ",
+      "icon": "assets/field/13010019.webp",
+      "explore": [
+        "黒翼の谷",
+        "ダイモス台地",
+        "アイギーナ山",
+        "笑み岩",
+        "タシット平原"
+      ],
+      "cultivate": [],
+      "shops": [
+        "トバリンの村の市場"
+      ],
+      "source": "https://gamewith.jp/fefw/578049"
+    },
+    {
+      "id": "material-27",
+      "ja": "ソルギ",
+      "label": "ソルギ",
+      "icon": "assets/field/13010019.webp",
+      "explore": [
+        "砂虫の巣",
+        "骸の大流砂",
+        "砂上の園"
+      ],
+      "cultivate": [],
+      "shops": [
+        "バイナのオアシスの市場"
+      ],
+      "source": "https://gamewith.jp/fefw/578050"
+    },
+    {
+      "id": "material-28",
+      "ja": "ロカ",
+      "label": "ロカ",
+      "icon": "assets/field/13010017.webp",
+      "explore": [
+        "ベラトリの谷",
+        "ベルナール峠",
+        "エール山地",
+        "メラク峠",
+        "ドゥーベ峠",
+        "オライオン渓谷",
+        "叫獣渓谷",
+        "ミンタカの岩門",
+        "ネレウスの岬"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578051"
+    },
+    {
+      "id": "material-29",
+      "ja": "オリバ",
+      "label": "올리바",
+      "icon": "assets/field/13010019.webp",
+      "explore": [
+        "ファロの森",
+        "ウツナ峠",
+        "日見峠",
+        "陽光の花園",
+        "囁き岩",
+        "マグナス台地",
+        "旅人の丘",
+        "流浪者の古庭",
+        "未開のオアシス"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578052"
+    },
+    {
+      "id": "material-30",
+      "ja": "ポンゴ",
+      "label": "ポンゴ",
+      "icon": "assets/field/13010017.webp",
+      "explore": [
+        "オレアンス平原",
+        "雀躍の辻",
+        "ダダ平原",
+        "星見峠",
+        "クリュテイオス平原",
+        "ムルキベル湿地帯",
+        "チェレ島"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578053"
+    },
+    {
+      "id": "material-31",
+      "ja": "パイヤ",
+      "label": "パイヤ",
+      "icon": "assets/field/13010017.webp",
+      "explore": [
+        "ルミナリア峠",
+        "ウォレの森",
+        "クーガーの屋根",
+        "巨人の丘",
+        "オーガス山道",
+        "晦ましの森",
+        "戦士の道",
+        "シデムの谷"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578054"
+    },
+    {
+      "id": "material-32",
+      "ja": "オドモンジュ",
+      "label": "オドモンジュ",
+      "icon": "assets/field/13010018.webp",
+      "explore": [
+        "朽ち木の狭道",
+        "月見峠",
+        "哭き木の森",
+        "ミュグリアの大樹"
+      ],
+      "cultivate": [],
+      "shops": [
+        "メッシリーナ大農園の市場"
+      ],
+      "source": "https://gamewith.jp/fefw/578062"
+    },
+    {
+      "id": "material-33",
+      "ja": "アガヴェ",
+      "label": "アガヴェ",
+      "icon": "assets/field/13010019.webp",
+      "explore": [
+        "砂流れの道",
+        "マデュー小遺跡",
+        "骸の大流砂"
+      ],
+      "cultivate": [],
+      "shops": [
+        "バイナのオアシスの市場"
+      ],
+      "source": "https://gamewith.jp/fefw/578061"
+    },
+    {
+      "id": "material-34",
+      "ja": "クレストル",
+      "label": "クレストル",
+      "icon": "assets/field/13010018.webp",
+      "explore": [
+        "砂虫の巣",
+        "砂流れの道"
+      ],
+      "cultivate": [
+        "つなぎ岩"
+      ],
+      "shops": [
+        "バイナのオアシスの市場"
+      ],
+      "source": "https://gamewith.jp/fefw/578060"
+    },
+    {
+      "id": "material-35",
+      "ja": "ミラニラ",
+      "label": "ミラニラ",
+      "icon": "assets/field/13010017.webp",
+      "explore": [
+        "ファロの森",
+        "巨鳥の頸",
+        "ウツナ峠",
+        "ゼートス大滝",
+        "ダマセン岬",
+        "囁き岩",
+        "ソナイ峠",
+        "ブリガディア峠",
+        "流浪者の古庭",
+        "未開のオアシス"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578059"
+    },
+    {
+      "id": "material-36",
+      "ja": "メララ",
+      "label": "메라라 버섯",
+      "icon": "assets/field/13010019.webp",
+      "explore": [
+        "ゴーラ草原帯",
+        "ヴァレリ峡谷",
+        "マデュー小遺跡",
+        "咽せ風の谷",
+        "砂漠の入口",
+        "骸の大流砂",
+        "砂上の園"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578058"
+    },
+    {
+      "id": "material-37",
+      "ja": "チャノキ",
+      "label": "チャノキ",
+      "icon": "assets/field/13010019.webp",
+      "explore": [
+        "タシット平原",
+        "闇夜峠",
+        "ジョレ峠"
+      ],
+      "cultivate": [
+        "おくり岩"
+      ],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578056"
+    },
+    {
+      "id": "material-38",
+      "ja": "テネバトウ",
+      "label": "テネバトウ",
+      "icon": "assets/field/13010019.webp",
+      "explore": [
+        "天馬岩",
+        "ゼートス大滝",
+        "ダマセン岬",
+        "ベルナール峠",
+        "エール山地",
+        "ブリガディア峠"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578057"
+    },
+    {
+      "id": "material-39",
+      "ja": "グラディゴビー",
+      "label": "グラディゴビー",
+      "icon": "assets/field/13010026.webp",
+      "explore": [
+        "フィーナの岩礁",
+        "パンジャ湾",
+        "ニーザの門",
+        "パンジャ海流",
+        "ディオネ海流",
+        "パンドラの魚巣",
+        "大鮫の巣",
+        "迷子の大渦",
+        "アイフ海峡",
+        "叫びの海"
+      ],
+      "cultivate": [],
+      "shops": [
+        "パンドラの港町の市場"
+      ],
+      "source": "https://gamewith.jp/fefw/578215"
+    },
+    {
+      "id": "material-40",
+      "ja": "リルフィッシュ",
+      "label": "リルフィッシュ",
+      "icon": "assets/field/13010026.webp",
+      "explore": [
+        "フィーナの岩礁",
+        "パンジャ湾",
+        "ニーザの門",
+        "パンジャ海流",
+        "ディオネ海流",
+        "パンドラの魚巣",
+        "アイフ海峡",
+        "叫びの海"
+      ],
+      "cultivate": [],
+      "shops": [
+        "パンドラの港町の市場"
+      ],
+      "source": "https://gamewith.jp/fefw/578214"
+    },
+    {
+      "id": "material-41",
+      "ja": "ガラマーリン",
+      "label": "ガラマーリン",
+      "icon": "assets/field/13010058.webp",
+      "explore": [
+        "ペルーサ岬",
+        "ペルーサの沖",
+        "アイフ海峡",
+        "叫びの海",
+        "エンデの小渦",
+        "ソシエ湾",
+        "ホルス海峡"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578201"
+    },
+    {
+      "id": "material-42",
+      "ja": "シャルミール",
+      "label": "シャルミール",
+      "icon": "assets/field/13010018.webp",
+      "explore": [
+        "ゴーラ草原帯"
+      ],
+      "cultivate": [
+        "マグナス台地"
+      ],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578200"
+    },
+    {
+      "id": "material-43",
+      "ja": "リガネット",
+      "label": "リガネット",
+      "icon": "assets/field/13010018.webp",
+      "explore": [
+        "ヴァレリ峡谷",
+        "タシット平原",
+        "咽せ風の谷",
+        "ブリガディア峠",
+        "深緑の穴"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578199"
+    },
+    {
+      "id": "material-44",
+      "ja": "ユナメイ",
+      "label": "유나메이",
+      "icon": "assets/field/13010018.webp",
+      "explore": [
+        "ダマセン岬",
+        "流浪者の古庭"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578183"
+    },
+    {
+      "id": "material-45",
+      "ja": "ジョッパ",
+      "label": "조파",
+      "icon": "assets/field/13010018.webp",
+      "explore": [
+        "ダダ平原",
+        "クリュテイオス平原"
+      ],
+      "cultivate": [],
+      "shops": [
+        "アギーニョ村の市場"
+      ],
+      "source": "https://gamewith.jp/fefw/578174"
+    },
+    {
+      "id": "material-46",
+      "ja": "ダッカモンジュ",
+      "label": "다카몬주",
+      "icon": "assets/field/13010018.webp",
+      "explore": [
+        "オライオン渓谷"
+      ],
+      "cultivate": [
+        "ブラン平原"
+      ],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578221"
+    },
+    {
+      "id": "material-47",
+      "ja": "ラザニバータ",
+      "label": "라자니바타",
+      "icon": "assets/field/13010018.webp",
+      "explore": [
+        "巨人の丘"
+      ],
+      "cultivate": [
+        "セドー砦"
+      ],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578220"
+    },
+    {
+      "id": "material-48",
+      "ja": "ハードフィッシュ",
+      "label": "ハードフィッシュ",
+      "icon": "assets/field/13010026.webp",
+      "explore": [
+        "パンジャ湾",
+        "魚群岩礁",
+        "エンデの小渦",
+        "ソシエ湾"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578408"
+    },
+    {
+      "id": "material-49",
+      "ja": "シールドパイク",
+      "label": "シールドパイク",
+      "icon": "assets/field/13010058.webp",
+      "explore": [
+        "ソルト湖",
+        "バル・デル湖",
+        "ナイミ湖"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578407"
+    },
+    {
+      "id": "material-50",
+      "ja": "ソロム",
+      "label": "ソロム",
+      "icon": "assets/field/13010017.webp",
+      "explore": [
+        "アファルの門",
+        "未開のオアシス"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578611"
+    },
+    {
+      "id": "material-51",
+      "ja": "ハートボニート",
+      "label": "ハートボニート",
+      "icon": "assets/field/13010016.webp",
+      "explore": [
+        "パンドラの魚巣",
+        "静寂の海"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578575"
+    },
+    {
+      "id": "material-52",
+      "ja": "アカキンバイ",
+      "label": "アカキンバイ",
+      "icon": "assets/field/13010018.webp",
+      "explore": [
+        "ベルナール峠",
+        "叫獣渓谷"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578577"
+    },
+    {
+      "id": "material-53",
+      "ja": "ミザンガ",
+      "label": "ミザンガ",
+      "icon": "assets/field/13010018.webp",
+      "explore": [
+        "アファルの門",
+        "未開のオアシス"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578702"
+    },
+    {
+      "id": "material-54",
+      "ja": "ソルダネラ",
+      "label": "ソルダネラ",
+      "icon": "assets/field/13010019.webp",
+      "explore": [
+        "オライオン渓谷",
+        "ミンタカの岩門",
+        "ネレウスの岬",
+        "未開のオアシス"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/578578"
+    },
+    {
+      "id": "material-55",
+      "ja": "コーシャルーガ",
+      "label": "コーシャルーガ",
+      "icon": "assets/field/13010026.webp",
+      "explore": [
+        "アルシネウス大橋"
+      ],
+      "cultivate": [],
+      "shops": [],
+      "source": "https://gamewith.jp/fefw/577822"
+    }
+  ],
+  "scenarios": [
+    {
+      "count": 2,
+      "title": "카이·세오도라 기능 분리",
+      "note": "주력 목표는 A 중심으로 진행하되 B에도 독립 교전할 전위·회복을 남깁니다. 어려운 문 전투는 합류해서 처리합니다.",
+      "squads": [
+        {
+          "code": "A",
+          "leader": "816414",
+          "members": [
+            "816414",
+            "816415",
+            "816440",
+            "816884",
+            "816419",
+            "816448",
+            "816477",
+            "816478"
+          ],
+          "purpose": "주력 교전·유인·재배. 카이와 디트리히 기능을 같은 동선에서 사용"
+        },
+        {
+          "code": "B",
+          "leader": "816416",
+          "members": [
+            "816416",
+            "816417",
+            "816422",
+            "816427",
+            "816462",
+            "816430",
+            "816885",
+            "816883"
+          ],
+          "purpose": "탐색·복구 파견·공연 동선. 전위와 회복을 남겨 독립 행동 가능하게 구성"
+        }
+      ]
+    },
+    {
+      "count": 3,
+      "title": "전투·복구·공연 분담",
+      "note": "세 번째 부대는 적의 제도 진격 경로를 보며 예비 전력으로 활용합니다. 처음부터 먼 세 방향으로 흩어지지 않습니다.",
+      "squads": [
+        {
+          "code": "A",
+          "leader": "816414",
+          "members": [
+            "816414",
+            "816440",
+            "816478",
+            "816419",
+            "816477",
+            "816448",
+            "816423",
+            "816910"
+          ],
+          "purpose": "유인·재배·주력 원정"
+        },
+        {
+          "code": "B",
+          "leader": "816416",
+          "members": [
+            "816416",
+            "816422",
+            "816427",
+            "816462",
+            "816430",
+            "816441",
+            "816418",
+            "816909"
+          ],
+          "purpose": "탐색 파견·역·도시 복구"
+        },
+        {
+          "code": "C",
+          "leader": "816415",
+          "members": [
+            "816415",
+            "816417",
+            "816884",
+            "816882",
+            "816426",
+            "816885",
+            "816883",
+            "816437"
+          ],
+          "purpose": "칼날 울림·공연 동선, 필요 시 제도 근처 요격"
+        }
+      ]
+    },
+    {
+      "count": 4,
+      "title": "네 주인공별 작업 동선",
+      "note": "부대 수가 늘어도 32명을 같은 수준으로 새로 육성할 필요는 없습니다. 회복·전위가 부족하면 8명을 채우려고 무리하게 출격하지 않습니다.",
+      "squads": [
+        {
+          "code": "A",
+          "leader": "816414",
+          "members": [
+            "816414",
+            "816440",
+            "816419",
+            "816448",
+            "816477",
+            "816478",
+            "816423",
+            "816910"
+          ],
+          "purpose": "포획·재배·주력 원정"
+        },
+        {
+          "code": "B",
+          "leader": "816416",
+          "members": [
+            "816416",
+            "816422",
+            "816462",
+            "816430",
+            "816427",
+            "816441",
+            "816909",
+            "816429"
+          ],
+          "purpose": "탐색·복구 파견, 소재 동선"
+        },
+        {
+          "code": "C",
+          "leader": "816415",
+          "members": [
+            "816415",
+            "816884",
+            "816426",
+            "816885",
+            "816437",
+            "816882",
+            "816428",
+            "816442"
+          ],
+          "purpose": "강적 처리·칼날 울림, 상황에 따라 제도 요격"
+        },
+        {
+          "code": "D",
+          "leader": "816417",
+          "members": [
+            "816417",
+            "816883",
+            "816418",
+            "816445",
+            "816443",
+            "816463",
+            "816446",
+            "816451"
+          ],
+          "purpose": "공연·보조 원정·남은 복구 지역"
+        }
+      ]
+    }
+  ]
+}

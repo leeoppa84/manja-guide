@@ -1658,5 +1658,661 @@
         "status": "원본 참고 링크 · 재검증 미완료"
       }
     ]
+  },
+  {
+    "title": "3부 탈것·복구·부대 편성 추가 자료",
+    "items": [
+      {
+        "id": "field-ref-1",
+        "label": "Game8 · 포획과 동물",
+        "url": "https://game8.jp/fe-banshisenko/816904",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-2",
+        "label": "GameWith · 포획",
+        "url": "https://gamewith.jp/fefw/577539",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-3",
+        "label": "GameWith · 동물 목록",
+        "url": "https://gamewith.jp/fefw/577527",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-4",
+        "label": "GameWith · 기승 스킬",
+        "url": "https://gamewith.jp/fefw/577434",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-5",
+        "label": "Game8 · 흑마",
+        "url": "https://game8.jp/fe-banshisenko/817508",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-6",
+        "label": "Game8 · 레드 바우",
+        "url": "https://game8.jp/fe-banshisenko/817507",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-7",
+        "label": "Game8 · 블랙 바우",
+        "url": "https://game8.jp/fe-banshisenko/817506",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-8",
+        "label": "GameWith · 고기 획득처",
+        "url": "https://gamewith.jp/fefw/578193",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-9",
+        "label": "GameWith · 늑대고기",
+        "url": "https://gamewith.jp/fefw/578709",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-10",
+        "label": "GameWith · 야크 고기",
+        "url": "https://gamewith.jp/fefw/578350",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-11",
+        "label": "HyperWiki · 식재료",
+        "url": "https://hyperwiki.jp/fefw/food/",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-12",
+        "label": "국내 개인 공략 · 탈것 비교",
+        "url": "https://hysleeper.tistory.com/1000",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-13",
+        "label": "Anna’s Notebook · 탈것 가이드",
+        "url": "https://annasnotebook.net/ja/guides/mounts-guide/",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-14",
+        "label": "Anna’s Notebook · 탈것 시스템",
+        "url": "https://annasnotebook.net/ja/mechanics/mounts/",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-15",
+        "label": "AppMedia · 포획표, 상충 항목 비교용",
+        "url": "https://appmedia.jp/fe_banshisenkou/80410900",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-16",
+        "label": "GameCap · 포획표, 상충 항목 비교용",
+        "url": "https://gamecap.jp/fe_fw/quest_hokaku.html",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-17",
+        "label": "한국어 팬 정리 · 포획",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/entry/game8-capture/",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-18",
+        "label": "한국어 팬 정리 · 탈것 능력치",
+        "url": "https://fire-emblem-fortunes-weave.turam.dev/ko/category/growth/mount/stats/",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-19",
+        "label": "HyperWiki · 복구 기본 목록46곳",
+        "url": "https://hyperwiki.jp/fefw/reconstruct/",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-20",
+        "label": "GameWith · 전체 식재료 색인과 개별 입수처",
+        "url": "https://gamewith.jp/fefw/576934",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-21",
+        "label": "Game8 · 복구 우선순위",
+        "url": "https://game8.jp/fe-banshisenko/817172",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-22",
+        "label": "일본 개인 공략 · 복구 순서와 전체 목록",
+        "url": "https://lushgreengame.com/fe-bnssnk-fukkou/",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-23",
+        "label": "국내 개인 공략 · 제도 재건",
+        "url": "https://hysleeper.tistory.com/896",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-24",
+        "label": "GameWith · 3부 진행",
+        "url": "https://gamewith.jp/fefw/577934",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-25",
+        "label": "일본 개인 공략 · 3부 2국면 부대 운용",
+        "url": "https://lushgreengame.com/fe-bnssnk-dai3bu-2kubun/",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-26",
+        "label": "AppMedia · 3부 추천 인물",
+        "url": "https://appmedia.jp/fe_banshisenkou/80380942",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-27",
+        "label": "AppMedia · 캐릭터별 추천 직업",
+        "url": "https://appmedia.jp/fe_banshisenkou/80380957",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-28",
+        "label": "GameCap · 3부 추천 육성",
+        "url": "https://gamecap.jp/fe_fw/osusume_3bu.html",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-29",
+        "label": "Game8 · 라이선더 직업",
+        "url": "https://game8.jp/fe-banshisenko/816427",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-30",
+        "label": "Game8 · 버커니어 직업",
+        "url": "https://game8.jp/fe-banshisenko/816428",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-31",
+        "label": "Game8 · 티아라 직업",
+        "url": "https://game8.jp/fe-banshisenko/816418",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-32",
+        "label": "Game8 · 누조, 다른 직업 추천 비교",
+        "url": "https://game8.jp/fe-banshisenko/816462",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-33",
+        "label": "Game8 · 오르헬",
+        "url": "https://game8.jp/fe-banshisenko/816884",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-34",
+        "label": "Altema · 오르헬",
+        "url": "https://altema.jp/febansisenkou/oruheru",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-35",
+        "label": "HyperWiki · 타리문 습득 마법",
+        "url": "https://hyperwiki.jp/fefw/character/ch57/",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-36",
+        "label": "アオギンジ",
+        "url": "https://gamewith.jp/fefw/578026",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-37",
+        "label": "アカキンバイ",
+        "url": "https://gamewith.jp/fefw/578577",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-38",
+        "label": "アガヴェ",
+        "url": "https://gamewith.jp/fefw/578061",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-39",
+        "label": "アルマメット",
+        "url": "https://gamewith.jp/fefw/578039",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-40",
+        "label": "イチノミ",
+        "url": "https://gamewith.jp/fefw/578038",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-41",
+        "label": "オドモンジュ",
+        "url": "https://gamewith.jp/fefw/578062",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-42",
+        "label": "オリバ",
+        "url": "https://gamewith.jp/fefw/578052",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-43",
+        "label": "カダム",
+        "url": "https://gamewith.jp/fefw/578033",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-44",
+        "label": "カーネボニート",
+        "url": "https://gamewith.jp/fefw/578023",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-45",
+        "label": "ガラマーリン",
+        "url": "https://gamewith.jp/fefw/578201",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-46",
+        "label": "キンバイ",
+        "url": "https://gamewith.jp/fefw/578043",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-47",
+        "label": "キンバショウ",
+        "url": "https://gamewith.jp/fefw/578024",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-48",
+        "label": "ギンジ",
+        "url": "https://gamewith.jp/fefw/578027",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-49",
+        "label": "クレストル",
+        "url": "https://gamewith.jp/fefw/578060",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-50",
+        "label": "グラディゴビー",
+        "url": "https://gamewith.jp/fefw/578215",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-51",
+        "label": "グルマオサ",
+        "url": "https://gamewith.jp/fefw/577825",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-52",
+        "label": "コーシャルーガ",
+        "url": "https://gamewith.jp/fefw/577822",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-53",
+        "label": "サバクキビ",
+        "url": "https://gamewith.jp/fefw/578047",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-54",
+        "label": "サンノミ",
+        "url": "https://gamewith.jp/fefw/578035",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-55",
+        "label": "ザンゲ",
+        "url": "https://gamewith.jp/fefw/578042",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-56",
+        "label": "シナモス",
+        "url": "https://gamewith.jp/fefw/578044",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-57",
+        "label": "シャクトウ",
+        "url": "https://gamewith.jp/fefw/578037",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-58",
+        "label": "シャルミール",
+        "url": "https://gamewith.jp/fefw/578200",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-59",
+        "label": "シールドパイク",
+        "url": "https://gamewith.jp/fefw/578407",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-60",
+        "label": "ジョッパ",
+        "url": "https://gamewith.jp/fefw/578174",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-61",
+        "label": "スカライ",
+        "url": "https://gamewith.jp/fefw/578025",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-62",
+        "label": "セムイモ",
+        "url": "https://gamewith.jp/fefw/578049",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-63",
+        "label": "ソルギ",
+        "url": "https://gamewith.jp/fefw/578050",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-64",
+        "label": "ソルダネラ",
+        "url": "https://gamewith.jp/fefw/578578",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-65",
+        "label": "ソロム",
+        "url": "https://gamewith.jp/fefw/578611",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-66",
+        "label": "タルトゴビー",
+        "url": "https://gamewith.jp/fefw/578028",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-67",
+        "label": "ダッカモンジュ",
+        "url": "https://gamewith.jp/fefw/578221",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-68",
+        "label": "チャノキ",
+        "url": "https://gamewith.jp/fefw/578056",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-69",
+        "label": "テネバトウ",
+        "url": "https://gamewith.jp/fefw/578057",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-70",
+        "label": "テフノミ",
+        "url": "https://gamewith.jp/fefw/578032",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-71",
+        "label": "デーツ",
+        "url": "https://gamewith.jp/fefw/577816",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-72",
+        "label": "ハートボニート",
+        "url": "https://gamewith.jp/fefw/578575",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-73",
+        "label": "ハードフィッシュ",
+        "url": "https://gamewith.jp/fefw/578408",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-74",
+        "label": "バアルパイク",
+        "url": "https://gamewith.jp/fefw/578029",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-75",
+        "label": "バク",
+        "url": "https://gamewith.jp/fefw/578048",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-76",
+        "label": "バザリーシャーク",
+        "url": "https://gamewith.jp/fefw/578064",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-77",
+        "label": "パイヤ",
+        "url": "https://gamewith.jp/fefw/578054",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-78",
+        "label": "ヒカリボシ",
+        "url": "https://gamewith.jp/fefw/578034",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-79",
+        "label": "ヒシバナ",
+        "url": "https://gamewith.jp/fefw/578040",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-80",
+        "label": "ポンゴ",
+        "url": "https://gamewith.jp/fefw/578053",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-81",
+        "label": "ミザンガ",
+        "url": "https://gamewith.jp/fefw/578702",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-82",
+        "label": "ミラニラ",
+        "url": "https://gamewith.jp/fefw/578059",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-83",
+        "label": "メララ",
+        "url": "https://gamewith.jp/fefw/578058",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-84",
+        "label": "ユナメイ",
+        "url": "https://gamewith.jp/fefw/578183",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-85",
+        "label": "ラザニバータ",
+        "url": "https://gamewith.jp/fefw/578220",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-86",
+        "label": "リガネット",
+        "url": "https://gamewith.jp/fefw/578199",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-87",
+        "label": "リナリア",
+        "url": "https://gamewith.jp/fefw/577851",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-88",
+        "label": "リルフィッシュ",
+        "url": "https://gamewith.jp/fefw/578214",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-89",
+        "label": "レッドフリッカ",
+        "url": "https://gamewith.jp/fefw/578036",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-ref-90",
+        "label": "ロカ",
+        "url": "https://gamewith.jp/fefw/578051",
+        "lastChecked": "2026-11-06",
+        "status": "복구 수량 상충은 큰 값으로 표시; 공식 한국어명 미확인 항목 원문 병기"
+      },
+      {
+        "id": "field-image-90",
+        "label": "Game8 · 게임 내 아이템 분류 아이콘",
+        "url": "https://game8.jp/fe-banshisenko/816980",
+        "lastChecked": "2026-11-06",
+        "status": "개별 사진 대신 계열·분류 아이콘 활용"
+      },
+      {
+        "id": "field-image-91",
+        "label": "Game8 · 탐색·재배 화면 예시",
+        "url": "https://game8.jp/fe-banshisenko/817234",
+        "lastChecked": "2026-11-06",
+        "status": "개별 사진 대신 계열·분류 아이콘 활용"
+      },
+      {
+        "id": "field-image-92",
+        "label": "GameWith · 레드 팔콘",
+        "url": "https://gamewith.jp/fefw/578535",
+        "lastChecked": "2026-11-06",
+        "status": "개별 사진 대신 계열·분류 아이콘 활용"
+      }
+    ]
   }
 ]
