@@ -27,3 +27,5 @@
 @media print{.squad-plan[hidden]{display:block!important}.squad-picker,.resource-toolbar{display:none}}
 
 .localized-name{overflow-wrap:anywhere}.ko-original{display:none;font-size:11px;color:var(--muted);font-weight:400;margin-left:5px}.show-original-names .ko-original{display:inline}.name-status{display:block;color:#edc992;font-size:10px;font-weight:400;line-height:1.6}.original-toggle{display:flex;align-items:center;gap:8px;margin-top:12px;font-size:13px;color:var(--muted)}.original-toggle input{accent-color:var(--accent);width:18px;height:18px}.restoration-card h3 .name-status{margin-top:5px}
+
+.creator-link{font-weight:700}.site-footer{padding:8px 18px 32px;border-top:1px solid var(--line);font-size:13px;color:var(--muted);overflow-wrap:anywhere}.site-footer p{margin:10px 0}.site-footer a{text-underline-offset:3px}.guide-original{font-weight:700}
